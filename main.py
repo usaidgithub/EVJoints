@@ -2,6 +2,7 @@ import requests
 import polyline
 import folium
 import math
+import time
 from config import GOOGLE_MAPS_API_KEY
 import json
 
@@ -10,6 +11,7 @@ import json
 # -----------------------------
 SOURCE = (19.110394346916838, 72.9255527657633)
 DESTINATION = (18.579607394136257, 73.90884169273019)
+ELEVATION_URL = "https://maps.googleapis.com/maps/api/elevation/json"
 #Harversine formula
 def haversine(p1, p2):
     lat1, lon1 = p1
@@ -60,7 +62,41 @@ def sample_route(route_points, step_m=50):
 
     return sampled
 
-#Save points in json file
+#elevation batch request 
+def fetch_elevations(points, batch_size=400):
+    enriched = []
+
+    for i in range(0, len(points), batch_size):
+        batch = points[i:i + batch_size]
+
+        locations = "|".join(
+            f"{lat},{lng}" for lat, lng in batch
+        )
+
+        params = {
+            "locations": locations,
+            "key": GOOGLE_MAPS_API_KEY
+        }
+
+        print(f"Fetching elevation batch {i//batch_size + 1}")
+
+        res = requests.get(ELEVATION_URL, params=params)
+        data = res.json()
+
+        if data["status"] != "OK":
+            raise Exception(data)
+
+        for pt, result in zip(batch, data["results"]):
+            enriched.append({
+                "lat": pt[0],
+                "lng": pt[1],
+                "elevation": result["elevation"]
+            })
+
+        time.sleep(0.2)  # rate-limit safety
+
+    return enriched
+#Save points in json fil
 def save_sampled_route(points, filename="sampled_route_50m.json"):
     with open(filename, "w") as f:
         json.dump(points, f, indent=2)
@@ -113,6 +149,33 @@ def plot_sampling_comparison(original, sampled, source, destination):
     folium.Marker(destination, tooltip="Destination", icon=folium.Icon(color="red")).add_to(m)
 
     m.save("route_sampling_50m.html")
+def plot_elevation_map(points_with_elevation, source, destination):
+    center_lat = (source[0] + destination[0]) / 2
+    center_lon = (source[1] + destination[1]) / 2
+
+    m = folium.Map(location=[center_lat, center_lon], zoom_start=7)
+
+    def elevation_color(e):
+        if e < 50:
+            return "green"
+        elif e < 200:
+            return "orange"
+        else:
+            return "red"
+
+    for pt in points_with_elevation:
+        folium.CircleMarker(
+            location=[pt["lat"], pt["lng"]],
+            radius=3,
+            color=elevation_color(pt["elevation"]),
+            fill=True,
+            fill_opacity=0.7
+        ).add_to(m)
+
+    folium.Marker(source, tooltip="Source", icon=folium.Icon(color="green")).add_to(m)
+    folium.Marker(destination, tooltip="Destination", icon=folium.Icon(color="red")).add_to(m)
+
+    m.save("route_step3_elevation.html")
 
 
 # -----------------------------
@@ -174,7 +237,23 @@ if __name__ == "__main__":
 
     plot_sampling_comparison(route_points, sampled_route, SOURCE, DESTINATION)
 
+    # STEP 3: FETCH ELEVATION
+
+    print("Fetching elevation data...")
+    sampled_with_elevation = fetch_elevations(sampled_route)
+
+    print(f"Elevation fetched for {len(sampled_with_elevation)} points")
+
+    # Save elevation-enriched data
+    with open("sampled_with_elevation_50m.json", "w") as f:
+        json.dump(sampled_with_elevation, f, indent=2)
+
+    print("Elevation data saved ✅")
+
     print("DONE ✅ Open route_sampling_50m.html")
+    plot_elevation_map(sampled_with_elevation, SOURCE, DESTINATION)
+    print("DONE ✅ Open route_step3_elevation.html")
+
     dists = [haversine(sampled_route[i-1], sampled_route[i]) for i in range(1, len(sampled_route))]
     print(min(dists), max(dists))
 
