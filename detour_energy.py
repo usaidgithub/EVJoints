@@ -93,7 +93,7 @@ def estimate_detour_energy(route_point, station):
     E_regen = (mass * g * descent_m) / 3.6e6 * regen_eff
 
     E_detour = E_flat + E_climb - E_regen
-
+    E_detour = max(E_detour, 0)
     return round(E_detour, 5)
 
 

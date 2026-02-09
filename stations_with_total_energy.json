@@ -247,9 +247,9 @@
         "energy_from_source_kwh": 28.8935,
         "battery_used_pct": 64.21,
         "soc_remaining_pct": 35.79,
-        "detour_energy_kwh": -0.01952,
-        "total_energy_to_station_kwh": 28.874,
-        "soc_remaining_at_station_pct": 35.84
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 28.8935,
+        "soc_remaining_at_station_pct": 35.79
       },
       {
         "route_idx": 3081,
@@ -257,9 +257,9 @@
         "energy_from_source_kwh": 28.8818,
         "battery_used_pct": 64.18,
         "soc_remaining_pct": 35.82,
-        "detour_energy_kwh": -0.01399,
-        "total_energy_to_station_kwh": 28.8678,
-        "soc_remaining_at_station_pct": 35.85
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 28.8818,
+        "soc_remaining_at_station_pct": 35.82
       },
       {
         "route_idx": 3083,
@@ -267,9 +267,9 @@
         "energy_from_source_kwh": 28.8985,
         "battery_used_pct": 64.22,
         "soc_remaining_pct": 35.78,
-        "detour_energy_kwh": -0.01504,
-        "total_energy_to_station_kwh": 28.8835,
-        "soc_remaining_at_station_pct": 35.81
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 28.8985,
+        "soc_remaining_at_station_pct": 35.78
       },
       {
         "route_idx": 3080,
@@ -277,9 +277,9 @@
         "energy_from_source_kwh": 28.879,
         "battery_used_pct": 64.18,
         "soc_remaining_pct": 35.82,
-        "detour_energy_kwh": -0.00993,
-        "total_energy_to_station_kwh": 28.8691,
-        "soc_remaining_at_station_pct": 35.85
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 28.879,
+        "soc_remaining_at_station_pct": 35.82
       },
       {
         "route_idx": 3084,
@@ -287,9 +287,9 @@
         "energy_from_source_kwh": 28.9037,
         "battery_used_pct": 64.23,
         "soc_remaining_pct": 35.77,
-        "detour_energy_kwh": -0.00802,
-        "total_energy_to_station_kwh": 28.8957,
-        "soc_remaining_at_station_pct": 35.79
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 28.9037,
+        "soc_remaining_at_station_pct": 35.77
       }
     ]
   },
@@ -10635,9 +10635,9 @@
         "energy_from_source_kwh": 27.5075,
         "battery_used_pct": 61.13,
         "soc_remaining_pct": 38.87,
-        "detour_energy_kwh": -0.01451,
-        "total_energy_to_station_kwh": 27.493,
-        "soc_remaining_at_station_pct": 38.9
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 27.5075,
+        "soc_remaining_at_station_pct": 38.87
       },
       {
         "route_idx": 2904,
@@ -10645,9 +10645,9 @@
         "energy_from_source_kwh": 27.5009,
         "battery_used_pct": 61.11,
         "soc_remaining_pct": 38.89,
-        "detour_energy_kwh": -0.01283,
-        "total_energy_to_station_kwh": 27.4881,
-        "soc_remaining_at_station_pct": 38.92
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 27.5009,
+        "soc_remaining_at_station_pct": 38.89
       },
       {
         "route_idx": 2906,
@@ -10655,9 +10655,9 @@
         "energy_from_source_kwh": 27.5104,
         "battery_used_pct": 61.13,
         "soc_remaining_pct": 38.87,
-        "detour_energy_kwh": -0.00935,
-        "total_energy_to_station_kwh": 27.501,
-        "soc_remaining_at_station_pct": 38.89
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 27.5104,
+        "soc_remaining_at_station_pct": 38.87
       },
       {
         "route_idx": 2903,
@@ -10665,9 +10665,9 @@
         "energy_from_source_kwh": 27.4895,
         "battery_used_pct": 61.09,
         "soc_remaining_pct": 38.91,
-        "detour_energy_kwh": -0.00616,
-        "total_energy_to_station_kwh": 27.4833,
-        "soc_remaining_at_station_pct": 38.93
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 27.4895,
+        "soc_remaining_at_station_pct": 38.91
       },
       {
         "route_idx": 2907,
@@ -10675,9 +10675,9 @@
         "energy_from_source_kwh": 27.5222,
         "battery_used_pct": 61.16,
         "soc_remaining_pct": 38.84,
-        "detour_energy_kwh": -0.00612,
-        "total_energy_to_station_kwh": 27.5161,
-        "soc_remaining_at_station_pct": 38.85
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 27.5222,
+        "soc_remaining_at_station_pct": 38.84
       }
     ]
   },
@@ -19847,9 +19847,9 @@
         "energy_from_source_kwh": 0.139,
         "battery_used_pct": 0.31,
         "soc_remaining_pct": 99.69,
-        "detour_energy_kwh": -0.02252,
-        "total_energy_to_station_kwh": 0.1165,
-        "soc_remaining_at_station_pct": 99.74
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 0.139,
+        "soc_remaining_at_station_pct": 99.69
       },
       {
         "route_idx": 22,
@@ -19857,9 +19857,9 @@
         "energy_from_source_kwh": 0.1322,
         "battery_used_pct": 0.29,
         "soc_remaining_pct": 99.71,
-        "detour_energy_kwh": -0.02199,
-        "total_energy_to_station_kwh": 0.1102,
-        "soc_remaining_at_station_pct": 99.76
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 0.1322,
+        "soc_remaining_at_station_pct": 99.71
       },
       {
         "route_idx": 24,
@@ -19867,9 +19867,9 @@
         "energy_from_source_kwh": 0.1451,
         "battery_used_pct": 0.32,
         "soc_remaining_pct": 99.68,
-        "detour_energy_kwh": -0.01712,
-        "total_energy_to_station_kwh": 0.128,
-        "soc_remaining_at_station_pct": 99.72
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 0.1451,
+        "soc_remaining_at_station_pct": 99.68
       },
       {
         "route_idx": 21,
@@ -19877,9 +19877,9 @@
         "energy_from_source_kwh": 0.122,
         "battery_used_pct": 0.27,
         "soc_remaining_pct": 99.73,
-        "detour_energy_kwh": -0.01476,
-        "total_energy_to_station_kwh": 0.1072,
-        "soc_remaining_at_station_pct": 99.76
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 0.122,
+        "soc_remaining_at_station_pct": 99.73
       },
       {
         "route_idx": 25,
@@ -19887,9 +19887,9 @@
         "energy_from_source_kwh": 0.1462,
         "battery_used_pct": 0.32,
         "soc_remaining_pct": 99.68,
-        "detour_energy_kwh": -0.00679,
-        "total_energy_to_station_kwh": 0.1394,
-        "soc_remaining_at_station_pct": 99.69
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 0.1462,
+        "soc_remaining_at_station_pct": 99.68
       }
     ]
   },
@@ -20337,9 +20337,9 @@
         "energy_from_source_kwh": 18.2858,
         "battery_used_pct": 40.64,
         "soc_remaining_pct": 59.36,
-        "detour_energy_kwh": -0.01753,
-        "total_energy_to_station_kwh": 18.2683,
-        "soc_remaining_at_station_pct": 59.4
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 18.2858,
+        "soc_remaining_at_station_pct": 59.36
       },
       {
         "route_idx": 1752,
@@ -20347,9 +20347,9 @@
         "energy_from_source_kwh": 18.2805,
         "battery_used_pct": 40.62,
         "soc_remaining_pct": 59.38,
-        "detour_energy_kwh": -0.01698,
-        "total_energy_to_station_kwh": 18.2635,
-        "soc_remaining_at_station_pct": 59.41
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 18.2805,
+        "soc_remaining_at_station_pct": 59.38
       },
       {
         "route_idx": 1754,
@@ -20357,9 +20357,9 @@
         "energy_from_source_kwh": 18.2998,
         "battery_used_pct": 40.67,
         "soc_remaining_pct": 59.33,
-        "detour_energy_kwh": -0.01896,
-        "total_energy_to_station_kwh": 18.2808,
-        "soc_remaining_at_station_pct": 59.38
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 18.2998,
+        "soc_remaining_at_station_pct": 59.33
       },
       {
         "route_idx": 1751,
@@ -20367,9 +20367,9 @@
         "energy_from_source_kwh": 18.286,
         "battery_used_pct": 40.64,
         "soc_remaining_pct": 59.36,
-        "detour_energy_kwh": -0.0237,
-        "total_energy_to_station_kwh": 18.2623,
-        "soc_remaining_at_station_pct": 59.42
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 18.286,
+        "soc_remaining_at_station_pct": 59.36
       },
       {
         "route_idx": 1755,
@@ -20377,9 +20377,9 @@
         "energy_from_source_kwh": 18.3034,
         "battery_used_pct": 40.67,
         "soc_remaining_pct": 59.33,
-        "detour_energy_kwh": -0.0141,
-        "total_energy_to_station_kwh": 18.2893,
-        "soc_remaining_at_station_pct": 59.36
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 18.3034,
+        "soc_remaining_at_station_pct": 59.33
       }
     ]
   },
@@ -20435,9 +20435,9 @@
         "energy_from_source_kwh": 24.1237,
         "battery_used_pct": 53.61,
         "soc_remaining_pct": 46.39,
-        "detour_energy_kwh": -0.01856,
-        "total_energy_to_station_kwh": 24.1051,
-        "soc_remaining_at_station_pct": 46.43
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 24.1237,
+        "soc_remaining_at_station_pct": 46.39
       },
       {
         "route_idx": 2441,
@@ -20445,9 +20445,9 @@
         "energy_from_source_kwh": 24.1413,
         "battery_used_pct": 53.65,
         "soc_remaining_pct": 46.35,
-        "detour_energy_kwh": -0.0217,
-        "total_energy_to_station_kwh": 24.1196,
-        "soc_remaining_at_station_pct": 46.4
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 24.1413,
+        "soc_remaining_at_station_pct": 46.35
       },
       {
         "route_idx": 2439,
@@ -20455,9 +20455,9 @@
         "energy_from_source_kwh": 24.1221,
         "battery_used_pct": 53.6,
         "soc_remaining_pct": 46.4,
-        "detour_energy_kwh": -0.01535,
-        "total_energy_to_station_kwh": 24.1067,
-        "soc_remaining_at_station_pct": 46.43
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 24.1221,
+        "soc_remaining_at_station_pct": 46.4
       },
       {
         "route_idx": 2442,
@@ -20465,9 +20465,9 @@
         "energy_from_source_kwh": 24.1452,
         "battery_used_pct": 53.66,
         "soc_remaining_pct": 46.34,
-        "detour_energy_kwh": -0.01387,
-        "total_energy_to_station_kwh": 24.1313,
-        "soc_remaining_at_station_pct": 46.37
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 24.1452,
+        "soc_remaining_at_station_pct": 46.34
       },
       {
         "route_idx": 2438,
@@ -20475,9 +20475,9 @@
         "energy_from_source_kwh": 24.1076,
         "battery_used_pct": 53.57,
         "soc_remaining_pct": 46.43,
-        "detour_energy_kwh": -0.00534,
-        "total_energy_to_station_kwh": 24.1023,
-        "soc_remaining_at_station_pct": 46.44
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 24.1076,
+        "soc_remaining_at_station_pct": 46.43
       }
     ]
   },
@@ -20533,9 +20533,9 @@
         "energy_from_source_kwh": 26.2975,
         "battery_used_pct": 58.44,
         "soc_remaining_pct": 41.56,
-        "detour_energy_kwh": -0.01362,
-        "total_energy_to_station_kwh": 26.2839,
-        "soc_remaining_at_station_pct": 41.59
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 26.2975,
+        "soc_remaining_at_station_pct": 41.56
       },
       {
         "route_idx": 2732,
@@ -20543,9 +20543,9 @@
         "energy_from_source_kwh": 26.304,
         "battery_used_pct": 58.45,
         "soc_remaining_pct": 41.55,
-        "detour_energy_kwh": -0.01365,
-        "total_energy_to_station_kwh": 26.2904,
-        "soc_remaining_at_station_pct": 41.58
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 26.304,
+        "soc_remaining_at_station_pct": 41.55
       },
       {
         "route_idx": 2730,
@@ -20553,9 +20553,9 @@
         "energy_from_source_kwh": 26.2901,
         "battery_used_pct": 58.42,
         "soc_remaining_pct": 41.58,
-        "detour_energy_kwh": -0.01094,
-        "total_energy_to_station_kwh": 26.2792,
-        "soc_remaining_at_station_pct": 41.6
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 26.2901,
+        "soc_remaining_at_station_pct": 41.58
       },
       {
         "route_idx": 2733,
@@ -20563,9 +20563,9 @@
         "energy_from_source_kwh": 26.3069,
         "battery_used_pct": 58.46,
         "soc_remaining_pct": 41.54,
-        "detour_energy_kwh": -0.00896,
-        "total_energy_to_station_kwh": 26.2979,
-        "soc_remaining_at_station_pct": 41.56
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 26.3069,
+        "soc_remaining_at_station_pct": 41.54
       },
       {
         "route_idx": 2729,
@@ -20573,9 +20573,9 @@
         "energy_from_source_kwh": 26.2762,
         "battery_used_pct": 58.39,
         "soc_remaining_pct": 41.61,
-        "detour_energy_kwh": -0.00427,
-        "total_energy_to_station_kwh": 26.2719,
-        "soc_remaining_at_station_pct": 41.62
+        "detour_energy_kwh": 0,
+        "total_energy_to_station_kwh": 26.2762,
+        "soc_remaining_at_station_pct": 41.61
       }
     ]
   },

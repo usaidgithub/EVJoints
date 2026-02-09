@@ -250,24 +250,24 @@
     "nearest_route_index": 3021,
     "candidate_detours": [
       {
-        "route_idx": 3021,
-        "distance_km": 0.821
-      },
-      {
         "route_idx": 3022,
         "distance_km": 0.819
       },
       {
-        "route_idx": 3020,
-        "distance_km": 0.825
+        "route_idx": 3021,
+        "distance_km": 0.821
       },
       {
         "route_idx": 3023,
         "distance_km": 0.821
       },
       {
-        "route_idx": 3019,
-        "distance_km": 0.832
+        "route_idx": 3020,
+        "distance_km": 0.825
+      },
+      {
+        "route_idx": 3024,
+        "distance_km": 0.826
       }
     ]
   },
@@ -330,11 +330,11 @@
         "distance_km": 3.937
       },
       {
-        "route_idx": 2918,
+        "route_idx": 2922,
         "distance_km": 3.953
       },
       {
-        "route_idx": 2922,
+        "route_idx": 2918,
         "distance_km": 3.953
       }
     ]
@@ -386,24 +386,24 @@
     "nearest_route_index": 2866,
     "candidate_detours": [
       {
-        "route_idx": 2866,
-        "distance_km": 3.325
-      },
-      {
-        "route_idx": 2867,
-        "distance_km": 3.323
+        "route_idx": 2869,
+        "distance_km": 3.322
       },
       {
         "route_idx": 2868,
         "distance_km": 3.323
       },
       {
-        "route_idx": 2869,
-        "distance_km": 3.322
+        "route_idx": 2870,
+        "distance_km": 3.323
       },
       {
-        "route_idx": 2865,
-        "distance_km": 3.33
+        "route_idx": 2867,
+        "distance_km": 3.323
+      },
+      {
+        "route_idx": 2871,
+        "distance_km": 3.325
       }
     ]
   },
@@ -454,24 +454,24 @@
     "nearest_route_index": 2870,
     "candidate_detours": [
       {
-        "route_idx": 2870,
-        "distance_km": 3.421
+        "route_idx": 2872,
+        "distance_km": 3.42
       },
       {
-        "route_idx": 2869,
-        "distance_km": 3.423
+        "route_idx": 2873,
+        "distance_km": 3.42
       },
       {
         "route_idx": 2871,
         "distance_km": 3.42
       },
       {
-        "route_idx": 2868,
-        "distance_km": 3.426
+        "route_idx": 2870,
+        "distance_km": 3.421
       },
       {
-        "route_idx": 2872,
-        "distance_km": 3.42
+        "route_idx": 2869,
+        "distance_km": 3.423
       }
     ]
   },
@@ -522,24 +522,24 @@
     "nearest_route_index": 2698,
     "candidate_detours": [
       {
-        "route_idx": 2698,
-        "distance_km": 1.594
-      },
-      {
-        "route_idx": 2697,
-        "distance_km": 1.598
+        "route_idx": 2700,
+        "distance_km": 1.593
       },
       {
         "route_idx": 2699,
         "distance_km": 1.593
       },
       {
-        "route_idx": 2696,
-        "distance_km": 1.602
+        "route_idx": 2701,
+        "distance_km": 1.594
       },
       {
-        "route_idx": 2700,
-        "distance_km": 1.593
+        "route_idx": 2698,
+        "distance_km": 1.594
+      },
+      {
+        "route_idx": 2702,
+        "distance_km": 1.597
       }
     ]
   },
@@ -590,24 +590,24 @@
     "nearest_route_index": 1716,
     "candidate_detours": [
       {
-        "route_idx": 1716,
-        "distance_km": 1.475
+        "route_idx": 1718,
+        "distance_km": 1.472
       },
       {
         "route_idx": 1717,
         "distance_km": 1.473
       },
       {
-        "route_idx": 1715,
-        "distance_km": 1.479
+        "route_idx": 1719,
+        "distance_km": 1.474
       },
       {
-        "route_idx": 1718,
-        "distance_km": 1.472
+        "route_idx": 1716,
+        "distance_km": 1.475
       },
       {
-        "route_idx": 1714,
-        "distance_km": 1.484
+        "route_idx": 1720,
+        "distance_km": 1.477
       }
     ]
   },
@@ -658,24 +658,24 @@
     "nearest_route_index": 945,
     "candidate_detours": [
       {
-        "route_idx": 945,
-        "distance_km": 1.798
-      },
-      {
-        "route_idx": 946,
-        "distance_km": 1.801
+        "route_idx": 943,
+        "distance_km": 1.797
       },
       {
         "route_idx": 944,
         "distance_km": 1.797
       },
       {
-        "route_idx": 947,
-        "distance_km": 1.806
+        "route_idx": 942,
+        "distance_km": 1.798
       },
       {
-        "route_idx": 943,
-        "distance_km": 1.797
+        "route_idx": 945,
+        "distance_km": 1.798
+      },
+      {
+        "route_idx": 941,
+        "distance_km": 1.8
       }
     ]
   },
@@ -726,24 +726,24 @@
     "nearest_route_index": 748,
     "candidate_detours": [
       {
+        "route_idx": 749,
+        "distance_km": 2.426
+      },
+      {
         "route_idx": 748,
         "distance_km": 2.427
       },
       {
-        "route_idx": 749,
-        "distance_km": 2.426
+        "route_idx": 750,
+        "distance_km": 2.431
       },
       {
         "route_idx": 747,
         "distance_km": 2.432
       },
       {
-        "route_idx": 746,
-        "distance_km": 2.438
-      },
-      {
-        "route_idx": 745,
-        "distance_km": 2.444
+        "route_idx": 751,
+        "distance_km": 2.437
       }
     ]
   },
@@ -930,24 +930,24 @@
     "nearest_route_index": 368,
     "candidate_detours": [
       {
-        "route_idx": 368,
-        "distance_km": 1.407
+        "route_idx": 419,
+        "distance_km": 1.342
       },
       {
-        "route_idx": 369,
-        "distance_km": 1.407
+        "route_idx": 418,
+        "distance_km": 1.343
       },
       {
-        "route_idx": 367,
-        "distance_km": 1.409
+        "route_idx": 420,
+        "distance_km": 1.344
       },
       {
-        "route_idx": 370,
-        "distance_km": 1.409
+        "route_idx": 417,
+        "distance_km": 1.345
       },
       {
-        "route_idx": 366,
-        "distance_km": 1.413
+        "route_idx": 421,
+        "distance_km": 1.347
       }
     ]
   },
@@ -998,11 +998,15 @@
     "nearest_route_index": 372,
     "candidate_detours": [
       {
+        "route_idx": 371,
+        "distance_km": 4.233
+      },
+      {
         "route_idx": 372,
         "distance_km": 4.233
       },
       {
-        "route_idx": 371,
+        "route_idx": 370,
         "distance_km": 4.233
       },
       {
@@ -1010,12 +1014,8 @@
         "distance_km": 4.234
       },
       {
-        "route_idx": 370,
-        "distance_km": 4.233
-      },
-      {
-        "route_idx": 374,
-        "distance_km": 4.235
+        "route_idx": 369,
+        "distance_km": 4.234
       }
     ]
   },
@@ -1354,8 +1354,8 @@
         "distance_km": 1.725
       },
       {
-        "route_idx": 6,
-        "distance_km": 1.732
+        "route_idx": 11,
+        "distance_km": 1.728
       }
     ]
   },
@@ -1546,20 +1546,20 @@
         "distance_km": 0.52
       },
       {
-        "route_idx": 90,
-        "distance_km": 0.523
-      },
-      {
         "route_idx": 88,
         "distance_km": 0.522
       },
       {
-        "route_idx": 91,
-        "distance_km": 0.531
+        "route_idx": 90,
+        "distance_km": 0.523
       },
       {
         "route_idx": 87,
         "distance_km": 0.529
+      },
+      {
+        "route_idx": 91,
+        "distance_km": 0.531
       }
     ]
   },
@@ -1618,12 +1618,12 @@
         "distance_km": 1.582
       },
       {
-        "route_idx": 133,
-        "distance_km": 1.598
-      },
-      {
         "route_idx": 130,
         "distance_km": 1.596
+      },
+      {
+        "route_idx": 133,
+        "distance_km": 1.598
       },
       {
         "route_idx": 129,
@@ -1678,24 +1678,24 @@
     "nearest_route_index": 180,
     "candidate_detours": [
       {
-        "route_idx": 180,
-        "distance_km": 0.915
-      },
-      {
         "route_idx": 179,
         "distance_km": 0.914
       },
       {
-        "route_idx": 181,
-        "distance_km": 0.919
+        "route_idx": 180,
+        "distance_km": 0.915
       },
       {
         "route_idx": 178,
         "distance_km": 0.915
       },
       {
-        "route_idx": 182,
-        "distance_km": 0.926
+        "route_idx": 181,
+        "distance_km": 0.919
+      },
+      {
+        "route_idx": 177,
+        "distance_km": 0.919
       }
     ]
   },
@@ -1746,24 +1746,24 @@
     "nearest_route_index": 173,
     "candidate_detours": [
       {
-        "route_idx": 173,
-        "distance_km": 1.055
-      },
-      {
         "route_idx": 174,
         "distance_km": 1.053
-      },
-      {
-        "route_idx": 172,
-        "distance_km": 1.059
       },
       {
         "route_idx": 175,
         "distance_km": 1.054
       },
       {
-        "route_idx": 171,
-        "distance_km": 1.065
+        "route_idx": 173,
+        "distance_km": 1.055
+      },
+      {
+        "route_idx": 176,
+        "distance_km": 1.058
+      },
+      {
+        "route_idx": 172,
+        "distance_km": 1.059
       }
     ]
   },
@@ -1814,24 +1814,24 @@
     "nearest_route_index": 164,
     "candidate_detours": [
       {
-        "route_idx": 164,
-        "distance_km": 0.912
-      },
-      {
         "route_idx": 165,
         "distance_km": 0.911
       },
       {
-        "route_idx": 163,
-        "distance_km": 0.916
+        "route_idx": 164,
+        "distance_km": 0.912
       },
       {
         "route_idx": 166,
         "distance_km": 0.912
       },
       {
-        "route_idx": 162,
-        "distance_km": 0.923
+        "route_idx": 163,
+        "distance_km": 0.916
+      },
+      {
+        "route_idx": 167,
+        "distance_km": 0.917
       }
     ]
   },
@@ -1882,24 +1882,24 @@
     "nearest_route_index": 162,
     "candidate_detours": [
       {
-        "route_idx": 162,
-        "distance_km": 1.804
+        "route_idx": 164,
+        "distance_km": 1.802
       },
       {
         "route_idx": 163,
         "distance_km": 1.802
       },
       {
-        "route_idx": 161,
-        "distance_km": 1.807
+        "route_idx": 165,
+        "distance_km": 1.803
       },
       {
-        "route_idx": 164,
-        "distance_km": 1.802
+        "route_idx": 162,
+        "distance_km": 1.804
       },
       {
-        "route_idx": 160,
-        "distance_km": 1.811
+        "route_idx": 166,
+        "distance_km": 1.805
       }
     ]
   },
@@ -1966,8 +1966,8 @@
         "distance_km": 4.154
       },
       {
-        "route_idx": 143,
-        "distance_km": 4.175
+        "route_idx": 148,
+        "distance_km": 4.164
       }
     ]
   },
@@ -2018,24 +2018,24 @@
     "nearest_route_index": 148,
     "candidate_detours": [
       {
-        "route_idx": 148,
-        "distance_km": 2.878
+        "route_idx": 152,
+        "distance_km": 2.872
       },
       {
-        "route_idx": 149,
-        "distance_km": 2.875
-      },
-      {
-        "route_idx": 147,
-        "distance_km": 2.882
+        "route_idx": 151,
+        "distance_km": 2.872
       },
       {
         "route_idx": 150,
         "distance_km": 2.873
       },
       {
-        "route_idx": 146,
-        "distance_km": 2.886
+        "route_idx": 149,
+        "distance_km": 2.875
+      },
+      {
+        "route_idx": 148,
+        "distance_km": 2.878
       }
     ]
   },
@@ -2086,24 +2086,24 @@
     "nearest_route_index": 365,
     "candidate_detours": [
       {
-        "route_idx": 365,
-        "distance_km": 4.291
-      },
-      {
         "route_idx": 364,
         "distance_km": 4.29
-      },
-      {
-        "route_idx": 366,
-        "distance_km": 4.292
       },
       {
         "route_idx": 363,
         "distance_km": 4.291
       },
       {
-        "route_idx": 367,
-        "distance_km": 4.293
+        "route_idx": 365,
+        "distance_km": 4.291
+      },
+      {
+        "route_idx": 362,
+        "distance_km": 4.291
+      },
+      {
+        "route_idx": 366,
+        "distance_km": 4.292
       }
     ]
   },
@@ -2162,12 +2162,12 @@
         "distance_km": 2.43
       },
       {
-        "route_idx": 2964,
-        "distance_km": 2.466
-      },
-      {
         "route_idx": 2961,
         "distance_km": 2.465
+      },
+      {
+        "route_idx": 2964,
+        "distance_km": 2.466
       },
       {
         "route_idx": 2960,
@@ -2290,24 +2290,24 @@
     "nearest_route_index": 3046,
     "candidate_detours": [
       {
-        "route_idx": 3046,
-        "distance_km": 1.371
-      },
-      {
-        "route_idx": 3047,
-        "distance_km": 1.374
-      },
-      {
         "route_idx": 3045,
         "distance_km": 1.37
       },
       {
-        "route_idx": 3048,
-        "distance_km": 1.379
-      },
-      {
         "route_idx": 3044,
         "distance_km": 1.37
+      },
+      {
+        "route_idx": 3046,
+        "distance_km": 1.371
+      },
+      {
+        "route_idx": 3043,
+        "distance_km": 1.372
+      },
+      {
+        "route_idx": 3047,
+        "distance_km": 1.374
       }
     ]
   },
@@ -2370,12 +2370,12 @@
         "distance_km": 2.301
       },
       {
-        "route_idx": 506,
-        "distance_km": 2.308
+        "route_idx": 510,
+        "distance_km": 2.305
       },
       {
-        "route_idx": 505,
-        "distance_km": 2.316
+        "route_idx": 506,
+        "distance_km": 2.308
       }
     ]
   },
@@ -2698,20 +2698,20 @@
     "nearest_route_index": 3003,
     "candidate_detours": [
       {
-        "route_idx": 3003,
-        "distance_km": 1.494
-      },
-      {
         "route_idx": 3004,
         "distance_km": 1.493
       },
       {
-        "route_idx": 3002,
-        "distance_km": 1.496
+        "route_idx": 3003,
+        "distance_km": 1.494
       },
       {
         "route_idx": 3005,
         "distance_km": 1.494
+      },
+      {
+        "route_idx": 3002,
+        "distance_km": 1.496
       },
       {
         "route_idx": 3001,
@@ -2766,24 +2766,24 @@
     "nearest_route_index": 2562,
     "candidate_detours": [
       {
-        "route_idx": 2562,
-        "distance_km": 4.455
+        "route_idx": 2622,
+        "distance_km": 4.412
       },
       {
-        "route_idx": 2563,
-        "distance_km": 4.454
+        "route_idx": 2623,
+        "distance_km": 4.412
       },
       {
-        "route_idx": 2561,
-        "distance_km": 4.457
+        "route_idx": 2621,
+        "distance_km": 4.412
       },
       {
-        "route_idx": 2557,
-        "distance_km": 4.46
+        "route_idx": 2624,
+        "distance_km": 4.413
       },
       {
-        "route_idx": 2558,
-        "distance_km": 4.46
+        "route_idx": 2620,
+        "distance_km": 4.413
       }
     ]
   },
@@ -2838,20 +2838,20 @@
         "distance_km": 1.625
       },
       {
-        "route_idx": 353,
-        "distance_km": 1.626
-      },
-      {
         "route_idx": 351,
         "distance_km": 1.625
       },
       {
-        "route_idx": 354,
-        "distance_km": 1.628
+        "route_idx": 353,
+        "distance_km": 1.626
       },
       {
         "route_idx": 350,
         "distance_km": 1.627
+      },
+      {
+        "route_idx": 354,
+        "distance_km": 1.628
       }
     ]
   },
@@ -2980,14 +2980,6 @@
       {
         "route_idx": 134,
         "distance_km": 4.973
-      },
-      {
-        "route_idx": 135,
-        "distance_km": 5.002
-      },
-      {
-        "route_idx": 131,
-        "distance_km": 5.006
       }
     ]
   },
@@ -3254,12 +3246,12 @@
         "distance_km": 2.103
       },
       {
-        "route_idx": 393,
-        "distance_km": 2.11
-      },
-      {
         "route_idx": 389,
         "distance_km": 2.108
+      },
+      {
+        "route_idx": 393,
+        "distance_km": 2.11
       }
     ]
   },
@@ -3326,8 +3318,8 @@
         "distance_km": 1.561
       },
       {
-        "route_idx": 12,
-        "distance_km": 1.57
+        "route_idx": 1,
+        "distance_km": 1.568
       }
     ]
   },
@@ -3394,8 +3386,8 @@
         "distance_km": 1.735
       },
       {
-        "route_idx": 6,
-        "distance_km": 1.741
+        "route_idx": 11,
+        "distance_km": 1.738
       }
     ]
   },
@@ -3446,23 +3438,23 @@
     "nearest_route_index": 8,
     "candidate_detours": [
       {
-        "route_idx": 8,
-        "distance_km": 1.765
+        "route_idx": 14,
+        "distance_km": 1.759
       },
       {
-        "route_idx": 7,
-        "distance_km": 1.767
+        "route_idx": 15,
+        "distance_km": 1.76
       },
       {
-        "route_idx": 9,
-        "distance_km": 1.763
-      },
-      {
-        "route_idx": 10,
-        "distance_km": 1.762
+        "route_idx": 12,
+        "distance_km": 1.76
       },
       {
         "route_idx": 11,
+        "distance_km": 1.76
+      },
+      {
+        "route_idx": 13,
         "distance_km": 1.76
       }
     ]
@@ -3526,12 +3518,12 @@
         "distance_km": 2.031
       },
       {
-        "route_idx": 12,
-        "distance_km": 2.037
-      },
-      {
         "route_idx": 0,
         "distance_km": 2.034
+      },
+      {
+        "route_idx": 12,
+        "distance_km": 2.037
       }
     ]
   },
@@ -3594,12 +3586,12 @@
         "distance_km": 1.28
       },
       {
-        "route_idx": 6,
-        "distance_km": 1.289
-      },
-      {
         "route_idx": 10,
         "distance_km": 1.286
+      },
+      {
+        "route_idx": 6,
+        "distance_km": 1.289
       }
     ]
   },
@@ -3658,11 +3650,11 @@
         "distance_km": 1.366
       },
       {
-        "route_idx": 6,
+        "route_idx": 9,
         "distance_km": 1.379
       },
       {
-        "route_idx": 9,
+        "route_idx": 6,
         "distance_km": 1.379
       },
       {
@@ -3726,12 +3718,12 @@
         "distance_km": 2.223
       },
       {
-        "route_idx": 12,
-        "distance_km": 2.229
-      },
-      {
         "route_idx": 13,
         "distance_km": 2.227
+      },
+      {
+        "route_idx": 12,
+        "distance_km": 2.229
       },
       {
         "route_idx": 11,
@@ -3786,11 +3778,11 @@
     "nearest_route_index": 7,
     "candidate_detours": [
       {
-        "route_idx": 7,
+        "route_idx": 8,
         "distance_km": 1.707
       },
       {
-        "route_idx": 8,
+        "route_idx": 7,
         "distance_km": 1.707
       },
       {
@@ -3854,24 +3846,24 @@
     "nearest_route_index": 8,
     "candidate_detours": [
       {
-        "route_idx": 8,
-        "distance_km": 1.664
+        "route_idx": 11,
+        "distance_km": 1.661
       },
       {
-        "route_idx": 7,
-        "distance_km": 1.666
-      },
-      {
-        "route_idx": 9,
-        "distance_km": 1.663
+        "route_idx": 12,
+        "distance_km": 1.662
       },
       {
         "route_idx": 10,
         "distance_km": 1.662
       },
       {
-        "route_idx": 11,
-        "distance_km": 1.661
+        "route_idx": 9,
+        "distance_km": 1.663
+      },
+      {
+        "route_idx": 14,
+        "distance_km": 1.663
       }
     ]
   },
@@ -3934,12 +3926,12 @@
         "distance_km": 1.831
       },
       {
-        "route_idx": 6,
-        "distance_km": 1.839
-      },
-      {
         "route_idx": 10,
         "distance_km": 1.836
+      },
+      {
+        "route_idx": 6,
+        "distance_km": 1.839
       }
     ]
   },
@@ -4006,7 +3998,7 @@
         "distance_km": 1.318
       },
       {
-        "route_idx": 5,
+        "route_idx": 10,
         "distance_km": 1.325
       }
     ]
@@ -4070,12 +4062,12 @@
         "distance_km": 4.708
       },
       {
-        "route_idx": 131,
-        "distance_km": 4.74
-      },
-      {
         "route_idx": 135,
         "distance_km": 4.738
+      },
+      {
+        "route_idx": 131,
+        "distance_km": 4.74
       }
     ]
   },
@@ -4126,24 +4118,24 @@
     "nearest_route_index": 2689,
     "candidate_detours": [
       {
-        "route_idx": 2689,
-        "distance_km": 1.781
-      },
-      {
-        "route_idx": 2690,
-        "distance_km": 1.784
+        "route_idx": 2687,
+        "distance_km": 1.78
       },
       {
         "route_idx": 2688,
         "distance_km": 1.78
       },
       {
-        "route_idx": 2691,
-        "distance_km": 1.789
+        "route_idx": 2686,
+        "distance_km": 1.781
       },
       {
-        "route_idx": 2687,
-        "distance_km": 1.78
+        "route_idx": 2689,
+        "distance_km": 1.781
+      },
+      {
+        "route_idx": 2685,
+        "distance_km": 1.783
       }
     ]
   },
@@ -4678,11 +4670,11 @@
         "distance_km": 1.413
       },
       {
-        "route_idx": 6,
+        "route_idx": 9,
         "distance_km": 1.426
       },
       {
-        "route_idx": 9,
+        "route_idx": 6,
         "distance_km": 1.426
       },
       {
@@ -4738,6 +4730,14 @@
     "nearest_route_index": 2594,
     "candidate_detours": [
       {
+        "route_idx": 2592,
+        "distance_km": 4.563
+      },
+      {
+        "route_idx": 2593,
+        "distance_km": 4.565
+      },
+      {
         "route_idx": 2594,
         "distance_km": 4.567
       },
@@ -4746,16 +4746,8 @@
         "distance_km": 4.57
       },
       {
-        "route_idx": 2593,
-        "distance_km": 4.565
-      },
-      {
         "route_idx": 2596,
         "distance_km": 4.573
-      },
-      {
-        "route_idx": 2592,
-        "distance_km": 4.563
       }
     ]
   },
@@ -4806,24 +4798,24 @@
     "nearest_route_index": 174,
     "candidate_detours": [
       {
-        "route_idx": 174,
-        "distance_km": 2.87
-      },
-      {
-        "route_idx": 175,
-        "distance_km": 2.868
-      },
-      {
-        "route_idx": 173,
-        "distance_km": 2.873
+        "route_idx": 177,
+        "distance_km": 2.866
       },
       {
         "route_idx": 176,
         "distance_km": 2.866
       },
       {
-        "route_idx": 172,
-        "distance_km": 2.877
+        "route_idx": 178,
+        "distance_km": 2.867
+      },
+      {
+        "route_idx": 175,
+        "distance_km": 2.868
+      },
+      {
+        "route_idx": 179,
+        "distance_km": 2.868
       }
     ]
   },
@@ -5022,12 +5014,12 @@
         "distance_km": 2.22
       },
       {
-        "route_idx": 20,
-        "distance_km": 2.23
-      },
-      {
         "route_idx": 16,
         "distance_km": 2.228
+      },
+      {
+        "route_idx": 20,
+        "distance_km": 2.23
       }
     ]
   },
@@ -5146,24 +5138,24 @@
     "nearest_route_index": 1061,
     "candidate_detours": [
       {
-        "route_idx": 1061,
-        "distance_km": 3.165
+        "route_idx": 1058,
+        "distance_km": 3.162
       },
       {
-        "route_idx": 1062,
-        "distance_km": 3.168
+        "route_idx": 1059,
+        "distance_km": 3.162
+      },
+      {
+        "route_idx": 1057,
+        "distance_km": 3.163
       },
       {
         "route_idx": 1060,
         "distance_km": 3.163
       },
       {
-        "route_idx": 1063,
-        "distance_km": 3.171
-      },
-      {
-        "route_idx": 1059,
-        "distance_km": 3.162
+        "route_idx": 1056,
+        "distance_km": 3.164
       }
     ]
   },
@@ -5282,24 +5274,24 @@
     "nearest_route_index": 748,
     "candidate_detours": [
       {
+        "route_idx": 749,
+        "distance_km": 2.454
+      },
+      {
         "route_idx": 748,
         "distance_km": 2.455
       },
       {
-        "route_idx": 749,
-        "distance_km": 2.454
+        "route_idx": 750,
+        "distance_km": 2.459
       },
       {
         "route_idx": 747,
         "distance_km": 2.46
       },
       {
-        "route_idx": 746,
+        "route_idx": 751,
         "distance_km": 2.465
-      },
-      {
-        "route_idx": 745,
-        "distance_km": 2.471
       }
     ]
   },
@@ -5562,12 +5554,12 @@
         "distance_km": 1.913
       },
       {
-        "route_idx": 1655,
-        "distance_km": 1.926
-      },
-      {
         "route_idx": 1652,
         "distance_km": 1.923
+      },
+      {
+        "route_idx": 1655,
+        "distance_km": 1.926
       },
       {
         "route_idx": 1651,
@@ -5762,20 +5754,20 @@
         "distance_km": 1.634
       },
       {
-        "route_idx": 3000,
-        "distance_km": 1.635
-      },
-      {
         "route_idx": 3002,
         "distance_km": 1.634
       },
       {
-        "route_idx": 2999,
-        "distance_km": 1.638
+        "route_idx": 3000,
+        "distance_km": 1.635
       },
       {
         "route_idx": 3003,
         "distance_km": 1.636
+      },
+      {
+        "route_idx": 2999,
+        "distance_km": 1.638
       }
     ]
   },
@@ -5838,12 +5830,12 @@
         "distance_km": 4.612
       },
       {
-        "route_idx": 133,
-        "distance_km": 4.629
-      },
-      {
         "route_idx": 129,
         "distance_km": 4.62
+      },
+      {
+        "route_idx": 128,
+        "distance_km": 4.629
       }
     ]
   },
@@ -5966,20 +5958,20 @@
         "distance_km": 0.436
       },
       {
-        "route_idx": 74,
-        "distance_km": 0.44
-      },
-      {
         "route_idx": 72,
         "distance_km": 0.437
       },
       {
-        "route_idx": 75,
-        "distance_km": 0.451
+        "route_idx": 74,
+        "distance_km": 0.44
       },
       {
         "route_idx": 71,
         "distance_km": 0.443
+      },
+      {
+        "route_idx": 75,
+        "distance_km": 0.451
       }
     ]
   },
@@ -6234,24 +6226,24 @@
     "nearest_route_index": 177,
     "candidate_detours": [
       {
-        "route_idx": 177,
-        "distance_km": 1.789
+        "route_idx": 179,
+        "distance_km": 1.787
       },
       {
         "route_idx": 178,
         "distance_km": 1.787
       },
       {
-        "route_idx": 176,
-        "distance_km": 1.792
-      },
-      {
-        "route_idx": 179,
+        "route_idx": 180,
         "distance_km": 1.787
       },
       {
-        "route_idx": 175,
-        "distance_km": 1.797
+        "route_idx": 177,
+        "distance_km": 1.789
+      },
+      {
+        "route_idx": 181,
+        "distance_km": 1.79
       }
     ]
   },
@@ -6306,19 +6298,19 @@
         "distance_km": 0.086
       },
       {
-        "route_idx": 1358,
-        "distance_km": 0.1
-      },
-      {
         "route_idx": 1360,
         "distance_km": 0.1
       },
       {
-        "route_idx": 1357,
-        "distance_km": 0.132
+        "route_idx": 1358,
+        "distance_km": 0.1
       },
       {
         "route_idx": 1361,
+        "distance_km": 0.132
+      },
+      {
+        "route_idx": 1357,
         "distance_km": 0.132
       }
     ]
@@ -6438,24 +6430,24 @@
     "nearest_route_index": 2776,
     "candidate_detours": [
       {
-        "route_idx": 2776,
-        "distance_km": 1.589
+        "route_idx": 2774,
+        "distance_km": 1.586
+      },
+      {
+        "route_idx": 2773,
+        "distance_km": 1.587
       },
       {
         "route_idx": 2775,
         "distance_km": 1.586
       },
       {
-        "route_idx": 2777,
-        "distance_km": 1.592
+        "route_idx": 2772,
+        "distance_km": 1.589
       },
       {
-        "route_idx": 2774,
-        "distance_km": 1.586
-      },
-      {
-        "route_idx": 2778,
-        "distance_km": 1.598
+        "route_idx": 2776,
+        "distance_km": 1.589
       }
     ]
   },
@@ -6514,16 +6506,16 @@
         "distance_km": 4.002
       },
       {
-        "route_idx": 134,
-        "distance_km": 4.039
-      },
-      {
         "route_idx": 131,
         "distance_km": 4.039
       },
       {
-        "route_idx": 135,
-        "distance_km": 4.079
+        "route_idx": 134,
+        "distance_km": 4.039
+      },
+      {
+        "route_idx": 130,
+        "distance_km": 4.078
       }
     ]
   },
@@ -6650,16 +6642,16 @@
         "distance_km": 3.26
       },
       {
-        "route_idx": 2493,
-        "distance_km": 3.269
-      },
-      {
         "route_idx": 2496,
         "distance_km": 3.269
       },
       {
-        "route_idx": 2492,
-        "distance_km": 3.28
+        "route_idx": 2493,
+        "distance_km": 3.269
+      },
+      {
+        "route_idx": 2497,
+        "distance_km": 3.278
       }
     ]
   },
@@ -6718,16 +6710,16 @@
         "distance_km": 3.273
       },
       {
-        "route_idx": 2493,
-        "distance_km": 3.282
-      },
-      {
         "route_idx": 2496,
         "distance_km": 3.281
       },
       {
-        "route_idx": 2492,
-        "distance_km": 3.292
+        "route_idx": 2493,
+        "distance_km": 3.282
+      },
+      {
+        "route_idx": 2497,
+        "distance_km": 3.29
       }
     ]
   },
@@ -6782,16 +6774,16 @@
         "distance_km": 2.944
       },
       {
-        "route_idx": 2494,
-        "distance_km": 2.95
-      },
-      {
         "route_idx": 2496,
         "distance_km": 2.946
       },
       {
         "route_idx": 2497,
         "distance_km": 2.949
+      },
+      {
+        "route_idx": 2494,
+        "distance_km": 2.95
       },
       {
         "route_idx": 2498,
@@ -6858,12 +6850,12 @@
         "distance_km": 4.576
       },
       {
-        "route_idx": 144,
-        "distance_km": 4.589
-      },
-      {
         "route_idx": 148,
         "distance_km": 4.581
+      },
+      {
+        "route_idx": 149,
+        "distance_km": 4.586
       }
     ]
   },
@@ -6926,12 +6918,12 @@
         "distance_km": 3.96
       },
       {
-        "route_idx": 143,
-        "distance_km": 3.978
-      },
-      {
         "route_idx": 147,
         "distance_km": 3.974
+      },
+      {
+        "route_idx": 143,
+        "distance_km": 3.978
       }
     ]
   },
@@ -6982,24 +6974,24 @@
     "nearest_route_index": 2668,
     "candidate_detours": [
       {
-        "route_idx": 2668,
-        "distance_km": 4.557
+        "route_idx": 2664,
+        "distance_km": 4.552
       },
       {
-        "route_idx": 2667,
-        "distance_km": 4.555
+        "route_idx": 2663,
+        "distance_km": 4.552
       },
       {
-        "route_idx": 2669,
-        "distance_km": 4.56
+        "route_idx": 2665,
+        "distance_km": 4.552
+      },
+      {
+        "route_idx": 2662,
+        "distance_km": 4.553
       },
       {
         "route_idx": 2666,
         "distance_km": 4.553
-      },
-      {
-        "route_idx": 2670,
-        "distance_km": 4.564
       }
     ]
   },
@@ -7050,24 +7042,24 @@
     "nearest_route_index": 2787,
     "candidate_detours": [
       {
-        "route_idx": 2787,
-        "distance_km": 2.331
-      },
-      {
-        "route_idx": 2786,
-        "distance_km": 2.328
-      },
-      {
-        "route_idx": 2788,
-        "distance_km": 2.334
+        "route_idx": 2784,
+        "distance_km": 2.327
       },
       {
         "route_idx": 2785,
         "distance_km": 2.327
       },
       {
-        "route_idx": 2789,
-        "distance_km": 2.339
+        "route_idx": 2783,
+        "distance_km": 2.328
+      },
+      {
+        "route_idx": 2786,
+        "distance_km": 2.328
+      },
+      {
+        "route_idx": 2782,
+        "distance_km": 2.331
       }
     ]
   },
@@ -7186,24 +7178,24 @@
     "nearest_route_index": 7,
     "candidate_detours": [
       {
-        "route_idx": 7,
-        "distance_km": 1.66
-      },
-      {
-        "route_idx": 8,
-        "distance_km": 1.658
-      },
-      {
-        "route_idx": 9,
-        "distance_km": 1.657
+        "route_idx": 11,
+        "distance_km": 1.656
       },
       {
         "route_idx": 10,
         "distance_km": 1.657
       },
       {
-        "route_idx": 11,
-        "distance_km": 1.656
+        "route_idx": 9,
+        "distance_km": 1.657
+      },
+      {
+        "route_idx": 12,
+        "distance_km": 1.657
+      },
+      {
+        "route_idx": 8,
+        "distance_km": 1.658
       }
     ]
   },
@@ -7254,12 +7246,12 @@
     "nearest_route_index": 7,
     "candidate_detours": [
       {
-        "route_idx": 7,
-        "distance_km": 1.767
-      },
-      {
         "route_idx": 8,
         "distance_km": 1.766
+      },
+      {
+        "route_idx": 7,
+        "distance_km": 1.767
       },
       {
         "route_idx": 9,
@@ -7466,12 +7458,12 @@
         "distance_km": 2.582
       },
       {
-        "route_idx": 133,
-        "distance_km": 2.6
-      },
-      {
         "route_idx": 130,
         "distance_km": 2.595
+      },
+      {
+        "route_idx": 133,
+        "distance_km": 2.6
       },
       {
         "route_idx": 129,
@@ -7594,24 +7586,24 @@
     "nearest_route_index": 2733,
     "candidate_detours": [
       {
-        "route_idx": 2733,
-        "distance_km": 4.449
+        "route_idx": 2738,
+        "distance_km": 4.443
       },
       {
-        "route_idx": 2734,
-        "distance_km": 4.447
+        "route_idx": 2737,
+        "distance_km": 4.443
       },
       {
-        "route_idx": 2732,
-        "distance_km": 4.452
+        "route_idx": 2739,
+        "distance_km": 4.444
       },
       {
-        "route_idx": 2735,
+        "route_idx": 2736,
+        "distance_km": 4.444
+      },
+      {
+        "route_idx": 2740,
         "distance_km": 4.445
-      },
-      {
-        "route_idx": 2731,
-        "distance_km": 4.456
       }
     ]
   },
@@ -7814,8 +7806,8 @@
         "distance_km": 1.566
       },
       {
-        "route_idx": 5,
-        "distance_km": 1.573
+        "route_idx": 10,
+        "distance_km": 1.572
       }
     ]
   },
@@ -7870,20 +7862,20 @@
         "distance_km": 1.815
       },
       {
-        "route_idx": 209,
-        "distance_km": 1.833
-      },
-      {
         "route_idx": 211,
         "distance_km": 1.829
       },
       {
-        "route_idx": 208,
-        "distance_km": 1.852
+        "route_idx": 209,
+        "distance_km": 1.833
       },
       {
         "route_idx": 212,
         "distance_km": 1.849
+      },
+      {
+        "route_idx": 208,
+        "distance_km": 1.852
       }
     ]
   },
@@ -7946,12 +7938,12 @@
         "distance_km": 2.575
       },
       {
-        "route_idx": 208,
-        "distance_km": 2.594
-      },
-      {
         "route_idx": 212,
         "distance_km": 2.587
+      },
+      {
+        "route_idx": 208,
+        "distance_km": 2.594
       }
     ]
   },
@@ -8014,12 +8006,12 @@
         "distance_km": 4.931
       },
       {
-        "route_idx": 144,
-        "distance_km": 4.944
-      },
-      {
         "route_idx": 148,
         "distance_km": 4.935
+      },
+      {
+        "route_idx": 149,
+        "distance_km": 4.94
       }
     ]
   },
@@ -8074,6 +8066,10 @@
         "distance_km": 3.21
       },
       {
+        "route_idx": 3039,
+        "distance_km": 3.212
+      },
+      {
         "route_idx": 3041,
         "distance_km": 3.214
       },
@@ -8082,12 +8078,8 @@
         "distance_km": 3.218
       },
       {
-        "route_idx": 3039,
-        "distance_km": 3.212
-      },
-      {
-        "route_idx": 3043,
-        "distance_km": 3.223
+        "route_idx": 3038,
+        "distance_km": 3.22
       }
     ]
   },
@@ -8150,12 +8142,12 @@
         "distance_km": 1.87
       },
       {
-        "route_idx": 590,
-        "distance_km": 1.878
-      },
-      {
         "route_idx": 594,
         "distance_km": 1.874
+      },
+      {
+        "route_idx": 590,
+        "distance_km": 1.878
       }
     ]
   },
@@ -8558,12 +8550,12 @@
         "distance_km": 2.056
       },
       {
-        "route_idx": 6,
-        "distance_km": 2.064
-      },
-      {
         "route_idx": 10,
         "distance_km": 2.061
+      },
+      {
+        "route_idx": 6,
+        "distance_km": 2.064
       }
     ]
   },
@@ -8614,15 +8606,15 @@
     "nearest_route_index": 7,
     "candidate_detours": [
       {
-        "route_idx": 7,
-        "distance_km": 1.525
-      },
-      {
         "route_idx": 8,
         "distance_km": 1.524
       },
       {
         "route_idx": 9,
+        "distance_km": 1.525
+      },
+      {
+        "route_idx": 7,
         "distance_km": 1.525
       },
       {
@@ -8682,15 +8674,11 @@
     "nearest_route_index": 7,
     "candidate_detours": [
       {
-        "route_idx": 7,
-        "distance_km": 1.609
-      },
-      {
-        "route_idx": 8,
+        "route_idx": 9,
         "distance_km": 1.607
       },
       {
-        "route_idx": 9,
+        "route_idx": 8,
         "distance_km": 1.607
       },
       {
@@ -8700,6 +8688,10 @@
       {
         "route_idx": 11,
         "distance_km": 1.608
+      },
+      {
+        "route_idx": 7,
+        "distance_km": 1.609
       }
     ]
   },
@@ -8818,11 +8810,11 @@
     "nearest_route_index": 133,
     "candidate_detours": [
       {
-        "route_idx": 133,
+        "route_idx": 132,
         "distance_km": 4.617
       },
       {
-        "route_idx": 132,
+        "route_idx": 133,
         "distance_km": 4.617
       },
       {
@@ -8902,7 +8894,7 @@
         "distance_km": 3.143
       },
       {
-        "route_idx": 5,
+        "route_idx": 10,
         "distance_km": 3.15
       }
     ]
@@ -9094,6 +9086,10 @@
         "distance_km": 4.056
       },
       {
+        "route_idx": 15,
+        "distance_km": 4.057
+      },
+      {
         "route_idx": 8,
         "distance_km": 4.057
       },
@@ -9102,12 +9098,8 @@
         "distance_km": 4.058
       },
       {
-        "route_idx": 10,
-        "distance_km": 4.059
-      },
-      {
-        "route_idx": 11,
-        "distance_km": 4.059
+        "route_idx": 14,
+        "distance_km": 4.058
       }
     ]
   },
@@ -9174,8 +9166,8 @@
         "distance_km": 3.652
       },
       {
-        "route_idx": 6,
-        "distance_km": 3.657
+        "route_idx": 11,
+        "distance_km": 3.655
       }
     ]
   },
@@ -9238,12 +9230,12 @@
         "distance_km": 3.65
       },
       {
-        "route_idx": 6,
-        "distance_km": 3.657
-      },
-      {
         "route_idx": 10,
         "distance_km": 3.655
+      },
+      {
+        "route_idx": 6,
+        "distance_km": 3.657
       }
     ]
   },
@@ -9362,24 +9354,24 @@
     "nearest_route_index": 2722,
     "candidate_detours": [
       {
-        "route_idx": 2722,
-        "distance_km": 4.984
+        "route_idx": 2728,
+        "distance_km": 4.977
       },
       {
-        "route_idx": 2721,
-        "distance_km": 4.987
+        "route_idx": 2727,
+        "distance_km": 4.977
       },
       {
-        "route_idx": 2723,
-        "distance_km": 4.981
+        "route_idx": 2729,
+        "distance_km": 4.978
       },
       {
-        "route_idx": 2720,
-        "distance_km": 4.99
+        "route_idx": 2726,
+        "distance_km": 4.977
       },
       {
-        "route_idx": 2724,
-        "distance_km": 4.98
+        "route_idx": 2730,
+        "distance_km": 4.979
       }
     ]
   },
@@ -9442,12 +9434,12 @@
         "distance_km": 1.108
       },
       {
-        "route_idx": 481,
-        "distance_km": 1.127
-      },
-      {
         "route_idx": 485,
         "distance_km": 1.123
+      },
+      {
+        "route_idx": 481,
+        "distance_km": 1.127
       }
     ]
   },
@@ -9506,16 +9498,16 @@
         "distance_km": 1.907
       },
       {
+        "route_idx": 16,
+        "distance_km": 1.915
+      },
+      {
         "route_idx": 0,
         "distance_km": 1.916
       },
       {
         "route_idx": 13,
         "distance_km": 1.922
-      },
-      {
-        "route_idx": 16,
-        "distance_km": 1.915
       }
     ]
   },
@@ -9582,7 +9574,7 @@
         "distance_km": 3.179
       },
       {
-        "route_idx": 5,
+        "route_idx": 10,
         "distance_km": 3.187
       }
     ]
@@ -9702,24 +9694,24 @@
     "nearest_route_index": 2751,
     "candidate_detours": [
       {
-        "route_idx": 2751,
-        "distance_km": 3.597
+        "route_idx": 2755,
+        "distance_km": 3.593
       },
       {
-        "route_idx": 2750,
-        "distance_km": 3.6
+        "route_idx": 2754,
+        "distance_km": 3.593
       },
       {
-        "route_idx": 2752,
-        "distance_km": 3.595
-      },
-      {
-        "route_idx": 2749,
-        "distance_km": 3.603
+        "route_idx": 2756,
+        "distance_km": 3.593
       },
       {
         "route_idx": 2753,
         "distance_km": 3.593
+      },
+      {
+        "route_idx": 2757,
+        "distance_km": 3.595
       }
     ]
   },
@@ -9854,8 +9846,8 @@
         "distance_km": 3.313
       },
       {
-        "route_idx": 5,
-        "distance_km": 3.32
+        "route_idx": 10,
+        "distance_km": 3.319
       }
     ]
   },
@@ -9922,8 +9914,8 @@
         "distance_km": 3.41
       },
       {
-        "route_idx": 5,
-        "distance_km": 3.416
+        "route_idx": 10,
+        "distance_km": 3.415
       }
     ]
   },
@@ -10110,24 +10102,24 @@
     "nearest_route_index": 11,
     "candidate_detours": [
       {
-        "route_idx": 11,
-        "distance_km": 1.512
+        "route_idx": 14,
+        "distance_km": 1.509
       },
       {
-        "route_idx": 10,
-        "distance_km": 1.515
+        "route_idx": 15,
+        "distance_km": 1.509
       },
       {
-        "route_idx": 9,
-        "distance_km": 1.518
+        "route_idx": 13,
+        "distance_km": 1.511
       },
       {
         "route_idx": 12,
         "distance_km": 1.511
       },
       {
-        "route_idx": 8,
-        "distance_km": 1.521
+        "route_idx": 11,
+        "distance_km": 1.512
       }
     ]
   },
@@ -10318,20 +10310,20 @@
         "distance_km": 3.149
       },
       {
-        "route_idx": 483,
-        "distance_km": 3.157
-      },
-      {
         "route_idx": 485,
         "distance_km": 3.153
+      },
+      {
+        "route_idx": 483,
+        "distance_km": 3.157
       },
       {
         "route_idx": 482,
         "distance_km": 3.166
       },
       {
-        "route_idx": 486,
-        "distance_km": 3.183
+        "route_idx": 501,
+        "distance_km": 3.171
       }
     ]
   },
@@ -10450,12 +10442,12 @@
     "nearest_route_index": 483,
     "candidate_detours": [
       {
-        "route_idx": 483,
-        "distance_km": 3.432
-      },
-      {
         "route_idx": 484,
         "distance_km": 3.429
+      },
+      {
+        "route_idx": 483,
+        "distance_km": 3.432
       },
       {
         "route_idx": 482,
@@ -10530,12 +10522,12 @@
         "distance_km": 2.023
       },
       {
-        "route_idx": 12,
-        "distance_km": 2.028
+        "route_idx": 0,
+        "distance_km": 2.027
       },
       {
-        "route_idx": 11,
-        "distance_km": 2.034
+        "route_idx": 12,
+        "distance_km": 2.028
       }
     ]
   },
@@ -10590,20 +10582,20 @@
         "distance_km": 3.012
       },
       {
-        "route_idx": 144,
-        "distance_km": 3.025
-      },
-      {
         "route_idx": 146,
         "distance_km": 3.024
       },
       {
-        "route_idx": 143,
-        "distance_km": 3.044
+        "route_idx": 144,
+        "distance_km": 3.025
       },
       {
         "route_idx": 147,
         "distance_km": 3.037
+      },
+      {
+        "route_idx": 143,
+        "distance_km": 3.044
       }
     ]
   },
@@ -10670,8 +10662,8 @@
         "distance_km": 1.235
       },
       {
-        "route_idx": 3009,
-        "distance_km": 1.26
+        "route_idx": 3004,
+        "distance_km": 1.255
       }
     ]
   },
@@ -10994,24 +10986,24 @@
     "nearest_route_index": 2686,
     "candidate_detours": [
       {
-        "route_idx": 2686,
-        "distance_km": 0.992
-      },
-      {
-        "route_idx": 2687,
-        "distance_km": 0.996
-      },
-      {
         "route_idx": 2685,
         "distance_km": 0.991
       },
       {
-        "route_idx": 2688,
-        "distance_km": 1.002
-      },
-      {
         "route_idx": 2684,
         "distance_km": 0.992
+      },
+      {
+        "route_idx": 2686,
+        "distance_km": 0.992
+      },
+      {
+        "route_idx": 2683,
+        "distance_km": 0.996
+      },
+      {
+        "route_idx": 2687,
+        "distance_km": 0.996
       }
     ]
   },
@@ -11066,20 +11058,20 @@
         "distance_km": 1.663
       },
       {
-        "route_idx": 3040,
-        "distance_km": 1.666
-      },
-      {
         "route_idx": 3038,
         "distance_km": 1.666
       },
       {
-        "route_idx": 3041,
-        "distance_km": 1.675
+        "route_idx": 3040,
+        "distance_km": 1.666
       },
       {
         "route_idx": 3037,
         "distance_km": 1.672
+      },
+      {
+        "route_idx": 3041,
+        "distance_km": 1.675
       }
     ]
   },
@@ -11130,24 +11122,24 @@
     "nearest_route_index": 2726,
     "candidate_detours": [
       {
-        "route_idx": 2726,
-        "distance_km": 2.922
+        "route_idx": 2729,
+        "distance_km": 2.918
       },
       {
-        "route_idx": 2725,
-        "distance_km": 2.925
-      },
-      {
-        "route_idx": 2727,
-        "distance_km": 2.92
-      },
-      {
-        "route_idx": 2724,
-        "distance_km": 2.928
+        "route_idx": 2730,
+        "distance_km": 2.919
       },
       {
         "route_idx": 2728,
         "distance_km": 2.918
+      },
+      {
+        "route_idx": 2731,
+        "distance_km": 2.92
+      },
+      {
+        "route_idx": 2727,
+        "distance_km": 2.92
       }
     ]
   },
@@ -11198,24 +11190,24 @@
     "nearest_route_index": 2694,
     "candidate_detours": [
       {
-        "route_idx": 2694,
-        "distance_km": 3.505
+        "route_idx": 2690,
+        "distance_km": 3.501
       },
       {
-        "route_idx": 2695,
-        "distance_km": 3.508
+        "route_idx": 2691,
+        "distance_km": 3.501
       },
       {
-        "route_idx": 2693,
-        "distance_km": 3.503
-      },
-      {
-        "route_idx": 2696,
-        "distance_km": 3.511
+        "route_idx": 2689,
+        "distance_km": 3.502
       },
       {
         "route_idx": 2692,
         "distance_km": 3.501
+      },
+      {
+        "route_idx": 2688,
+        "distance_km": 3.503
       }
     ]
   },
@@ -11482,12 +11474,12 @@
         "distance_km": 2.98
       },
       {
-        "route_idx": 151,
-        "distance_km": 2.991
-      },
-      {
         "route_idx": 155,
         "distance_km": 2.985
+      },
+      {
+        "route_idx": 156,
+        "distance_km": 2.99
       }
     ]
   },
@@ -11674,24 +11666,24 @@
     "nearest_route_index": 2833,
     "candidate_detours": [
       {
-        "route_idx": 2833,
-        "distance_km": 4.011
+        "route_idx": 2829,
+        "distance_km": 4.007
       },
       {
-        "route_idx": 2832,
-        "distance_km": 4.009
+        "route_idx": 2830,
+        "distance_km": 4.007
       },
       {
-        "route_idx": 2834,
-        "distance_km": 4.013
+        "route_idx": 2828,
+        "distance_km": 4.008
       },
       {
         "route_idx": 2831,
         "distance_km": 4.008
       },
       {
-        "route_idx": 2835,
-        "distance_km": 4.016
+        "route_idx": 2827,
+        "distance_km": 4.009
       }
     ]
   },
@@ -11742,24 +11734,24 @@
     "nearest_route_index": 2704,
     "candidate_detours": [
       {
-        "route_idx": 2704,
-        "distance_km": 2.31
-      },
-      {
-        "route_idx": 2703,
-        "distance_km": 2.307
-      },
-      {
-        "route_idx": 2705,
-        "distance_km": 2.314
+        "route_idx": 2701,
+        "distance_km": 2.306
       },
       {
         "route_idx": 2702,
         "distance_km": 2.306
       },
       {
-        "route_idx": 2706,
-        "distance_km": 2.318
+        "route_idx": 2700,
+        "distance_km": 2.307
+      },
+      {
+        "route_idx": 2703,
+        "distance_km": 2.307
+      },
+      {
+        "route_idx": 2699,
+        "distance_km": 2.308
       }
     ]
   },
@@ -11878,24 +11870,24 @@
     "nearest_route_index": 56,
     "candidate_detours": [
       {
-        "route_idx": 56,
-        "distance_km": 0.713
-      },
-      {
         "route_idx": 55,
         "distance_km": 0.712
       },
       {
-        "route_idx": 57,
-        "distance_km": 0.718
+        "route_idx": 56,
+        "distance_km": 0.713
       },
       {
         "route_idx": 54,
         "distance_km": 0.715
       },
       {
-        "route_idx": 7,
-        "distance_km": 0.751
+        "route_idx": 57,
+        "distance_km": 0.718
+      },
+      {
+        "route_idx": 53,
+        "distance_km": 0.721
       }
     ]
   },
@@ -12090,16 +12082,16 @@
         "distance_km": 0.063
       },
       {
-        "route_idx": 1642,
-        "distance_km": 0.094
-      },
-      {
         "route_idx": 1639,
         "distance_km": 0.089
       },
       {
-        "route_idx": 1643,
-        "distance_km": 0.136
+        "route_idx": 1642,
+        "distance_km": 0.094
+      },
+      {
+        "route_idx": 1638,
+        "distance_km": 0.132
       }
     ]
   },
@@ -12432,14 +12424,6 @@
       {
         "route_idx": 134,
         "distance_km": 4.99
-      },
-      {
-        "route_idx": 131,
-        "distance_km": 5.011
-      },
-      {
-        "route_idx": 135,
-        "distance_km": 5.023
       }
     ]
   },
@@ -12490,24 +12474,24 @@
     "nearest_route_index": 2360,
     "candidate_detours": [
       {
-        "route_idx": 2360,
-        "distance_km": 1.433
-      },
-      {
         "route_idx": 2359,
         "distance_km": 1.432
-      },
-      {
-        "route_idx": 2361,
-        "distance_km": 1.436
       },
       {
         "route_idx": 2358,
         "distance_km": 1.432
       },
       {
-        "route_idx": 2362,
-        "distance_km": 1.441
+        "route_idx": 2360,
+        "distance_km": 1.433
+      },
+      {
+        "route_idx": 2357,
+        "distance_km": 1.434
+      },
+      {
+        "route_idx": 2361,
+        "distance_km": 1.436
       }
     ]
   },
@@ -12558,7 +12542,15 @@
     "nearest_route_index": 728,
     "candidate_detours": [
       {
+        "route_idx": 729,
+        "distance_km": 0.831
+      },
+      {
         "route_idx": 728,
+        "distance_km": 0.832
+      },
+      {
+        "route_idx": 730,
         "distance_km": 0.832
       },
       {
@@ -12566,16 +12558,8 @@
         "distance_km": 0.836
       },
       {
-        "route_idx": 729,
-        "distance_km": 0.831
-      },
-      {
-        "route_idx": 726,
-        "distance_km": 0.843
-      },
-      {
-        "route_idx": 730,
-        "distance_km": 0.832
+        "route_idx": 731,
+        "distance_km": 0.837
       }
     ]
   },
@@ -12626,24 +12610,24 @@
     "nearest_route_index": 2614,
     "candidate_detours": [
       {
+        "route_idx": 2615,
+        "distance_km": 0.514
+      },
+      {
         "route_idx": 2614,
         "distance_km": 0.514
+      },
+      {
+        "route_idx": 2616,
+        "distance_km": 0.519
       },
       {
         "route_idx": 2613,
         "distance_km": 0.519
       },
       {
-        "route_idx": 2615,
-        "distance_km": 0.514
-      },
-      {
-        "route_idx": 2612,
-        "distance_km": 0.528
-      },
-      {
-        "route_idx": 2616,
-        "distance_km": 0.519
+        "route_idx": 2617,
+        "distance_km": 0.529
       }
     ]
   },
@@ -12710,8 +12694,8 @@
         "distance_km": 0.106
       },
       {
-        "route_idx": 29,
-        "distance_km": 0.136
+        "route_idx": 30,
+        "distance_km": 0.134
       }
     ]
   },
@@ -12762,24 +12746,24 @@
     "nearest_route_index": 1664,
     "candidate_detours": [
       {
-        "route_idx": 1664,
-        "distance_km": 0.556
-      },
-      {
         "route_idx": 1663,
         "distance_km": 0.555
       },
       {
-        "route_idx": 1665,
-        "distance_km": 0.561
+        "route_idx": 1664,
+        "distance_km": 0.556
       },
       {
         "route_idx": 1662,
         "distance_km": 0.558
       },
       {
-        "route_idx": 1666,
-        "distance_km": 0.571
+        "route_idx": 1665,
+        "distance_km": 0.561
+      },
+      {
+        "route_idx": 1661,
+        "distance_km": 0.566
       }
     ]
   },
@@ -12830,24 +12814,24 @@
     "nearest_route_index": 1900,
     "candidate_detours": [
       {
+        "route_idx": 1901,
+        "distance_km": 2.255
+      },
+      {
         "route_idx": 1900,
         "distance_km": 2.255
+      },
+      {
+        "route_idx": 1902,
+        "distance_km": 2.256
       },
       {
         "route_idx": 1899,
         "distance_km": 2.257
       },
       {
-        "route_idx": 1901,
-        "distance_km": 2.255
-      },
-      {
-        "route_idx": 1898,
+        "route_idx": 1903,
         "distance_km": 2.259
-      },
-      {
-        "route_idx": 1902,
-        "distance_km": 2.256
       }
     ]
   },
@@ -12914,8 +12898,8 @@
         "distance_km": 1.456
       },
       {
-        "route_idx": 397,
-        "distance_km": 1.495
+        "route_idx": 392,
+        "distance_km": 1.487
       }
     ]
   },
@@ -12970,16 +12954,16 @@
         "distance_km": 1.159
       },
       {
-        "route_idx": 8,
-        "distance_km": 1.2
-      },
-      {
-        "route_idx": 6,
-        "distance_km": 1.208
+        "route_idx": 62,
+        "distance_km": 1.18
       },
       {
         "route_idx": 63,
         "distance_km": 1.18
+      },
+      {
+        "route_idx": 61,
+        "distance_km": 1.181
       },
       {
         "route_idx": 64,
@@ -13034,24 +13018,24 @@
     "nearest_route_index": 45,
     "candidate_detours": [
       {
-        "route_idx": 45,
-        "distance_km": 0.336
-      },
-      {
         "route_idx": 44,
         "distance_km": 0.335
       },
       {
-        "route_idx": 46,
-        "distance_km": 0.344
+        "route_idx": 45,
+        "distance_km": 0.336
       },
       {
         "route_idx": 43,
         "distance_km": 0.342
       },
       {
-        "route_idx": 47,
-        "distance_km": 0.358
+        "route_idx": 46,
+        "distance_km": 0.344
+      },
+      {
+        "route_idx": 42,
+        "distance_km": 0.354
       }
     ]
   },
@@ -13238,24 +13222,24 @@
     "nearest_route_index": 23,
     "candidate_detours": [
       {
-        "route_idx": 23,
-        "distance_km": 2.657
-      },
-      {
         "route_idx": 22,
         "distance_km": 2.657
-      },
-      {
-        "route_idx": 24,
-        "distance_km": 2.66
       },
       {
         "route_idx": 21,
         "distance_km": 2.657
       },
       {
+        "route_idx": 23,
+        "distance_km": 2.657
+      },
+      {
         "route_idx": 20,
         "distance_km": 2.658
+      },
+      {
+        "route_idx": 19,
+        "distance_km": 2.66
       }
     ]
   },
@@ -13318,12 +13302,12 @@
         "distance_km": 2.88
       },
       {
-        "route_idx": 20,
-        "distance_km": 2.889
-      },
-      {
         "route_idx": 16,
         "distance_km": 2.888
+      },
+      {
+        "route_idx": 20,
+        "distance_km": 2.889
       }
     ]
   },
@@ -13374,24 +13358,24 @@
     "nearest_route_index": 163,
     "candidate_detours": [
       {
-        "route_idx": 163,
-        "distance_km": 1.156
-      },
-      {
         "route_idx": 164,
         "distance_km": 1.155
-      },
-      {
-        "route_idx": 162,
-        "distance_km": 1.16
       },
       {
         "route_idx": 165,
         "distance_km": 1.156
       },
       {
-        "route_idx": 161,
-        "distance_km": 1.166
+        "route_idx": 163,
+        "distance_km": 1.156
+      },
+      {
+        "route_idx": 166,
+        "distance_km": 1.159
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 1.16
       }
     ]
   },
@@ -13658,12 +13642,12 @@
         "distance_km": 2.275
       },
       {
-        "route_idx": 506,
+        "route_idx": 510,
         "distance_km": 2.282
       },
       {
-        "route_idx": 505,
-        "distance_km": 2.289
+        "route_idx": 506,
+        "distance_km": 2.282
       }
     ]
   },
@@ -13714,24 +13698,24 @@
     "nearest_route_index": 1343,
     "candidate_detours": [
       {
-        "route_idx": 1343,
-        "distance_km": 3.359
+        "route_idx": 1345,
+        "distance_km": 3.357
       },
       {
-        "route_idx": 1342,
-        "distance_km": 3.361
+        "route_idx": 1346,
+        "distance_km": 3.358
       },
       {
         "route_idx": 1344,
         "distance_km": 3.358
       },
       {
-        "route_idx": 1341,
-        "distance_km": 3.364
+        "route_idx": 1347,
+        "distance_km": 3.358
       },
       {
-        "route_idx": 1345,
-        "distance_km": 3.357
+        "route_idx": 1343,
+        "distance_km": 3.359
       }
     ]
   },
@@ -13798,8 +13782,8 @@
         "distance_km": 0.083
       },
       {
-        "route_idx": 25,
-        "distance_km": 0.131
+        "route_idx": 20,
+        "distance_km": 0.13
       }
     ]
   },
@@ -13986,24 +13970,24 @@
     "nearest_route_index": 582,
     "candidate_detours": [
       {
-        "route_idx": 582,
-        "distance_km": 1.41
-      },
-      {
-        "route_idx": 581,
-        "distance_km": 1.413
-      },
-      {
         "route_idx": 583,
         "distance_km": 1.408
       },
       {
-        "route_idx": 580,
-        "distance_km": 1.418
-      },
-      {
         "route_idx": 584,
         "distance_km": 1.409
+      },
+      {
+        "route_idx": 582,
+        "distance_km": 1.41
+      },
+      {
+        "route_idx": 585,
+        "distance_km": 1.411
+      },
+      {
+        "route_idx": 581,
+        "distance_km": 1.413
       }
     ]
   },
@@ -14054,24 +14038,24 @@
     "nearest_route_index": 1312,
     "candidate_detours": [
       {
-        "route_idx": 1312,
-        "distance_km": 2.708
+        "route_idx": 1309,
+        "distance_km": 2.705
       },
       {
-        "route_idx": 1313,
-        "distance_km": 2.711
+        "route_idx": 1310,
+        "distance_km": 2.705
+      },
+      {
+        "route_idx": 1308,
+        "distance_km": 2.706
       },
       {
         "route_idx": 1311,
         "distance_km": 2.706
       },
       {
-        "route_idx": 1314,
-        "distance_km": 2.715
-      },
-      {
-        "route_idx": 1310,
-        "distance_km": 2.705
+        "route_idx": 1307,
+        "distance_km": 2.708
       }
     ]
   },
@@ -14326,24 +14310,24 @@
     "nearest_route_index": 2764,
     "candidate_detours": [
       {
-        "route_idx": 2764,
-        "distance_km": 2.227
-      },
-      {
-        "route_idx": 2765,
-        "distance_km": 2.225
-      },
-      {
-        "route_idx": 2763,
-        "distance_km": 2.23
+        "route_idx": 2767,
+        "distance_km": 2.223
       },
       {
         "route_idx": 2766,
         "distance_km": 2.223
       },
       {
-        "route_idx": 2762,
-        "distance_km": 2.235
+        "route_idx": 2768,
+        "distance_km": 2.224
+      },
+      {
+        "route_idx": 2765,
+        "distance_km": 2.225
+      },
+      {
+        "route_idx": 2769,
+        "distance_km": 2.227
       }
     ]
   },
@@ -14406,12 +14390,12 @@
         "distance_km": 2.924
       },
       {
-        "route_idx": 143,
-        "distance_km": 2.939
-      },
-      {
         "route_idx": 147,
         "distance_km": 2.938
+      },
+      {
+        "route_idx": 143,
+        "distance_km": 2.939
       }
     ]
   },
@@ -14462,24 +14446,24 @@
     "nearest_route_index": 63,
     "candidate_detours": [
       {
-        "route_idx": 63,
-        "distance_km": 0.754
-      },
-      {
         "route_idx": 62,
         "distance_km": 0.752
       },
       {
-        "route_idx": 64,
-        "distance_km": 0.758
+        "route_idx": 63,
+        "distance_km": 0.754
       },
       {
         "route_idx": 61,
         "distance_km": 0.755
       },
       {
-        "route_idx": 65,
-        "distance_km": 0.766
+        "route_idx": 64,
+        "distance_km": 0.758
+      },
+      {
+        "route_idx": 60,
+        "distance_km": 0.76
       }
     ]
   },
@@ -14542,12 +14526,12 @@
         "distance_km": 1.587
       },
       {
-        "route_idx": 12,
-        "distance_km": 1.593
-      },
-      {
         "route_idx": 0,
         "distance_km": 1.591
+      },
+      {
+        "route_idx": 12,
+        "distance_km": 1.593
       }
     ]
   },
@@ -14598,24 +14582,24 @@
     "nearest_route_index": 63,
     "candidate_detours": [
       {
+        "route_idx": 62,
+        "distance_km": 0.892
+      },
+      {
         "route_idx": 63,
         "distance_km": 0.892
+      },
+      {
+        "route_idx": 61,
+        "distance_km": 0.894
       },
       {
         "route_idx": 64,
         "distance_km": 0.895
       },
       {
-        "route_idx": 62,
-        "distance_km": 0.892
-      },
-      {
-        "route_idx": 65,
+        "route_idx": 60,
         "distance_km": 0.9
-      },
-      {
-        "route_idx": 61,
-        "distance_km": 0.894
       }
     ]
   },
@@ -14746,12 +14730,12 @@
         "distance_km": 4.663
       },
       {
-        "route_idx": 144,
-        "distance_km": 4.677
-      },
-      {
         "route_idx": 148,
         "distance_km": 4.667
+      },
+      {
+        "route_idx": 149,
+        "distance_km": 4.672
       }
     ]
   },
@@ -14950,12 +14934,12 @@
         "distance_km": 4.362
       },
       {
-        "route_idx": 144,
-        "distance_km": 4.375
-      },
-      {
         "route_idx": 148,
         "distance_km": 4.367
+      },
+      {
+        "route_idx": 149,
+        "distance_km": 4.372
       }
     ]
   },
@@ -15010,20 +14994,20 @@
         "distance_km": 3.378
       },
       {
-        "route_idx": 2864,
-        "distance_km": 3.381
-      },
-      {
         "route_idx": 2866,
         "distance_km": 3.378
       },
       {
-        "route_idx": 2863,
-        "distance_km": 3.384
+        "route_idx": 2864,
+        "distance_km": 3.381
       },
       {
-        "route_idx": 2862,
-        "distance_km": 3.388
+        "route_idx": 2867,
+        "distance_km": 3.382
+      },
+      {
+        "route_idx": 2863,
+        "distance_km": 3.384
       }
     ]
   },
@@ -15074,24 +15058,24 @@
     "nearest_route_index": 2867,
     "candidate_detours": [
       {
-        "route_idx": 2867,
-        "distance_km": 3.305
-      },
-      {
-        "route_idx": 2866,
-        "distance_km": 3.307
-      },
-      {
-        "route_idx": 2868,
-        "distance_km": 3.304
-      },
-      {
         "route_idx": 2869,
         "distance_km": 3.304
       },
       {
         "route_idx": 2870,
         "distance_km": 3.304
+      },
+      {
+        "route_idx": 2868,
+        "distance_km": 3.304
+      },
+      {
+        "route_idx": 2871,
+        "distance_km": 3.305
+      },
+      {
+        "route_idx": 2867,
+        "distance_km": 3.305
       }
     ]
   },
@@ -15142,24 +15126,24 @@
     "nearest_route_index": 2869,
     "candidate_detours": [
       {
-        "route_idx": 2869,
-        "distance_km": 3.408
+        "route_idx": 2872,
+        "distance_km": 3.405
       },
       {
-        "route_idx": 2870,
-        "distance_km": 3.407
-      },
-      {
-        "route_idx": 2868,
-        "distance_km": 3.411
+        "route_idx": 2873,
+        "distance_km": 3.406
       },
       {
         "route_idx": 2871,
         "distance_km": 3.406
       },
       {
-        "route_idx": 2867,
-        "distance_km": 3.414
+        "route_idx": 2870,
+        "distance_km": 3.407
+      },
+      {
+        "route_idx": 2869,
+        "distance_km": 3.408
       }
     ]
   },
@@ -15214,20 +15198,20 @@
         "distance_km": 0.176
       },
       {
-        "route_idx": 2731,
-        "distance_km": 0.184
-      },
-      {
         "route_idx": 2729,
         "distance_km": 0.181
       },
       {
-        "route_idx": 2732,
-        "distance_km": 0.204
+        "route_idx": 2731,
+        "distance_km": 0.184
       },
       {
         "route_idx": 2728,
         "distance_km": 0.2
+      },
+      {
+        "route_idx": 2732,
+        "distance_km": 0.204
       }
     ]
   },
@@ -15282,20 +15266,20 @@
         "distance_km": 1.212
       },
       {
-        "route_idx": 1723,
-        "distance_km": 1.216
-      },
-      {
         "route_idx": 1725,
         "distance_km": 1.213
       },
       {
-        "route_idx": 1722,
-        "distance_km": 1.221
+        "route_idx": 1723,
+        "distance_km": 1.216
       },
       {
-        "route_idx": 1721,
-        "distance_km": 1.229
+        "route_idx": 1726,
+        "distance_km": 1.219
+      },
+      {
+        "route_idx": 1722,
+        "distance_km": 1.221
       }
     ]
   },
@@ -15418,20 +15402,20 @@
         "distance_km": 1.273
       },
       {
-        "route_idx": 1723,
-        "distance_km": 1.276
-      },
-      {
-        "route_idx": 1722,
-        "distance_km": 1.281
-      },
-      {
         "route_idx": 1725,
         "distance_km": 1.275
       },
       {
-        "route_idx": 1721,
-        "distance_km": 1.288
+        "route_idx": 1723,
+        "distance_km": 1.276
+      },
+      {
+        "route_idx": 1726,
+        "distance_km": 1.281
+      },
+      {
+        "route_idx": 1722,
+        "distance_km": 1.281
       }
     ]
   },
@@ -15618,24 +15602,24 @@
     "nearest_route_index": 724,
     "candidate_detours": [
       {
-        "route_idx": 724,
-        "distance_km": 1.194
+        "route_idx": 726,
+        "distance_km": 1.192
       },
       {
         "route_idx": 725,
         "distance_km": 1.192
       },
       {
-        "route_idx": 723,
-        "distance_km": 1.199
+        "route_idx": 727,
+        "distance_km": 1.194
       },
       {
-        "route_idx": 726,
-        "distance_km": 1.192
+        "route_idx": 724,
+        "distance_km": 1.194
       },
       {
-        "route_idx": 722,
-        "distance_km": 1.205
+        "route_idx": 728,
+        "distance_km": 1.198
       }
     ]
   },
@@ -15822,24 +15806,24 @@
     "nearest_route_index": 856,
     "candidate_detours": [
       {
-        "route_idx": 856,
-        "distance_km": 1.993
-      },
-      {
-        "route_idx": 855,
-        "distance_km": 1.995
-      },
-      {
         "route_idx": 857,
         "distance_km": 1.992
       },
       {
-        "route_idx": 854,
-        "distance_km": 1.998
-      },
-      {
         "route_idx": 858,
         "distance_km": 1.992
+      },
+      {
+        "route_idx": 856,
+        "distance_km": 1.993
+      },
+      {
+        "route_idx": 859,
+        "distance_km": 1.994
+      },
+      {
+        "route_idx": 855,
+        "distance_km": 1.995
       }
     ]
   },
@@ -15890,24 +15874,24 @@
     "nearest_route_index": 1279,
     "candidate_detours": [
       {
-        "route_idx": 1279,
-        "distance_km": 2.492
+        "route_idx": 1277,
+        "distance_km": 2.49
+      },
+      {
+        "route_idx": 1276,
+        "distance_km": 2.491
       },
       {
         "route_idx": 1278,
         "distance_km": 2.491
       },
       {
-        "route_idx": 1280,
-        "distance_km": 2.496
+        "route_idx": 1275,
+        "distance_km": 2.492
       },
       {
-        "route_idx": 1277,
-        "distance_km": 2.49
-      },
-      {
-        "route_idx": 1281,
-        "distance_km": 2.502
+        "route_idx": 1279,
+        "distance_km": 2.492
       }
     ]
   },
@@ -15958,24 +15942,24 @@
     "nearest_route_index": 1243,
     "candidate_detours": [
       {
-        "route_idx": 1243,
-        "distance_km": 2.989
+        "route_idx": 1239,
+        "distance_km": 2.984
       },
       {
-        "route_idx": 1242,
-        "distance_km": 2.987
+        "route_idx": 1240,
+        "distance_km": 2.984
       },
       {
-        "route_idx": 1244,
-        "distance_km": 2.992
+        "route_idx": 1238,
+        "distance_km": 2.985
       },
       {
         "route_idx": 1241,
         "distance_km": 2.985
       },
       {
-        "route_idx": 1245,
-        "distance_km": 2.996
+        "route_idx": 1237,
+        "distance_km": 2.987
       }
     ]
   },
@@ -16434,24 +16418,24 @@
     "nearest_route_index": 2829,
     "candidate_detours": [
       {
-        "route_idx": 2829,
-        "distance_km": 1.762
-      },
-      {
-        "route_idx": 2828,
-        "distance_km": 1.764
-      },
-      {
         "route_idx": 2830,
         "distance_km": 1.761
       },
       {
-        "route_idx": 2827,
-        "distance_km": 1.768
-      },
-      {
         "route_idx": 2831,
         "distance_km": 1.762
+      },
+      {
+        "route_idx": 2829,
+        "distance_km": 1.762
+      },
+      {
+        "route_idx": 2832,
+        "distance_km": 1.764
+      },
+      {
+        "route_idx": 2828,
+        "distance_km": 1.764
       }
     ]
   },
@@ -16502,24 +16486,24 @@
     "nearest_route_index": 3047,
     "candidate_detours": [
       {
-        "route_idx": 3047,
-        "distance_km": 1.836
+        "route_idx": 3045,
+        "distance_km": 1.833
+      },
+      {
+        "route_idx": 3044,
+        "distance_km": 1.834
       },
       {
         "route_idx": 3046,
         "distance_km": 1.834
       },
       {
-        "route_idx": 3048,
-        "distance_km": 1.839
+        "route_idx": 3043,
+        "distance_km": 1.836
       },
       {
-        "route_idx": 3045,
-        "distance_km": 1.833
-      },
-      {
-        "route_idx": 3049,
-        "distance_km": 1.844
+        "route_idx": 3047,
+        "distance_km": 1.836
       }
     ]
   },
@@ -16570,16 +16554,16 @@
     "nearest_route_index": 151,
     "candidate_detours": [
       {
+        "route_idx": 152,
+        "distance_km": 1.759
+      },
+      {
         "route_idx": 151,
         "distance_km": 1.761
       },
       {
         "route_idx": 150,
         "distance_km": 1.764
-      },
-      {
-        "route_idx": 152,
-        "distance_km": 1.759
       },
       {
         "route_idx": 149,
@@ -16646,12 +16630,12 @@
         "distance_km": 2.59
       },
       {
-        "route_idx": 133,
-        "distance_km": 2.609
-      },
-      {
         "route_idx": 130,
         "distance_km": 2.603
+      },
+      {
+        "route_idx": 133,
+        "distance_km": 2.609
       },
       {
         "route_idx": 129,
@@ -16706,24 +16690,24 @@
     "nearest_route_index": 3048,
     "candidate_detours": [
       {
-        "route_idx": 3048,
-        "distance_km": 1.184
-      },
-      {
         "route_idx": 3047,
         "distance_km": 1.182
-      },
-      {
-        "route_idx": 3049,
-        "distance_km": 1.188
       },
       {
         "route_idx": 3046,
         "distance_km": 1.183
       },
       {
-        "route_idx": 3050,
-        "distance_km": 1.194
+        "route_idx": 3048,
+        "distance_km": 1.184
+      },
+      {
+        "route_idx": 3045,
+        "distance_km": 1.185
+      },
+      {
+        "route_idx": 3049,
+        "distance_km": 1.188
       }
     ]
   },
@@ -16774,24 +16758,24 @@
     "nearest_route_index": 3043,
     "candidate_detours": [
       {
-        "route_idx": 3043,
-        "distance_km": 1.805
-      },
-      {
-        "route_idx": 3044,
-        "distance_km": 1.808
+        "route_idx": 3041,
+        "distance_km": 1.804
       },
       {
         "route_idx": 3042,
         "distance_km": 1.804
       },
       {
-        "route_idx": 3045,
-        "distance_km": 1.812
+        "route_idx": 3040,
+        "distance_km": 1.806
       },
       {
-        "route_idx": 3041,
-        "distance_km": 1.804
+        "route_idx": 3043,
+        "distance_km": 1.805
+      },
+      {
+        "route_idx": 3044,
+        "distance_km": 1.808
       }
     ]
   },
@@ -16842,24 +16826,24 @@
     "nearest_route_index": 3048,
     "candidate_detours": [
       {
-        "route_idx": 3048,
-        "distance_km": 1.955
+        "route_idx": 3046,
+        "distance_km": 1.953
       },
       {
-        "route_idx": 3049,
-        "distance_km": 1.958
+        "route_idx": 3045,
+        "distance_km": 1.953
       },
       {
         "route_idx": 3047,
         "distance_km": 1.953
       },
       {
-        "route_idx": 3050,
-        "distance_km": 1.962
+        "route_idx": 3044,
+        "distance_km": 1.955
       },
       {
-        "route_idx": 3046,
-        "distance_km": 1.953
+        "route_idx": 3048,
+        "distance_km": 1.955
       }
     ]
   },
@@ -16926,8 +16910,8 @@
         "distance_km": 4.029
       },
       {
-        "route_idx": 2918,
-        "distance_km": 4.045
+        "route_idx": 2923,
+        "distance_km": 4.042
       }
     ]
   },
@@ -16990,12 +16974,12 @@
         "distance_km": 0.139
       },
       {
-        "route_idx": 3008,
-        "distance_km": 0.18
-      },
-      {
         "route_idx": 3004,
         "distance_km": 0.179
+      },
+      {
+        "route_idx": 3008,
+        "distance_km": 0.18
       }
     ]
   },
@@ -17050,11 +17034,11 @@
         "distance_km": 2.47
       },
       {
-        "route_idx": 3007,
+        "route_idx": 3005,
         "distance_km": 2.484
       },
       {
-        "route_idx": 3005,
+        "route_idx": 3007,
         "distance_km": 2.484
       },
       {
@@ -17062,8 +17046,8 @@
         "distance_km": 2.508
       },
       {
-        "route_idx": 3009,
-        "distance_km": 2.532
+        "route_idx": 3004,
+        "distance_km": 2.526
       }
     ]
   },
@@ -17394,16 +17378,16 @@
         "distance_km": 4.368
       },
       {
-        "route_idx": 912,
-        "distance_km": 4.376
-      },
-      {
         "route_idx": 915,
         "distance_km": 4.371
       },
       {
-        "route_idx": 911,
-        "distance_km": 4.384
+        "route_idx": 912,
+        "distance_km": 4.376
+      },
+      {
+        "route_idx": 916,
+        "distance_km": 4.381
       }
     ]
   },
@@ -17534,12 +17518,12 @@
         "distance_km": 0.135
       },
       {
-        "route_idx": 395,
-        "distance_km": 0.163
-      },
-      {
         "route_idx": 391,
         "distance_km": 0.161
+      },
+      {
+        "route_idx": 395,
+        "distance_km": 0.163
       }
     ]
   },
@@ -17590,24 +17574,24 @@
     "nearest_route_index": 397,
     "candidate_detours": [
       {
-        "route_idx": 397,
-        "distance_km": 0.86
-      },
-      {
         "route_idx": 398,
         "distance_km": 0.859
       },
       {
-        "route_idx": 396,
-        "distance_km": 0.863
+        "route_idx": 397,
+        "distance_km": 0.86
       },
       {
         "route_idx": 399,
         "distance_km": 0.861
       },
       {
-        "route_idx": 395,
-        "distance_km": 0.87
+        "route_idx": 396,
+        "distance_km": 0.863
+      },
+      {
+        "route_idx": 400,
+        "distance_km": 0.866
       }
     ]
   },
@@ -17674,8 +17658,8 @@
         "distance_km": 4.702
       },
       {
-        "route_idx": 133,
-        "distance_km": 4.719
+        "route_idx": 128,
+        "distance_km": 4.709
       }
     ]
   },
@@ -17874,12 +17858,12 @@
         "distance_km": 1.72
       },
       {
-        "route_idx": 13,
+        "route_idx": 16,
         "distance_km": 1.723
       },
       {
-        "route_idx": 1,
-        "distance_km": 1.73
+        "route_idx": 13,
+        "distance_km": 1.723
       }
     ]
   },
@@ -17938,16 +17922,16 @@
         "distance_km": 3.934
       },
       {
-        "route_idx": 133,
-        "distance_km": 3.962
+        "route_idx": 146,
+        "distance_km": 3.943
       },
       {
         "route_idx": 143,
         "distance_km": 3.948
       },
       {
-        "route_idx": 146,
-        "distance_km": 3.943
+        "route_idx": 147,
+        "distance_km": 3.96
       }
     ]
   },
@@ -19834,24 +19818,24 @@
     "nearest_route_index": 2692,
     "candidate_detours": [
       {
-        "route_idx": 2692,
-        "distance_km": 0.847
-      },
-      {
         "route_idx": 2693,
         "distance_km": 0.845
-      },
-      {
-        "route_idx": 2691,
-        "distance_km": 0.853
       },
       {
         "route_idx": 2694,
         "distance_km": 0.846
       },
       {
-        "route_idx": 2690,
-        "distance_km": 0.861
+        "route_idx": 2692,
+        "distance_km": 0.847
+      },
+      {
+        "route_idx": 2695,
+        "distance_km": 0.849
+      },
+      {
+        "route_idx": 2691,
+        "distance_km": 0.853
       }
     ]
   },
@@ -19902,24 +19886,24 @@
     "nearest_route_index": 158,
     "candidate_detours": [
       {
-        "route_idx": 158,
-        "distance_km": 3.719
-      },
-      {
-        "route_idx": 159,
-        "distance_km": 3.718
-      },
-      {
-        "route_idx": 157,
-        "distance_km": 3.721
+        "route_idx": 161,
+        "distance_km": 3.716
       },
       {
         "route_idx": 160,
         "distance_km": 3.717
       },
       {
-        "route_idx": 156,
-        "distance_km": 3.724
+        "route_idx": 162,
+        "distance_km": 3.717
+      },
+      {
+        "route_idx": 159,
+        "distance_km": 3.718
+      },
+      {
+        "route_idx": 163,
+        "distance_km": 3.718
       }
     ]
   },
@@ -19970,24 +19954,24 @@
     "nearest_route_index": 158,
     "candidate_detours": [
       {
-        "route_idx": 158,
-        "distance_km": 3.719
-      },
-      {
-        "route_idx": 159,
-        "distance_km": 3.718
-      },
-      {
-        "route_idx": 157,
-        "distance_km": 3.721
+        "route_idx": 161,
+        "distance_km": 3.716
       },
       {
         "route_idx": 160,
         "distance_km": 3.717
       },
       {
-        "route_idx": 156,
-        "distance_km": 3.724
+        "route_idx": 162,
+        "distance_km": 3.717
+      },
+      {
+        "route_idx": 159,
+        "distance_km": 3.718
+      },
+      {
+        "route_idx": 163,
+        "distance_km": 3.718
       }
     ]
   },
@@ -20258,8 +20242,8 @@
         "distance_km": 0.138
       },
       {
-        "route_idx": 14,
-        "distance_km": 0.141
+        "route_idx": 18,
+        "distance_km": 0.139
       }
     ]
   },
@@ -20378,24 +20362,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.716
-      },
-      {
-        "route_idx": 158,
-        "distance_km": 3.714
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.718
+        "route_idx": 160,
+        "distance_km": 3.713
       },
       {
         "route_idx": 159,
         "distance_km": 3.713
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.721
+        "route_idx": 161,
+        "distance_km": 3.713
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.714
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 3.714
       }
     ]
   },
@@ -20446,24 +20430,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.712
-      },
-      {
-        "route_idx": 158,
-        "distance_km": 3.71
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.714
+        "route_idx": 160,
+        "distance_km": 3.709
       },
       {
         "route_idx": 159,
         "distance_km": 3.709
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.717
+        "route_idx": 161,
+        "distance_km": 3.71
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.71
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 3.711
       }
     ]
   },
@@ -20514,24 +20498,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.712
-      },
-      {
-        "route_idx": 158,
-        "distance_km": 3.711
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.715
+        "route_idx": 160,
+        "distance_km": 3.71
       },
       {
         "route_idx": 159,
         "distance_km": 3.71
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.718
+        "route_idx": 161,
+        "distance_km": 3.71
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.711
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 3.711
       }
     ]
   },
@@ -20582,24 +20566,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.71
-      },
-      {
-        "route_idx": 158,
-        "distance_km": 3.709
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.713
+        "route_idx": 160,
+        "distance_km": 3.708
       },
       {
         "route_idx": 159,
         "distance_km": 3.708
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.716
+        "route_idx": 161,
+        "distance_km": 3.708
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.709
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 3.709
       }
     ]
   },
@@ -20650,20 +20634,20 @@
     "nearest_route_index": 26,
     "candidate_detours": [
       {
-        "route_idx": 26,
-        "distance_km": 0.558
-      },
-      {
         "route_idx": 25,
         "distance_km": 0.558
       },
       {
-        "route_idx": 27,
-        "distance_km": 0.563
+        "route_idx": 26,
+        "distance_km": 0.558
       },
       {
         "route_idx": 24,
         "distance_km": 0.562
+      },
+      {
+        "route_idx": 27,
+        "distance_km": 0.563
       },
       {
         "route_idx": 28,
@@ -20862,12 +20846,12 @@
         "distance_km": 4.471
       },
       {
-        "route_idx": 133,
-        "distance_km": 4.487
-      },
-      {
         "route_idx": 130,
         "distance_km": 4.484
+      },
+      {
+        "route_idx": 133,
+        "distance_km": 4.487
       },
       {
         "route_idx": 129,
@@ -20922,24 +20906,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.248
-      },
-      {
-        "route_idx": 700,
-        "distance_km": 2.245
-      },
-      {
-        "route_idx": 698,
-        "distance_km": 2.251
+        "route_idx": 702,
+        "distance_km": 2.244
       },
       {
         "route_idx": 701,
         "distance_km": 2.244
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.256
+        "route_idx": 703,
+        "distance_km": 2.245
+      },
+      {
+        "route_idx": 700,
+        "distance_km": 2.245
+      },
+      {
+        "route_idx": 704,
+        "distance_km": 2.247
       }
     ]
   },
@@ -20990,24 +20974,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.248
-      },
-      {
-        "route_idx": 700,
-        "distance_km": 2.245
-      },
-      {
-        "route_idx": 698,
-        "distance_km": 2.251
+        "route_idx": 702,
+        "distance_km": 2.244
       },
       {
         "route_idx": 701,
         "distance_km": 2.244
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.256
+        "route_idx": 703,
+        "distance_km": 2.245
+      },
+      {
+        "route_idx": 700,
+        "distance_km": 2.245
+      },
+      {
+        "route_idx": 704,
+        "distance_km": 2.247
       }
     ]
   },
@@ -21070,12 +21054,12 @@
         "distance_km": 0.769
       },
       {
-        "route_idx": 13,
-        "distance_km": 0.776
-      },
-      {
         "route_idx": 16,
         "distance_km": 0.771
+      },
+      {
+        "route_idx": 13,
+        "distance_km": 0.776
       }
     ]
   },
@@ -21126,24 +21110,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.739
+        "route_idx": 160,
+        "distance_km": 3.736
       },
       {
-        "route_idx": 158,
-        "distance_km": 3.738
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.742
+        "route_idx": 161,
+        "distance_km": 3.737
       },
       {
         "route_idx": 159,
         "distance_km": 3.737
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.745
+        "route_idx": 162,
+        "distance_km": 3.737
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.738
       }
     ]
   },
@@ -21266,20 +21250,20 @@
         "distance_km": 0.399
       },
       {
-        "route_idx": 74,
-        "distance_km": 0.404
-      },
-      {
         "route_idx": 72,
         "distance_km": 0.4
       },
       {
-        "route_idx": 75,
-        "distance_km": 0.415
+        "route_idx": 74,
+        "distance_km": 0.404
       },
       {
         "route_idx": 71,
         "distance_km": 0.407
+      },
+      {
+        "route_idx": 75,
+        "distance_km": 0.415
       }
     ]
   },
@@ -21338,12 +21322,12 @@
         "distance_km": 4.471
       },
       {
-        "route_idx": 133,
-        "distance_km": 4.487
-      },
-      {
         "route_idx": 130,
         "distance_km": 4.484
+      },
+      {
+        "route_idx": 133,
+        "distance_km": 4.487
       },
       {
         "route_idx": 129,
@@ -21538,12 +21522,12 @@
         "distance_km": 4.409
       },
       {
-        "route_idx": 132,
-        "distance_km": 4.43
-      },
-      {
         "route_idx": 134,
         "distance_km": 4.426
+      },
+      {
+        "route_idx": 132,
+        "distance_km": 4.43
       },
       {
         "route_idx": 135,
@@ -21678,12 +21662,12 @@
         "distance_km": 0.715
       },
       {
-        "route_idx": 31,
-        "distance_km": 0.725
-      },
-      {
         "route_idx": 28,
         "distance_km": 0.721
+      },
+      {
+        "route_idx": 31,
+        "distance_km": 0.725
       },
       {
         "route_idx": 27,
@@ -21942,24 +21926,24 @@
     "nearest_route_index": 713,
     "candidate_detours": [
       {
-        "route_idx": 713,
-        "distance_km": 1.613
-      },
-      {
-        "route_idx": 712,
-        "distance_km": 1.617
+        "route_idx": 715,
+        "distance_km": 1.611
       },
       {
         "route_idx": 714,
         "distance_km": 1.611
       },
       {
-        "route_idx": 711,
-        "distance_km": 1.622
+        "route_idx": 716,
+        "distance_km": 1.612
       },
       {
-        "route_idx": 715,
-        "distance_km": 1.611
+        "route_idx": 713,
+        "distance_km": 1.613
+      },
+      {
+        "route_idx": 717,
+        "distance_km": 1.615
       }
     ]
   },
@@ -22010,24 +21994,24 @@
     "nearest_route_index": 738,
     "candidate_detours": [
       {
-        "route_idx": 738,
-        "distance_km": 4.074
+        "route_idx": 735,
+        "distance_km": 4.07
       },
       {
-        "route_idx": 739,
-        "distance_km": 4.077
-      },
-      {
-        "route_idx": 737,
-        "distance_km": 4.072
+        "route_idx": 734,
+        "distance_km": 4.07
       },
       {
         "route_idx": 736,
         "distance_km": 4.071
       },
       {
-        "route_idx": 735,
-        "distance_km": 4.07
+        "route_idx": 737,
+        "distance_km": 4.072
+      },
+      {
+        "route_idx": 733,
+        "distance_km": 4.073
       }
     ]
   },
@@ -22154,12 +22138,12 @@
         "distance_km": 0.03
       },
       {
-        "route_idx": 0,
-        "distance_km": 0.031
-      },
-      {
         "route_idx": 13,
         "distance_km": 0.03
+      },
+      {
+        "route_idx": 0,
+        "distance_km": 0.031
       },
       {
         "route_idx": 2,
@@ -22214,24 +22198,24 @@
     "nearest_route_index": 719,
     "candidate_detours": [
       {
-        "route_idx": 719,
-        "distance_km": 3.566
+        "route_idx": 715,
+        "distance_km": 3.56
       },
       {
-        "route_idx": 718,
-        "distance_km": 3.563
+        "route_idx": 714,
+        "distance_km": 3.56
       },
       {
-        "route_idx": 720,
-        "distance_km": 3.569
+        "route_idx": 716,
+        "distance_km": 3.561
+      },
+      {
+        "route_idx": 713,
+        "distance_km": 3.561
       },
       {
         "route_idx": 717,
         "distance_km": 3.562
-      },
-      {
-        "route_idx": 721,
-        "distance_km": 3.573
       }
     ]
   },
@@ -22282,24 +22266,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.197
-      },
-      {
-        "route_idx": 700,
-        "distance_km": 2.195
-      },
-      {
-        "route_idx": 698,
-        "distance_km": 2.201
+        "route_idx": 702,
+        "distance_km": 2.193
       },
       {
         "route_idx": 701,
         "distance_km": 2.193
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.205
+        "route_idx": 703,
+        "distance_km": 2.194
+      },
+      {
+        "route_idx": 700,
+        "distance_km": 2.195
+      },
+      {
+        "route_idx": 704,
+        "distance_km": 2.196
       }
     ]
   },
@@ -22350,24 +22334,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.256
-      },
-      {
-        "route_idx": 700,
-        "distance_km": 2.253
-      },
-      {
-        "route_idx": 698,
-        "distance_km": 2.259
+        "route_idx": 702,
+        "distance_km": 2.251
       },
       {
         "route_idx": 701,
         "distance_km": 2.252
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.264
+        "route_idx": 703,
+        "distance_km": 2.252
+      },
+      {
+        "route_idx": 700,
+        "distance_km": 2.253
+      },
+      {
+        "route_idx": 704,
+        "distance_km": 2.254
       }
     ]
   },
@@ -22422,11 +22406,11 @@
         "distance_km": 0.03
       },
       {
-        "route_idx": 14,
+        "route_idx": 1,
         "distance_km": 0.035
       },
       {
-        "route_idx": 1,
+        "route_idx": 14,
         "distance_km": 0.035
       },
       {
@@ -22554,24 +22538,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.722
-      },
-      {
-        "route_idx": 158,
-        "distance_km": 3.72
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.724
+        "route_idx": 160,
+        "distance_km": 3.719
       },
       {
         "route_idx": 159,
         "distance_km": 3.719
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.727
+        "route_idx": 161,
+        "distance_km": 3.719
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.72
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 3.72
       }
     ]
   },
@@ -22622,24 +22606,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.731
+        "route_idx": 160,
+        "distance_km": 3.728
       },
       {
-        "route_idx": 158,
-        "distance_km": 3.729
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.733
+        "route_idx": 161,
+        "distance_km": 3.728
       },
       {
         "route_idx": 159,
         "distance_km": 3.728
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.736
+        "route_idx": 162,
+        "distance_km": 3.729
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.729
       }
     ]
   },
@@ -22690,24 +22674,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.723
-      },
-      {
-        "route_idx": 158,
-        "distance_km": 3.722
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.726
+        "route_idx": 160,
+        "distance_km": 3.72
       },
       {
         "route_idx": 159,
         "distance_km": 3.721
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.729
+        "route_idx": 161,
+        "distance_km": 3.721
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.722
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 3.722
       }
     ]
   },
@@ -22758,24 +22742,24 @@
     "nearest_route_index": 157,
     "candidate_detours": [
       {
-        "route_idx": 157,
-        "distance_km": 3.733
-      },
-      {
-        "route_idx": 158,
-        "distance_km": 3.731
-      },
-      {
-        "route_idx": 156,
-        "distance_km": 3.735
+        "route_idx": 160,
+        "distance_km": 3.73
       },
       {
         "route_idx": 159,
         "distance_km": 3.73
       },
       {
-        "route_idx": 155,
-        "distance_km": 3.738
+        "route_idx": 161,
+        "distance_km": 3.73
+      },
+      {
+        "route_idx": 158,
+        "distance_km": 3.731
+      },
+      {
+        "route_idx": 162,
+        "distance_km": 3.731
       }
     ]
   },
@@ -22826,24 +22810,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.307
+        "route_idx": 701,
+        "distance_km": 2.304
       },
       {
-        "route_idx": 698,
-        "distance_km": 2.31
+        "route_idx": 702,
+        "distance_km": 2.304
       },
       {
         "route_idx": 700,
         "distance_km": 2.305
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.314
+        "route_idx": 703,
+        "distance_km": 2.306
       },
       {
-        "route_idx": 701,
-        "distance_km": 2.304
+        "route_idx": 699,
+        "distance_km": 2.307
       }
     ]
   },
@@ -22894,24 +22878,24 @@
     "nearest_route_index": 722,
     "candidate_detours": [
       {
-        "route_idx": 722,
-        "distance_km": 2.274
+        "route_idx": 724,
+        "distance_km": 2.271
       },
       {
-        "route_idx": 721,
-        "distance_km": 2.277
+        "route_idx": 725,
+        "distance_km": 2.272
       },
       {
         "route_idx": 723,
         "distance_km": 2.272
       },
       {
-        "route_idx": 720,
-        "distance_km": 2.281
+        "route_idx": 726,
+        "distance_km": 2.273
       },
       {
-        "route_idx": 724,
-        "distance_km": 2.271
+        "route_idx": 722,
+        "distance_km": 2.274
       }
     ]
   },
@@ -22962,24 +22946,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.307
+        "route_idx": 701,
+        "distance_km": 2.305
       },
       {
-        "route_idx": 698,
-        "distance_km": 2.31
+        "route_idx": 702,
+        "distance_km": 2.305
       },
       {
         "route_idx": 700,
         "distance_km": 2.306
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.314
+        "route_idx": 703,
+        "distance_km": 2.306
       },
       {
-        "route_idx": 701,
-        "distance_km": 2.305
+        "route_idx": 699,
+        "distance_km": 2.307
       }
     ]
   },
@@ -23030,24 +23014,24 @@
     "nearest_route_index": 703,
     "candidate_detours": [
       {
-        "route_idx": 703,
-        "distance_km": 1.686
-      },
-      {
-        "route_idx": 702,
-        "distance_km": 1.689
+        "route_idx": 705,
+        "distance_km": 1.683
       },
       {
         "route_idx": 704,
         "distance_km": 1.684
       },
       {
-        "route_idx": 701,
-        "distance_km": 1.694
+        "route_idx": 706,
+        "distance_km": 1.685
       },
       {
-        "route_idx": 705,
-        "distance_km": 1.683
+        "route_idx": 703,
+        "distance_km": 1.686
+      },
+      {
+        "route_idx": 707,
+        "distance_km": 1.687
       }
     ]
   },
@@ -23098,24 +23082,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.299
+        "route_idx": 701,
+        "distance_km": 2.296
       },
       {
-        "route_idx": 698,
-        "distance_km": 2.302
+        "route_idx": 702,
+        "distance_km": 2.297
       },
       {
         "route_idx": 700,
         "distance_km": 2.297
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.306
+        "route_idx": 703,
+        "distance_km": 2.298
       },
       {
-        "route_idx": 701,
-        "distance_km": 2.296
+        "route_idx": 699,
+        "distance_km": 2.299
       }
     ]
   },
@@ -23166,24 +23150,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.3
+        "route_idx": 701,
+        "distance_km": 2.298
       },
       {
-        "route_idx": 698,
-        "distance_km": 2.303
+        "route_idx": 702,
+        "distance_km": 2.298
       },
       {
         "route_idx": 700,
         "distance_km": 2.298
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.307
+        "route_idx": 703,
+        "distance_km": 2.299
       },
       {
-        "route_idx": 701,
-        "distance_km": 2.298
+        "route_idx": 699,
+        "distance_km": 2.3
       }
     ]
   },
@@ -23234,24 +23218,24 @@
     "nearest_route_index": 715,
     "candidate_detours": [
       {
-        "route_idx": 715,
-        "distance_km": 1.786
+        "route_idx": 717,
+        "distance_km": 1.782
+      },
+      {
+        "route_idx": 718,
+        "distance_km": 1.783
       },
       {
         "route_idx": 716,
         "distance_km": 1.783
       },
       {
-        "route_idx": 714,
-        "distance_km": 1.79
+        "route_idx": 719,
+        "distance_km": 1.784
       },
       {
-        "route_idx": 717,
-        "distance_km": 1.782
-      },
-      {
-        "route_idx": 713,
-        "distance_km": 1.795
+        "route_idx": 715,
+        "distance_km": 1.786
       }
     ]
   },
@@ -23302,24 +23286,24 @@
     "nearest_route_index": 704,
     "candidate_detours": [
       {
-        "route_idx": 704,
-        "distance_km": 1.522
+        "route_idx": 706,
+        "distance_km": 1.518
+      },
+      {
+        "route_idx": 707,
+        "distance_km": 1.519
       },
       {
         "route_idx": 705,
         "distance_km": 1.519
       },
       {
-        "route_idx": 703,
-        "distance_km": 1.526
+        "route_idx": 711,
+        "distance_km": 1.521
       },
       {
-        "route_idx": 706,
-        "distance_km": 1.518
-      },
-      {
-        "route_idx": 702,
-        "distance_km": 1.532
+        "route_idx": 712,
+        "distance_km": 1.522
       }
     ]
   },
@@ -23370,24 +23354,24 @@
     "nearest_route_index": 699,
     "candidate_detours": [
       {
-        "route_idx": 699,
-        "distance_km": 2.3
+        "route_idx": 701,
+        "distance_km": 2.297
       },
       {
-        "route_idx": 698,
-        "distance_km": 2.303
+        "route_idx": 702,
+        "distance_km": 2.297
       },
       {
         "route_idx": 700,
         "distance_km": 2.298
       },
       {
-        "route_idx": 697,
-        "distance_km": 2.307
+        "route_idx": 703,
+        "distance_km": 2.299
       },
       {
-        "route_idx": 701,
-        "distance_km": 2.297
+        "route_idx": 699,
+        "distance_km": 2.3
       }
     ]
   }

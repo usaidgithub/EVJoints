@@ -1,0 +1,345 @@
+station_id,station_name,distance_to_route_km,best_route_idx,energy_used_kWh,arrival_SOC_%
+21170,Sainath,0.015,0,0.0022,100.0
+21000,cafe coffee day,0.019,0,0.0032,99.99
+21017,gy,0.024,0,0.0033,99.99
+20958,css,0.024,0,0.0034,99.99
+20959,ff,0.024,0,0.0034,99.99
+20957,css,0.024,0,0.0034,99.99
+20955,css,0.024,0,0.0034,99.99
+20956,css,0.024,0,0.0034,99.99
+20946,fs,0.025,0,0.0035,99.99
+20974,fhh,0.026,0,0.0036,99.99
+21027,cyyc,0.026,0,0.0036,99.99
+20973,fg,0.026,0,0.0036,99.99
+21028,ff,0.026,0,0.0037,99.99
+20960,ff,0.027,0,0.0037,99.99
+20961,fg,0.027,0,0.0037,99.99
+20975,fuu,0.026,0,0.0037,99.99
+20970,ert,0.027,0,0.0037,99.99
+20962,gsg,0.027,0,0.0037,99.99
+20938,cg,0.027,0,0.0037,99.99
+20947,rd,0.026,0,0.0037,99.99
+20939,Hindustan Petroleum,0.027,0,0.0038,99.99
+20945,Bharat Petroleum,0.027,0,0.0038,99.99
+21015,yg,0.027,0,0.0038,99.99
+21175,d ,0.027,0,0.0038,99.99
+21026,jshs,0.028,0,0.0039,99.99
+20976,gh,0.027,0,0.0039,99.99
+21230,ga,0.028,0,0.0039,99.99
+20998,hdjdjs,0.029,0,0.0041,99.99
+21229,tty,0.03,0,0.0041,99.99
+21016,gyug,0.03,0,0.0042,99.99
+20977,dui,0.03,0,0.0042,99.99
+21197,dheeraj kawal,0.021,0,0.0043,99.99
+21171,hotel raj,0.02,0,0.0044,99.99
+21196,hub mall,0.019,0,0.0044,99.99
+20999,Rmall,0.027,0,0.0052,99.99
+21064,Dheeraj Kawal,0.032,0,0.0053,99.99
+21065,Dheeraj Kawal,0.032,0,0.0053,99.99
+21031,vjj kj,0.022,4,0.0147,99.97
+21029,t7,0.076,0,0.0193,99.96
+21084,dheeraj kawal,0.746,0,0.1078,99.76
+17638,Jio-BP Charging Station,0.043,21,0.122,99.73
+15212,Godrej Business District (Private Charger),0.713,7,0.1381,99.69
+16654,R City Mall Amrut Nagar UB Level North Side Parking,1.159,6,0.2025,99.55
+16470,"Pratha NGO, Godrej Colony Vikhroli (Green Energy Powered)",0.072,29,0.2187,99.51
+13422,Voler Wipro Powai (Private Charger - Green Energy Powered),1.404,6,0.219,99.51
+17927,DSM HGP Community (Private Charger),1.573,0,0.223,99.5
+21056,Tata charge,0.558,24,0.2239,99.5
+20569,MH | Mumbai | Powai Hiranandani Gardens,1.698,0,0.2412,99.46
+5632,Jio-BP Pulse Charging station,1.04,15,0.2529,99.44
+21156,Tech Park FastCharge,0.714,29,0.2585,99.43
+5633,Jio-BP Pulse Charging station,1.439,27,0.3534,99.21
+14578,Auram Grande CHS (Private Charger),1.923,16,0.3582,99.2
+16657,Agastha Garden Enclave Charging Station,0.336,43,0.3594,99.2
+13410,CABE Kanjur Marg MCGM Parking (Private-For Restricted use only),1.927,15,0.3619,99.2
+14631,"Godrej Platinum, Vikhroli (Private Charger -Green Energy Powered)",0.141,46,0.3632,99.19
+14711,Odyssey II CHSL Orchard Avenue (Private Charger-Green Energy Powered),1.892,0,0.3902,99.13
+16676,Kanakia Zen world (Private charger),2.168,17,0.397,99.12
+14737,"Raj Granduer, Powai (Private Charger-Green Energy Powered)",1.396,0,0.4016,99.11
+13468,HDFC Bank – Alpha I (Private Charger),2.21,16,0.4086,99.09
+13302,"Alpha, Powai (Private Charger)",1.542,0,0.4112,99.09
+13305,"Delphi, Powai (Private Charger - Green Energy Powered)",2.016,0,0.4194,99.07
+14671,Kalpataru Woodsville Chandivali (Private Charger),2.745,5,0.4201,99.07
+14802,"Vicinia, Chandivali (Private Charger-Green Energy Powered)",2.356,5,0.4293,99.05
+15125,Tata Power - Vikhroli Receiving Station (Green Energy Powered),0.071,62,0.4305,99.04
+16701,Symphony CHSL (Private Charger),2.661,5,0.436,99.03
+14521,Brookfield Pay and Park Powai (Green Energy Powered),1.767,7,0.4593,98.98
+13303,"Citipark, Powai (Private Charger)",1.728,6,0.4648,98.97
+13310,"Spectra, Powai (Private Charger - Green Energy Powered)",1.664,7,0.4652,98.97
+13309,"Prudential, Powai (Private Charger)",1.707,7,0.4655,98.97
+5631,Jio-BP Pulse Charging station,1.719,6,0.4665,98.96
+14520,Spectra Building Powai (Green Energy Powered),1.66,7,0.471,98.95
+13304,"Crisil, Powai (Private Charger - Green Energy Powered)",1.765,7,0.4722,98.95
+14630,Glen ridge CHSL (Private Charger),1.609,7,0.4754,98.94
+14672,Kanakia Future Reality Powai (Private Charger-Green Energy Powered),1.153,0,0.4768,98.94
+14579,Avalon CHS Powai (Private Charger - Green Energy Powered),1.547,5,0.4788,98.94
+16691,Runwal Bliss (Private Charger),2.657,20,0.4847,98.92
+14629,Glendale CHSL (Private Charger),1.525,7,0.4849,98.92
+5630,Jio-BP Pulse Charging station,2.185,7,0.4873,98.92
+13311,"Ventura, Powai (Private charger - Green Energy Powered)",1.824,6,0.4878,98.92
+13308,"One Boulevard, Powai (Private Charger - Green Energy Powered)",2.219,11,0.4942,98.9
+14619,Eden Apartment 4 Powai (Private Charger),2.048,7,0.4982,98.89
+14741,"Regent Hill, Powai (Private Charger-Green Energy Powered)",1.512,8,0.5039,98.88
+17924,DSM Boulevard 3 and 4 CHSL (Private Charger),0.754,61,0.5059,98.88
+16692,Runwal Forests (Private charger),2.87,16,0.5098,98.87
+20567,MH | Mumbai | The Westin Mumbai Powai Lake,3.655,0,0.5162,98.85
+14775,"Solitaire CHSL, Powai (Private Charger)",2.01,11,0.5193,98.85
+17934,Tata Power Ghatkopar Charging Station,0.892,61,0.5255,98.83
+17639,Jio-BP Charging Station,3.727,5,0.5278,98.83
+14757,"Sahil Exotica, Chandivali (Private Charger - Green Energy Powered)",3.17,5,0.5297,98.82
+14736,Raheja Vistas Powai(Private-Charger),3.391,5,0.5303,98.82
+21154,Phoenix Mall EV Hub,3.686,6,0.5415,98.8
+15214,Godrej One Vikhroli Charging Station (Green Energy Powered),0.336,71,0.5428,98.79
+21112,Testing Aargo,0.399,71,0.5442,98.79
+15223,"Marwah Steel Private Limited,Marwah Centre (Private Charger-Green Energy Powered)",3.966,5,0.5589,98.76
+13312,"Winchester, Powai (Private Charger - Green Energy Powered)",1.299,5,0.559,98.76
+14037,Taj The Trees (Private Charger),0.402,71,0.5609,98.75
+14735,"Raheja Vistas, Chandivali (Private Charger-Green Energy Powered)",3.292,5,0.5645,98.75
+14038,Taj The Trees Charging Station,0.436,71,0.5677,98.74
+14755,Sagar Tech Plaza B Wing premises (Private Charger-Green Energy Powered),3.984,5,0.5681,98.74
+15225,"Marwah Steel Private Limited,Marwah House (Private Charger)",3.986,5,0.5682,98.74
+13290,CABE-Marwah Complex (Private Charger-Green Energy Powered),3.907,6,0.5712,98.73
+13306,Fairmont Powai (Private Charger - Green Energy Powered),1.275,6,0.5762,98.72
+13307,Kensington Powai (Private Charger- Green Energy Powered),1.357,5,0.5789,98.71
+14685,L And T TC IV Powai (Private Charger-Green Energy Powered),3.641,7,0.581,98.71
+14599,"Castle Rock, Powai (Private Charger-Green Energy Powered)",1.393,11,0.5853,98.7
+14590,Blue Heaven CHS Chandivali (Private Charger - Green Energy Powered),3.153,5,0.6064,98.65
+14683,L&T Emerald Isle Powai (Private Charger - Green Energy Powered),3.642,6,0.6076,98.65
+14739,Raj Paradise Andheri East (Private Charger - Green Energy Powered),4.223,5,0.6085,98.65
+20576,MH | Andheri | Times Square - Nilkanth Tech Park,4.212,6,0.6145,98.63
+14638,"Hill Crest CHSL, Farm Road (Private Charger-Green Energy Powered)",3.123,5,0.629,98.6
+14718,Paradise CHSL Powai (Private Charger),3.158,5,0.6344,98.59
+10831,Park Plus Charging Station,3.806,7,0.64,98.58
+6461,EV DOCK Charging Station,4.424,5,0.6407,98.58
+13764,Hotel Radisson Blu Marol Metro Station,4.733,5,0.6827,98.48
+14686,"Lok Yamuna CHS, Andheri East (Private Charger-Green Energy Powered)",4.382,5,0.684,98.48
+13728,Mirage Hotels Marol,4.929,5,0.6888,98.47
+5634,Jio-BP Pulse Charging station,0.52,87,0.6895,98.47
+5629,Jio-BP Pulse Charging station,4.702,5,0.6974,98.45
+14682,"L&T AMN Tower, Powai ( Private Charger)",4.056,7,0.7121,98.42
+13516,"Seven Hills Hospital, Andheri East (Private Charger - Green Energy Powered)",4.938,5,0.7132,98.42
+13349,"Pratha NGO, Naydu Colony - Ghatkopar East",0.042,101,0.7438,98.35
+19538,2000066-Shah Petroleum Products,0.703,132,1.0413,97.69
+15229,Neelkanth Business Park Vidyavihar West (Green Energy Powered),1.547,129,1.155,97.43
+5635,Jio-BP Pulse Charging station,1.569,129,1.176,97.39
+14544,CR Lokmanya Tilak Station Kurla (Green Energy Powered),1.786,131,1.2077,97.32
+14600,"Central Tower A to G CHSL, Chembur East (Private Charger-Green Energy Powered)",1.749,133,1.2081,97.32
+20346,GLIDA GLIDA Phoenix Marketcity Kurla Charging Hub,2.579,129,1.2818,97.15
+20344,GLIDA K Star Mall,1.761,149,1.2881,97.14
+5619,Jio-BP Pulse Charging station,2.753,129,1.3021,97.11
+5638,Jio-BP Pulse Charging station,0.912,162,1.3465,97.01
+16697,Supreme Mega Construction-Elenor (Private Charger),1.156,161,1.3885,96.91
+21096,Mumbai Central Charging Point,3.213,130,1.3918,96.91
+14533,Phoenix Marketcity (Green Energy Powered),2.571,129,1.3938,96.9
+19540,2000008-BP CHEMBUR,2.769,143,1.408,96.87
+15211,Equinox Business Park,3.31,131,1.4265,96.83
+17922,DSM AHCL Zynergy (Private Charger),2.91,143,1.4279,96.83
+13379,Zillion Premises Co-op Society Charging Station,3.384,131,1.4321,96.82
+5637,Jio-BP Pulse Charging station,1.055,171,1.4347,96.81
+5636,Jio-BP Pulse Charging station,0.915,178,1.4461,96.79
+14777,"Spenta, Chembur (Private Charger - Green Energy Powered)",3.012,143,1.4758,96.72
+5641,Jio-BP Pulse Charging station,2.878,146,1.4784,96.71
+15148,Tata Communication BKC (Private Charger),3.875,132,1.4832,96.7
+5618,Jio-BP Pulse Charging station,4.089,132,1.511,96.64
+14374,JLR Navnit Motors Santacruz East Charging Station (Private- Rs 25 per 15 mins will be charged offlin,4.001,131,1.5136,96.64
+20572,MH | Mumbai | Arsh Hyundai,3.926,133,1.514,96.64
+14794,"Trent House, Bandra East (Private Charger-Green Energy Powered)",4.176,131,1.5313,96.6
+14509,Trident Bandra Kurla Charging Station,4.246,132,1.5368,96.58
+17641,Jio-BP Charging Station,4.377,132,1.5374,96.58
+5639,Jio-BP Pulse Charging station,1.804,160,1.5402,96.58
+21068,Airport EV Charging Station,4.458,129,1.5456,96.57
+21134,Mumbai EV Point,4.458,129,1.5456,96.57
+14031,"Taj Sats Air Catering, Andheri East (Private Charger)",4.597,129,1.5525,96.55
+13260,"Audi Service, Kalina",4.29,131,1.5534,96.55
+14392,Shaw kia Kalina,4.293,131,1.5613,96.53
+21152,Test,4.409,132,1.563,96.53
+15238,The Oil and Natural Gas BKC (Private Charger),4.439,132,1.564,96.52
+14431,MGL Mahanagar Gas Limited Wadala Charging Station,3.948,143,1.5737,96.5
+20566,MH | Mumbai | JW Marriott Sahar,4.685,129,1.5743,96.5
+10832,Park Plus Charging Station,4.605,132,1.5886,96.47
+14634,"Golden Square CHSL, Santacruz East (Private Charger-Green Energy Powered)",4.617,131,1.59,96.47
+15127,Tata Power - Mankhurd Receiving Station (Green Energy Powered),0.053,216,1.6028,96.44
+14111,IOCL Filling Station BKC (Green Energy Powered),4.67,131,1.603,96.44
+17998,"Emerald CHS, Santacruz East (Private Charger)",4.732,130,1.6052,96.43
+14719,"Park Bay CHS, Santacruz East (Private Charger - Green Energy Powered)",4.624,131,1.6057,96.43
+5640,Jio-BP Pulse Charging station,4.136,143,1.6068,96.43
+13350,"Raheja, Kalina (Private Charger)",4.692,131,1.6162,96.41
+15121,Tata Power BKC Receiving Station (Green Energy Powered),4.837,132,1.6205,96.4
+14734,"Raheja Towers, Trident Road (Private Charger)",4.869,132,1.6261,96.39
+20575,MH | Mumbai | BKC - MMRDA Pay & Park (G Block) - Nr. IDFC First Bank,4.868,132,1.6265,96.39
+14816,"Windsor Condominium, Santacruz East (Private Charger)",4.758,131,1.6277,96.38
+19539,2022980-BP-BKC,4.912,132,1.6326,96.37
+14172,IOCL BARC Chembur (Green Energy Powered),1.789,175,1.6333,96.37
+13262,Bank of India (Private Charger),4.947,132,1.6337,96.37
+18013,Trent Vios Tower (Private Charger),4.354,144,1.6432,96.35
+13334,Kotak 27 BKC Bandra East Charging Station (Private-only restricted use),4.682,131,1.6441,96.35
+15240,UTI Asset Management (Private Charger-Green Energy Powered),4.96,131,1.6492,96.34
+14572,Arunodaya CHS Santacruz East (Private Charger - Green Energy Powered),4.799,131,1.6506,96.33
+21037,wr,3.71,155,1.6525,96.33
+21035, gyc,3.712,155,1.6527,96.33
+21036,tsts,3.712,155,1.6528,96.33
+21034,hay,3.716,155,1.6532,96.33
+21238,hshs,3.722,155,1.6541,96.32
+21240,scs,3.723,155,1.6543,96.32
+21239,nss,3.731,155,1.6553,96.32
+21020,tx,3.719,157,1.6553,96.32
+21019,gay,3.719,157,1.6553,96.32
+21241,yggy,3.733,155,1.6557,96.32
+21093,utt,3.739,155,1.6566,96.32
+14416,Lodha NCP Wadala(Private-For residents only),4.568,144,1.669,96.29
+13440,DCSEM Police Chowky New Mandala Anushaktinagar(Private Charger - Green Energy Powered),1.145,209,1.6835,96.26
+17982,"Lodha NCP, Wadala Tower 4 (Private Charger)",4.656,144,1.6855,96.25
+15129,Tata Power Colony (Green Energy Powered),2.973,151,1.6918,96.24
+14583,BGTA Ganga (Private Charger),4.923,144,1.7433,96.13
+15215,"ICICI Bank, BKC (Private Charger)",4.903,131,1.7482,96.12
+14581,BARC RIM GYM Park Kamet Anushakti Nagar (Private Charger-Green Energy Powered),1.815,208,1.772,96.06
+13439,DCSEM TMC hostel Western sector Anushaktinagar (Private Charger Green Energy Powered),2.87,172,1.9731,95.62
+14582,BARC Vikram Bhavan Anushakti Nagar (Private Charger-Green Energy Powered),2.556,208,2.1074,95.32
+20568,MH | Navi Mumbai | Four Points By Sheraton Navi Mumbai,0.261,349,2.601,94.22
+14603,"Chaurang CHS, Sanpada (Private Charger)",0.863,363,2.7452,93.9
+17559,EV DOCK Charging Station,1.034,356,2.7602,93.87
+11278,Power Bank Charging Station,1.625,350,2.7615,93.86
+5593,Jio-BP Pulse Charging station,1.407,366,2.8368,93.7
+20561,MH | Mumbai | ibis Navi Mumbai,0.125,391,2.938,93.47
+20560,MH | Mumbai | Navi Mumbai Marriott Hotel,0.233,391,2.9493,93.45
+20562,MH | Navi Mumbai | Marriott Executive Apartments - Rupa Renaissance,0.86,396,3.0745,93.17
+14088,"Taj Vivanta Navi Mumbai, Turbhe",0.374,401,3.0775,93.16
+14087,"Taj Vivanta Navi Mumbai, Turbhe (Private Charger)",0.352,402,3.0837,93.15
+13300,"Ashuraj Agencies, Pawne",2.096,389,3.2091,92.87
+16631,Bhavna Kia,1.417,393,3.2602,92.76
+6193,ZEVpoint Charging Stations,4.291,363,3.3144,92.63
+5595,Jio-BP Pulse Charging station,4.233,370,3.3705,92.51
+13273,State Bank of India Nerul (Private Charger),0.226,465,3.5221,92.17
+14902,Tata Motors (Fortune Cars),0.066,468,3.5296,92.16
+21151,Test,1.068,476,3.7581,91.65
+14694,Milloni CHSL (Private charger),1.104,481,3.7856,91.59
+16681,L&T Seawoods Residences (Private Charger),1.408,480,3.8095,91.53
+13858,"The Park, CBD Belapur",0.12,499,3.8307,91.49
+5592,Jio-BP Pulse Charging station,1.682,480,3.8542,91.44
+13267,"State Bank of India, Belapur (Private Charger)",0.585,512,3.9818,91.15
+14766,"Seawoods Estate CHS, Nerul (Private Charger)",3.061,481,4.068,90.96
+14765,"Seawoods Estate Ltd, Gate No-2 Seawoods (Private - Only for residential)",3.149,482,4.0914,90.91
+14767,"Seawoods Estate Ltd, Near Fire Office (Private Charger)",3.432,481,4.1194,90.85
+17561,EV DOCK Charging Station,2.266,505,4.1833,90.7
+6458,EV DOCK Charging Station,2.29,505,4.1994,90.67
+19522,BPCL Mumbai Kharghar Office,0.179,561,4.2548,90.54
+19523,BPCL Mumbai kharghhar Office 3kw,0.18,561,4.2548,90.54
+5591,Jio-BP Pulse Charging station,0.171,567,4.311,90.42
+17643,Jio-BP Charging Station,1.41,580,4.5427,89.91
+19209,SERVICE KEEDA,1.406,593,4.659,89.65
+14588,Bhagwati Greens 1 CHSL (Private Charger),1.857,590,4.7394,89.47
+13346,"Panvel Industrial Fastners, Mum-Pune Expressway",0.069,654,4.963,88.97
+21264,EV onwer station name,1.522,702,5.4965,87.79
+21254,Tata power charging station,1.686,701,5.5165,87.74
+21227,Public charging station,2.197,697,5.5556,87.65
+21078,dheeraj kawal,2.248,697,5.5627,87.64
+21077,dheeraj kawal,2.248,697,5.5627,87.64
+21228,EV gateway charging station,2.256,697,5.5639,87.64
+21255,public station,2.299,697,5.5697,87.62
+21256,jcjchf,2.3,697,5.5699,87.62
+21266,gg,2.3,697,5.5699,87.62
+21251,public charging stations,2.307,697,5.5708,87.62
+21253,TATA power charging station,2.307,697,5.5709,87.62
+21176,Thane,1.613,711,5.5823,87.59
+21263,fufuiggi,1.786,713,5.6239,87.5
+19208,Sharvil Ventures,1.194,722,5.6253,87.5
+15772,IndianOil Charging Stations,0.832,726,5.6328,87.48
+21252,Station owner charging station,2.274,720,5.7532,87.22
+21226,Public charging station,3.566,717,5.9011,86.89
+5590,Jio-BP Pulse Charging station,2.427,745,5.9539,86.77
+13660,Hotel Pravin,2.455,745,5.9581,86.76
+21194,Ummeed tower,4.074,735,6.1294,86.38
+13498,HPCL Trimurti Petroleum Panvel Charging Station,0.619,854,6.6096,85.31
+19504,2000093-AMOL AUTOMOBILES,1.993,854,6.7667,84.96
+19503,2000122-CENTURY FUEL STATION,2.504,874,6.9956,84.45
+5589,Jio-BP Pulse Charging station,1.798,943,7.5993,83.11
+20553,MH | Palaspe | Hotel 7/12 Panvel - Palaspe,4.361,911,7.6019,83.11
+13502,Chowk Highway Service Centre,3.165,1059,9.2364,79.47
+19506,2000129-HEMKUNT AUTOMOBILES,2.989,1241,10.6891,76.25
+19505,2000113-KRISHNA PETROLEUM,2.492,1278,11.0593,75.42
+14292,IOCL Sarsan Mum-Pune Highway,0.122,1346,11.1756,75.17
+17648,Jio-BP Charging Station,2.708,1310,11.2476,75.01
+14264,"IOCL Prakash Expressway, Mum-Pune Highway",0.086,1357,11.2813,74.93
+17562,EV DOCK Charging Station,3.359,1341,11.6666,74.07
+20552,MH | Lonavala | The Dukes Retreat,0.067,1618,16.7845,62.7
+15216,"ICICI Bank Learning Centre, Khandala (Private Charger)",0.06,1639,17.0459,62.12
+16507,Fariyas Resort Lonavala (Private Charger),0.556,1662,17.6487,60.78
+13918,Sluice House Lonavala (Private Charger),1.905,1651,17.9266,60.16
+18948,Statiq Regenta SGS Greenotel Station,1.212,1721,18.2341,59.48
+18950,Statiq SS Regenta Greenotel Lonavala Station,1.273,1721,18.2423,59.46
+5587,Jio-BP Pulse Charging station,1.475,1714,18.2538,59.44
+20547,MH | Lonavala | Mapro Garden,0.218,1743,18.2641,59.41
+17649,Jio-BP Charging Station,0.16,1752,18.2805,59.38
+10842,Nikol EV Charging Station,0.678,1760,18.4831,58.93
+18949,Statiq Hotel Rangat Station,1.685,1759,18.5737,58.73
+15140,"White House, Walvan (Private Charger)",1.227,1756,18.6432,58.57
+16575,Treasure Island Resort,2.255,1898,19.7188,56.18
+13921,Whispering Heights Pawna Lake,3.958,1845,20.7193,53.96
+18951,Statiq Bhajan Singh Da Dhabha Station,0.052,2428,24.0425,46.57
+15769,IndianOil Charging Stations,1.433,2358,24.0525,46.55
+17650,Jio-BP Charging Station,0.027,2438,24.1076,46.43
+14413,"Lodha Belmondo,Tower 8, Opp MCA Cricket Stadium (Private Charger)",2.944,2494,24.96,44.53
+14411,"Lodha Belmondo,Tower 24,Opp MCA Cricket Stadium (Private Charger)",3.26,2492,24.9857,44.48
+14412,Lodha Belmondo Opp MCA Cricket Stadium Near to Substation 4 (Private Charger),3.273,2492,24.9876,44.47
+16454,Apollo Eastern Tyres Nigdi,0.514,2612,25.6228,43.06
+10896,TruePower Charging Station,4.455,2557,25.6702,42.96
+13423,"Fujitsu Consulting, MIDC (Private Charger)",4.567,2592,26.0308,42.15
+14998,"TML Panchjanya Motors, Chinchwad ",0.992,2684,26.0436,42.13
+21018,MH | Pune | TML,0.847,2690,26.118,41.96
+6456,EV DOCK Charging Station,0.046,2716,26.1676,41.85
+5584,Jio-BP Pulse Charging station,1.594,2696,26.2454,41.68
+17654,Jio-BP Charging Station,0.144,2729,26.2762,41.61
+13949,Ginger Pune Pimpri,0.067,2728,26.282,41.6
+18947,Statiq Holiday Inn Express Pimpri Station,0.176,2728,26.2981,41.56
+13449,KSB Limited Pimpri (Private Charger),0.088,2734,26.3236,41.5
+13336,MSK Fasteners Chinchwad,1.781,2687,26.3401,41.47
+14489,More Petroleum Chikhali Pune Charging Station,4.557,2666,26.4916,41.13
+15154,Tata Motors Ltd ERC Pimpri,2.31,2702,26.6069,40.87
+15039,TML Sai Baba Theregaon ,2.922,2724,26.6211,40.84
+15090,Tata Motors Plant Chikhali (Private Charger),3.505,2692,26.6913,40.69
+17655,Jio-BP Charging Station,2.227,2762,26.739,40.58
+14350,IOCL Trishul Service Station,1.589,2774,26.8454,40.34
+14689,"Lorelle Society, Wakad (Private Charger)",4.984,2720,26.8847,40.26
+14720,"Park Royale CHS, Rahatani(Private Charger)",3.597,2749,26.8968,40.23
+14558,Aishwarya Residency Building A CHSL (Private Charger),4.449,2731,26.9117,40.2
+14490,Morya Transport Terminus MIDC Bhosari Charging Station,2.331,2785,27.0841,39.81
+20333,"GLIDA Kate Central Mall, Pune",1.762,2827,27.1356,39.7
+14530,Vilux Theater Charging Station,0.071,2903,27.4895,38.91
+18014,Vatsalya Vihar (Private Charger),3.378,2865,27.5954,38.68
+18944,Statiq Westend Center One Station,3.305,2866,27.6047,38.66
+18945,Statiq Nexus Westend Mall Station,3.408,2867,27.6447,38.57
+15150,Tata Communication Pune Alandi Road (Private Charger),4.011,2831,27.6484,38.56
+5578,Jio-BP Pulse Charging station,3.325,2865,27.706,38.43
+5579,Jio-BP Pulse Charging station,3.421,2868,27.7495,38.33
+20542,MH | Pune | JW Marriott - Pune,4.006,2918,28.1447,37.46
+13366,TMTC Mangaldas Road (Private Charger),2.117,2962,28.1963,37.34
+6455,EV DOCK Charging Station,2.429,2960,28.2396,37.25
+20543,MH | Pune | The Ritz-Carlton,0.114,3006,28.2637,37.19
+5577,Jio-BP Pulse Charging station,3.922,2918,28.3658,36.96
+17990,Bluegrass Residences (Private Charger),0.999,3006,28.3878,36.92
+14791,The Raheja woods CHSL Yerawada (Private Charger),1.197,3005,28.3999,36.89
+10844,Nikol EV Charging Station,1.494,3001,28.4233,36.84
+13957,"Blue Diamond, Koregaon Park (Private Charger)",1.634,2999,28.4375,36.81
+5575,Jio-BP Pulse Charging station,0.821,3019,28.4868,36.7
+20544,MH | Pune | ONYX,2.47,3006,28.5941,36.46
+20545,MH | Pune | Marriott Suites,3.147,3006,28.6889,36.25
+15026,"TML Rudra Motors, Viman Nagar",1.663,3037,28.7322,36.15
+17966,"Verdant 84, Koregaon Park Annexe",3.567,3006,28.7478,36.12
+6457,EV DOCK Charging Station,1.371,3044,28.7566,36.1
+20538,MH | Pune | Mittal Hyundai,1.184,3046,28.7647,36.08
+20539,MH | Pune | Novotel Hotel,1.805,3041,28.813,35.97
+19205,EFL MUNDHAWA 2,4.088,3005,28.8194,35.96
+20334,GLIDA Hyatt Regency Pune,1.836,3045,28.851,35.89
+20540,MH | Pune | ibis Pune Viman Nagar,1.955,3046,28.8727,35.84
+5574,Jio-BP Pulse Charging station,0.034,3080,28.879,35.82
+21136,Pune EV Charging Station,0.068,3082,28.919,35.74
+14592,Bramha Sky City Dhanori (Private Charger),1.294,3073,28.971,35.62
+14587,Belmac Residences Kalyani Nagar (Private Charger),3.21,3039,28.9743,35.61
+14526,Four Points By Sheraton Hotel,2.225,3082,29.1603,35.2
+5572,Jio-BP Pulse Charging station,4.018,3082,29.4108,34.64
+5571,Jio-BP Pulse Charging station,4.394,3083,29.4745,34.5
+13342,Nyati Plaza Charging Station,4.663,3083,29.5005,34.44
+20332,"GLIDA City Vista Apartments, Kharadi",4.228,3085,29.5017,34.44
+17339,Hotel Chul Mutton,4.45,3085,29.5126,34.42
+20546,MH | Pune | Fairfield by Marriott Pune Kharadi,4.612,3082,29.5514,34.33
