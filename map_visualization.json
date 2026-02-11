@@ -7,6 +7,8 @@
     "best_route_idx": 3083,
     "detour_lat": 18.578178314443207,
     "detour_lon": 73.90816070009969,
+    "source_to_detour_km": 153.91,
+    "total_distance_km": 158.361,
     "arrival_soc": 34.5,
     "energy_used_kwh": 29.474
   },
@@ -18,6 +20,8 @@
     "best_route_idx": 3082,
     "detour_lat": 18.5781994878616,
     "detour_lon": 73.90769063447247,
+    "source_to_detour_km": 153.86,
+    "total_distance_km": 157.945,
     "arrival_soc": 34.64,
     "energy_used_kwh": 29.411
   },
@@ -29,6 +33,8 @@
     "best_route_idx": 3080,
     "detour_lat": 18.578297653705075,
     "detour_lon": 73.90674754119053,
+    "source_to_detour_km": 153.76,
+    "total_distance_km": 153.863,
     "arrival_soc": 35.82,
     "energy_used_kwh": 28.879
   },
@@ -37,11 +43,13 @@
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 18.5620257,
     "station_lon": 73.8843877,
-    "best_route_idx": 3019,
-    "detour_lat": 18.5585059843043,
-    "detour_lon": 73.89135600068394,
-    "arrival_soc": 36.7,
-    "energy_used_kwh": 28.487
+    "best_route_idx": 3020,
+    "detour_lat": 18.55893379828326,
+    "detour_lon": 73.8915020519819,
+    "source_to_detour_km": 150.774,
+    "total_distance_km": 151.599,
+    "arrival_soc": 36.68,
+    "energy_used_kwh": 28.493
   },
   {
     "station_id": "5577",
@@ -51,6 +59,8 @@
     "best_route_idx": 2918,
     "detour_lat": 18.559886470412224,
     "detour_lon": 73.85370626775554,
+    "source_to_detour_km": 145.698,
+    "total_distance_km": 149.651,
     "arrival_soc": 36.96,
     "energy_used_kwh": 28.366
   },
@@ -59,66 +69,78 @@
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 18.5634788,
     "station_lon": 73.8071774,
-    "best_route_idx": 2865,
-    "detour_lat": 18.57532242991535,
-    "detour_lon": 73.83619400518971,
-    "arrival_soc": 38.43,
-    "energy_used_kwh": 27.706
+    "best_route_idx": 2867,
+    "detour_lat": 18.574470948161025,
+    "detour_lon": 73.83649634847482,
+    "source_to_detour_km": 143.152,
+    "total_distance_km": 146.475,
+    "arrival_soc": 38.42,
+    "energy_used_kwh": 27.711
   },
   {
     "station_id": "5579",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 18.5616176,
     "station_lon": 73.8069184,
-    "best_route_idx": 2868,
-    "detour_lat": 18.574048933665043,
-    "detour_lon": 73.83666011529415,
-    "arrival_soc": 38.33,
-    "energy_used_kwh": 27.75
+    "best_route_idx": 2869,
+    "detour_lat": 18.57362691916906,
+    "detour_lon": 73.83682388211349,
+    "source_to_detour_km": 143.252,
+    "total_distance_km": 146.675,
+    "arrival_soc": 38.32,
+    "energy_used_kwh": 27.754
   },
   {
     "station_id": "5584",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 18.6288711,
     "station_lon": 73.7841655,
-    "best_route_idx": 2696,
-    "detour_lat": 18.639136042081887,
-    "detour_lon": 73.79484044989333,
-    "arrival_soc": 41.68,
-    "energy_used_kwh": 26.245
+    "best_route_idx": 2698,
+    "detour_lat": 18.638437209992652,
+    "detour_lon": 73.79543784722554,
+    "source_to_detour_km": 134.703,
+    "total_distance_km": 136.297,
+    "arrival_soc": 41.65,
+    "energy_used_kwh": 26.257
   },
   {
     "station_id": "5587",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 18.7550941,
     "station_lon": 73.404067,
-    "best_route_idx": 1714,
-    "detour_lat": 18.767368021827757,
-    "detour_lon": 73.40960923568727,
-    "arrival_soc": 59.44,
-    "energy_used_kwh": 18.254
+    "best_route_idx": 1716,
+    "detour_lat": 18.766912449374377,
+    "detour_lon": 73.4104281650219,
+    "source_to_detour_km": 85.624,
+    "total_distance_km": 87.099,
+    "arrival_soc": 59.41,
+    "energy_used_kwh": 18.267
   },
   {
     "station_id": "5589",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 18.934489,
     "station_lon": 73.1807443,
-    "best_route_idx": 943,
-    "detour_lat": 18.923050589789867,
-    "detour_lon": 73.16868077976595,
-    "arrival_soc": 83.11,
-    "energy_used_kwh": 7.599
+    "best_route_idx": 941,
+    "detour_lat": 18.9236793672805,
+    "detour_lon": 73.16800107766416,
+    "source_to_detour_km": 46.987,
+    "total_distance_km": 48.787,
+    "arrival_soc": 83.14,
+    "energy_used_kwh": 7.587
   },
   {
     "station_id": "5590",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 18.981746,
     "station_lon": 73.1158052,
-    "best_route_idx": 745,
-    "detour_lat": 18.997675775526947,
-    "detour_lon": 73.13182518706088,
-    "arrival_soc": 86.77,
-    "energy_used_kwh": 5.954
+    "best_route_idx": 747,
+    "detour_lat": 18.996969388542965,
+    "detour_lon": 73.13241384288087,
+    "source_to_detour_km": 37.289,
+    "total_distance_km": 39.721,
+    "arrival_soc": 86.74,
+    "energy_used_kwh": 5.966
   },
   {
     "station_id": "5591",
@@ -128,6 +150,8 @@
     "best_route_idx": 567,
     "detour_lat": 19.03158540660238,
     "detour_lon": 73.06496623937774,
+    "source_to_detour_km": 28.291,
+    "total_distance_km": 28.492,
     "arrival_soc": 90.42,
     "energy_used_kwh": 4.311
   },
@@ -139,6 +163,8 @@
     "best_route_idx": 480,
     "detour_lat": 19.031253840204663,
     "detour_lon": 73.03005406254937,
+    "source_to_detour_km": 23.952,
+    "total_distance_km": 25.665,
     "arrival_soc": 91.44,
     "energy_used_kwh": 3.854
   },
@@ -147,22 +173,26 @@
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.05528,
     "station_lon": 73.006771,
-    "best_route_idx": 366,
-    "detour_lat": 19.067987017201773,
-    "detour_lon": 73.0065353282739,
-    "arrival_soc": 93.7,
-    "energy_used_kwh": 2.837
+    "best_route_idx": 417,
+    "detour_lat": 19.056597324786367,
+    "detour_lon": 73.0194932239357,
+    "source_to_detour_km": 20.804,
+    "total_distance_km": 22.149,
+    "arrival_soc": 92.75,
+    "energy_used_kwh": 3.264
   },
   {
     "station_id": "5595",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.1057683,
     "station_lon": 73.0120151,
-    "best_route_idx": 370,
-    "detour_lat": 19.067849469227163,
-    "detour_lon": 73.00843281385806,
-    "arrival_soc": 92.51,
-    "energy_used_kwh": 3.37
+    "best_route_idx": 369,
+    "detour_lat": 19.067883856220813,
+    "detour_lon": 73.00795844246203,
+    "source_to_detour_km": 18.416,
+    "total_distance_km": 22.65,
+    "arrival_soc": 92.52,
+    "energy_used_kwh": 3.368
   },
   {
     "station_id": "5618",
@@ -172,6 +202,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 10.674,
     "arrival_soc": 96.64,
     "energy_used_kwh": 1.511
   },
@@ -183,6 +215,8 @@
     "best_route_idx": 129,
     "detour_lat": 19.071765250740615,
     "detour_lon": 72.90896995409338,
+    "source_to_detour_km": 6.428,
+    "total_distance_km": 9.233,
     "arrival_soc": 97.11,
     "energy_used_kwh": 1.302
   },
@@ -194,6 +228,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.992,
     "arrival_soc": 98.45,
     "energy_used_kwh": 0.697
   },
@@ -205,6 +241,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 2.535,
     "arrival_soc": 98.92,
     "energy_used_kwh": 0.487
   },
@@ -213,9 +251,11 @@
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.1157499,
     "station_lon": 72.9097603,
-    "best_route_idx": 6,
-    "detour_lat": 19.108018820761853,
-    "detour_lon": 72.92406856318432,
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 2.069,
     "arrival_soc": 98.96,
     "energy_used_kwh": 0.467
   },
@@ -227,6 +267,8 @@
     "best_route_idx": 15,
     "detour_lat": 19.110787351334356,
     "detour_lon": 72.9255244169801,
+    "source_to_detour_km": 0.741,
+    "total_distance_km": 1.798,
     "arrival_soc": 99.44,
     "energy_used_kwh": 0.253
   },
@@ -238,6 +280,8 @@
     "best_route_idx": 27,
     "detour_lat": 19.109656528111046,
     "detour_lon": 72.93092775429601,
+    "source_to_detour_km": 1.337,
+    "total_distance_km": 2.796,
     "arrival_soc": 99.21,
     "energy_used_kwh": 0.353
   },
@@ -249,6 +293,8 @@
     "best_route_idx": 87,
     "detour_lat": 19.085757060746374,
     "detour_lon": 72.92223917032362,
+    "source_to_detour_km": 4.329,
+    "total_distance_km": 4.858,
     "arrival_soc": 98.47,
     "energy_used_kwh": 0.69
   },
@@ -260,6 +306,8 @@
     "best_route_idx": 129,
     "detour_lat": 19.071765250740615,
     "detour_lon": 72.90896995409338,
+    "source_to_detour_km": 6.428,
+    "total_distance_km": 8.039,
     "arrival_soc": 97.39,
     "energy_used_kwh": 1.176
   },
@@ -268,77 +316,91 @@
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.0662069,
     "station_lon": 72.9285609,
-    "best_route_idx": 178,
-    "detour_lat": 19.059183828692102,
-    "detour_lon": 72.9240235184253,
-    "arrival_soc": 96.79,
-    "energy_used_kwh": 1.446
+    "best_route_idx": 177,
+    "detour_lat": 19.05939663475558,
+    "detour_lon": 72.9236044268184,
+    "source_to_detour_km": 8.821,
+    "total_distance_km": 9.74,
+    "arrival_soc": 96.8,
+    "energy_used_kwh": 1.442
   },
   {
     "station_id": "5637",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.0516704,
     "station_lon": 72.9176435,
-    "best_route_idx": 171,
-    "detour_lat": 19.060673471136436,
-    "detour_lon": 72.921089877177,
-    "arrival_soc": 96.81,
-    "energy_used_kwh": 1.435
+    "best_route_idx": 172,
+    "detour_lat": 19.06046066507296,
+    "detour_lon": 72.9215089687839,
+    "source_to_detour_km": 8.571,
+    "total_distance_km": 9.63,
+    "arrival_soc": 96.8,
+    "energy_used_kwh": 1.438
   },
   {
     "station_id": "5638",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.0541231,
     "station_lon": 72.9155027,
-    "best_route_idx": 162,
-    "detour_lat": 19.06226937013861,
-    "detour_lon": 72.9171665319511,
-    "arrival_soc": 97.01,
-    "energy_used_kwh": 1.347
+    "best_route_idx": 163,
+    "detour_lat": 19.062115215403104,
+    "detour_lon": 72.91761345114227,
+    "source_to_detour_km": 8.121,
+    "total_distance_km": 9.037,
+    "arrival_soc": 97.0,
+    "energy_used_kwh": 1.349
   },
   {
     "station_id": "5639",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.0467823,
     "station_lon": 72.9120604,
-    "best_route_idx": 160,
-    "detour_lat": 19.062577679609618,
-    "detour_lon": 72.91627269356876,
-    "arrival_soc": 96.58,
-    "energy_used_kwh": 1.54
+    "best_route_idx": 162,
+    "detour_lat": 19.06226937013861,
+    "detour_lon": 72.9171665319511,
+    "source_to_detour_km": 8.071,
+    "total_distance_km": 9.875,
+    "arrival_soc": 96.56,
+    "energy_used_kwh": 1.548
   },
   {
     "station_id": "5640",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.0436753,
     "station_lon": 72.8787988,
-    "best_route_idx": 143,
-    "detour_lat": 19.066844576533995,
-    "detour_lon": 72.91005618904144,
-    "arrival_soc": 96.43,
-    "energy_used_kwh": 1.607
+    "best_route_idx": 144,
+    "detour_lat": 19.06640400514969,
+    "detour_lon": 72.91015136474118,
+    "source_to_detour_km": 7.173,
+    "total_distance_km": 11.326,
+    "arrival_soc": 96.42,
+    "energy_used_kwh": 1.611
   },
   {
     "station_id": "5641",
     "name": "Jio-BP Pulse Charging station",
     "station_lat": 19.0452413,
     "station_lon": 72.8937031,
-    "best_route_idx": 146,
-    "detour_lat": 19.06567542576286,
-    "detour_lon": 72.91063381092634,
-    "arrival_soc": 96.71,
-    "energy_used_kwh": 1.478
+    "best_route_idx": 148,
+    "detour_lat": 19.065054233374358,
+    "detour_lon": 72.91132185810105,
+    "source_to_detour_km": 7.371,
+    "total_distance_km": 10.249,
+    "arrival_soc": 96.65,
+    "energy_used_kwh": 1.507
   },
   {
     "station_id": "6193",
     "name": "ZEVpoint Charging Stations",
     "station_lat": 19.106530952,
     "station_lon": 73.0086464712,
-    "best_route_idx": 363,
-    "detour_lat": 19.06809017818273,
-    "detour_lon": 73.00511221408577,
-    "arrival_soc": 92.63,
-    "energy_used_kwh": 3.314
+    "best_route_idx": 362,
+    "detour_lat": 19.068124565176383,
+    "detour_lon": 73.00463784268973,
+    "source_to_detour_km": 18.066,
+    "total_distance_km": 22.357,
+    "arrival_soc": 92.66,
+    "energy_used_kwh": 3.304
   },
   {
     "station_id": "6455",
@@ -348,6 +410,8 @@
     "best_route_idx": 2960,
     "detour_lat": 18.549661277123043,
     "detour_lon": 73.87008758242325,
+    "source_to_detour_km": 147.797,
+    "total_distance_km": 150.297,
     "arrival_soc": 37.25,
     "energy_used_kwh": 28.24
   },
@@ -359,6 +423,8 @@
     "best_route_idx": 2716,
     "detour_lat": 18.632141245593566,
     "detour_lon": 73.8008056130768,
+    "source_to_detour_km": 135.603,
+    "total_distance_km": 135.693,
     "arrival_soc": 41.85,
     "energy_used_kwh": 26.168
   },
@@ -367,22 +433,26 @@
     "name": "EV DOCK Charging Station",
     "station_lat": 18.5619178,
     "station_lon": 73.9080525,
-    "best_route_idx": 3044,
-    "detour_lat": 18.568268505668197,
-    "detour_lon": 73.89691466157323,
-    "arrival_soc": 36.1,
-    "energy_used_kwh": 28.757
+    "best_route_idx": 3043,
+    "detour_lat": 18.5678895488485,
+    "detour_lon": 73.89665932168403,
+    "source_to_detour_km": 151.923,
+    "total_distance_km": 153.295,
+    "arrival_soc": 36.11,
+    "energy_used_kwh": 28.752
   },
   {
     "station_id": "6458",
     "name": "EV DOCK Charging Station",
     "station_lat": 19.0069382,
     "station_lon": 73.0281696,
-    "best_route_idx": 505,
-    "detour_lat": 19.025044530625287,
-    "detour_lon": 73.03906177458465,
-    "arrival_soc": 90.67,
-    "energy_used_kwh": 4.199
+    "best_route_idx": 506,
+    "detour_lat": 19.02475800125086,
+    "detour_lon": 73.03942834657785,
+    "source_to_detour_km": 25.242,
+    "total_distance_km": 27.55,
+    "arrival_soc": 90.64,
+    "energy_used_kwh": 4.21
   },
   {
     "station_id": "6461",
@@ -392,6 +462,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.733,
     "arrival_soc": 98.58,
     "energy_used_kwh": 0.641
   },
@@ -403,6 +475,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 4.156,
     "arrival_soc": 98.58,
     "energy_used_kwh": 0.64
   },
@@ -414,6 +488,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.196,
     "arrival_soc": 96.47,
     "energy_used_kwh": 1.589
   },
@@ -425,6 +501,8 @@
     "best_route_idx": 1760,
     "detour_lat": 18.75895167122109,
     "detour_lon": 73.42903120243858,
+    "source_to_detour_km": 87.824,
+    "total_distance_km": 88.517,
     "arrival_soc": 58.93,
     "energy_used_kwh": 18.483
   },
@@ -436,6 +514,8 @@
     "best_route_idx": 3001,
     "detour_lat": 18.55295846080379,
     "detour_lon": 73.88728420249637,
+    "source_to_detour_km": 149.832,
+    "total_distance_km": 151.331,
     "arrival_soc": 36.84,
     "energy_used_kwh": 28.423
   },
@@ -444,11 +524,13 @@
     "name": "TruePower Charging Station",
     "station_lat": 18.63829,
     "station_lon": 73.7411,
-    "best_route_idx": 2557,
-    "detour_lat": 18.678069214844196,
-    "detour_lon": 73.74654610272712,
-    "arrival_soc": 42.96,
-    "energy_used_kwh": 25.67
+    "best_route_idx": 2620,
+    "detour_lat": 18.66536173207656,
+    "detour_lon": 73.77172514624476,
+    "source_to_detour_km": 130.803,
+    "total_distance_km": 135.216,
+    "arrival_soc": 41.94,
+    "energy_used_kwh": 26.129
   },
   {
     "station_id": "11278",
@@ -458,6 +540,8 @@
     "best_route_idx": 350,
     "detour_lat": 19.068585111962673,
     "detour_lon": 72.9989497863246,
+    "source_to_detour_km": 17.466,
+    "total_distance_km": 19.093,
     "arrival_soc": 93.86,
     "energy_used_kwh": 2.761
   },
@@ -469,6 +553,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 10.86,
     "arrival_soc": 96.55,
     "energy_used_kwh": 1.553
   },
@@ -480,6 +566,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.538,
     "arrival_soc": 96.37,
     "energy_used_kwh": 1.634
   },
@@ -491,6 +579,8 @@
     "best_route_idx": 512,
     "detour_lat": 19.02356302468403,
     "detour_lon": 73.04190188715872,
+    "source_to_detour_km": 25.542,
+    "total_distance_km": 26.144,
     "arrival_soc": 91.15,
     "energy_used_kwh": 3.982
   },
@@ -502,6 +592,8 @@
     "best_route_idx": 465,
     "detour_lat": 19.03793394413725,
     "detour_lon": 73.02906780720386,
+    "source_to_detour_km": 23.202,
+    "total_distance_km": 23.443,
     "arrival_soc": 92.17,
     "energy_used_kwh": 3.522
   },
@@ -513,6 +605,8 @@
     "best_route_idx": 6,
     "detour_lat": 19.108018820761853,
     "detour_lon": 72.92406856318432,
+    "source_to_detour_km": 0.3,
+    "total_distance_km": 4.239,
     "arrival_soc": 98.73,
     "energy_used_kwh": 0.571
   },
@@ -524,6 +618,8 @@
     "best_route_idx": 389,
     "detour_lat": 19.067196116347763,
     "detour_lon": 73.01744587038287,
+    "source_to_detour_km": 19.416,
+    "total_distance_km": 21.524,
     "arrival_soc": 92.87,
     "energy_used_kwh": 3.209
   },
@@ -535,6 +631,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 1.561,
     "arrival_soc": 99.09,
     "energy_used_kwh": 0.411
   },
@@ -543,9 +641,11 @@
     "name": "Citipark, Powai (Private Charger)",
     "station_lat": 19.1157706,
     "station_lon": 72.9096703,
-    "best_route_idx": 6,
-    "detour_lat": 19.108018820761853,
-    "detour_lon": 72.92406856318432,
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 2.078,
     "arrival_soc": 98.97,
     "energy_used_kwh": 0.465
   },
@@ -554,11 +654,13 @@
     "name": "Crisil, Powai (Private Charger - Green Energy Powered)",
     "station_lat": 19.117112,
     "station_lon": 72.91017,
-    "best_route_idx": 7,
-    "detour_lat": 19.10770607872467,
-    "detour_lon": 72.92373057505651,
-    "arrival_soc": 98.95,
-    "energy_used_kwh": 0.472
+    "best_route_idx": 11,
+    "detour_lat": 19.109182197061696,
+    "detour_lon": 72.92466847519023,
+    "source_to_detour_km": 0.541,
+    "total_distance_km": 2.301,
+    "arrival_soc": 98.88,
+    "energy_used_kwh": 0.504
   },
   {
     "station_id": "13305",
@@ -568,6 +670,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 2.034,
     "arrival_soc": 99.07,
     "energy_used_kwh": 0.419
   },
@@ -579,6 +683,8 @@
     "best_route_idx": 6,
     "detour_lat": 19.108018820761853,
     "detour_lon": 72.92406856318432,
+    "source_to_detour_km": 0.3,
+    "total_distance_km": 1.589,
     "arrival_soc": 98.72,
     "energy_used_kwh": 0.576
   },
@@ -590,6 +696,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 1.639,
     "arrival_soc": 98.71,
     "energy_used_kwh": 0.579
   },
@@ -601,6 +709,8 @@
     "best_route_idx": 11,
     "detour_lat": 19.109182197061696,
     "detour_lon": 72.92466847519023,
+    "source_to_detour_km": 0.541,
+    "total_distance_km": 2.773,
     "arrival_soc": 98.9,
     "energy_used_kwh": 0.494
   },
@@ -612,6 +722,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 2.057,
     "arrival_soc": 98.97,
     "energy_used_kwh": 0.466
   },
@@ -620,11 +732,13 @@
     "name": "Spectra, Powai (Private Charger - Green Energy Powered)",
     "station_lat": 19.1164785,
     "station_lon": 72.9108725,
-    "best_route_idx": 7,
-    "detour_lat": 19.10770607872467,
-    "detour_lon": 72.92373057505651,
-    "arrival_soc": 98.97,
-    "energy_used_kwh": 0.465
+    "best_route_idx": 9,
+    "detour_lat": 19.10840429606563,
+    "detour_lon": 72.92419129244266,
+    "source_to_detour_km": 0.441,
+    "total_distance_km": 2.104,
+    "arrival_soc": 98.92,
+    "energy_used_kwh": 0.485
   },
   {
     "station_id": "13311",
@@ -634,6 +748,8 @@
     "best_route_idx": 6,
     "detour_lat": 19.108018820761853,
     "detour_lon": 72.92406856318432,
+    "source_to_detour_km": 0.3,
+    "total_distance_km": 2.139,
     "arrival_soc": 98.92,
     "energy_used_kwh": 0.488
   },
@@ -642,11 +758,13 @@
     "name": "Winchester, Powai (Private Charger - Green Energy Powered)",
     "station_lat": 19.112502,
     "station_lon": 72.912455,
-    "best_route_idx": 5,
-    "detour_lat": 19.108412350634875,
-    "detour_lon": 72.92429880265361,
-    "arrival_soc": 98.76,
-    "energy_used_kwh": 0.559
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 1.649,
+    "arrival_soc": 98.72,
+    "energy_used_kwh": 0.575
   },
   {
     "station_id": "13334",
@@ -656,6 +774,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.268,
     "arrival_soc": 96.35,
     "energy_used_kwh": 1.644
   },
@@ -664,11 +784,13 @@
     "name": "MSK Fasteners Chinchwad",
     "station_lat": 18.652228,
     "station_lon": 73.805385,
-    "best_route_idx": 2687,
-    "detour_lat": 18.642280786483454,
-    "detour_lon": 73.7921521618984,
-    "arrival_soc": 41.47,
-    "energy_used_kwh": 26.34
+    "best_route_idx": 2685,
+    "detour_lat": 18.642979618572692,
+    "detour_lon": 73.7915547645662,
+    "source_to_detour_km": 134.053,
+    "total_distance_km": 135.836,
+    "arrival_soc": 41.52,
+    "energy_used_kwh": 26.317
   },
   {
     "station_id": "13342",
@@ -678,6 +800,8 @@
     "best_route_idx": 3083,
     "detour_lat": 18.578178314443207,
     "detour_lon": 73.90816070009969,
+    "source_to_detour_km": 153.91,
+    "total_distance_km": 158.631,
     "arrival_soc": 34.44,
     "energy_used_kwh": 29.5
   },
@@ -689,6 +813,8 @@
     "best_route_idx": 654,
     "detour_lat": 19.02343806039735,
     "detour_lon": 73.09891875720932,
+    "source_to_detour_km": 32.64,
+    "total_distance_km": 32.78,
     "arrival_soc": 88.97,
     "energy_used_kwh": 4.963
   },
@@ -700,6 +826,8 @@
     "best_route_idx": 101,
     "detour_lat": 19.08076043543752,
     "detour_lon": 72.91819423834805,
+    "source_to_detour_km": 5.029,
+    "total_distance_km": 5.129,
     "arrival_soc": 98.35,
     "energy_used_kwh": 0.744
   },
@@ -711,6 +839,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.266,
     "arrival_soc": 96.41,
     "energy_used_kwh": 1.616
   },
@@ -722,6 +852,8 @@
     "best_route_idx": 2962,
     "detour_lat": 18.54920206445433,
     "detour_lon": 73.87090319895425,
+    "source_to_detour_km": 147.897,
+    "total_distance_km": 150.026,
     "arrival_soc": 37.34,
     "energy_used_kwh": 28.196
   },
@@ -733,6 +865,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 9.948,
     "arrival_soc": 96.82,
     "energy_used_kwh": 1.432
   },
@@ -744,6 +878,8 @@
     "best_route_idx": 15,
     "detour_lat": 19.110787351334356,
     "detour_lon": 72.9255244169801,
+    "source_to_detour_km": 0.741,
+    "total_distance_km": 2.699,
     "arrival_soc": 99.2,
     "energy_used_kwh": 0.362
   },
@@ -755,6 +891,8 @@
     "best_route_idx": 6,
     "detour_lat": 19.108018820761853,
     "detour_lon": 72.92406856318432,
+    "source_to_detour_km": 0.3,
+    "total_distance_km": 1.726,
     "arrival_soc": 99.51,
     "energy_used_kwh": 0.219
   },
@@ -766,6 +904,8 @@
     "best_route_idx": 2592,
     "detour_lat": 18.67462663983654,
     "detour_lon": 73.76273900402691,
+    "source_to_detour_km": 129.403,
+    "total_distance_km": 133.966,
     "arrival_soc": 42.15,
     "energy_used_kwh": 26.031
   },
@@ -774,11 +914,13 @@
     "name": "DCSEM TMC hostel Western sector Anushaktinagar (Private Charger Green Energy Powered)",
     "station_lat": 19.0367003,
     "station_lon": 72.9106806,
-    "best_route_idx": 172,
-    "detour_lat": 19.06046066507296,
-    "detour_lon": 72.9215089687839,
-    "arrival_soc": 95.62,
-    "energy_used_kwh": 1.973
+    "best_route_idx": 175,
+    "detour_lat": 19.059822246882533,
+    "detour_lon": 72.9227662436046,
+    "source_to_detour_km": 8.721,
+    "total_distance_km": 11.589,
+    "arrival_soc": 95.53,
+    "energy_used_kwh": 2.013
   },
   {
     "station_id": "13440",
@@ -788,6 +930,8 @@
     "best_route_idx": 209,
     "detour_lat": 19.052133386451285,
     "detour_lon": 72.93622309343873,
+    "source_to_detour_km": 10.421,
+    "total_distance_km": 11.6,
     "arrival_soc": 96.26,
     "energy_used_kwh": 1.683
   },
@@ -799,6 +943,8 @@
     "best_route_idx": 2734,
     "detour_lat": 18.625842770540928,
     "detour_lon": 73.8061699631489,
+    "source_to_detour_km": 136.503,
+    "total_distance_km": 136.646,
     "arrival_soc": 41.5,
     "energy_used_kwh": 26.324
   },
@@ -810,6 +956,8 @@
     "best_route_idx": 16,
     "detour_lat": 19.110932669373735,
     "detour_lon": 72.92594353280582,
+    "source_to_detour_km": 0.788,
+    "total_distance_km": 3.016,
     "arrival_soc": 99.09,
     "energy_used_kwh": 0.409
   },
@@ -821,6 +969,8 @@
     "best_route_idx": 854,
     "detour_lat": 18.958975708618684,
     "detour_lon": 73.15739147309537,
+    "source_to_detour_km": 42.638,
+    "total_distance_km": 43.265,
     "arrival_soc": 85.31,
     "energy_used_kwh": 6.61
   },
@@ -829,11 +979,13 @@
     "name": "Chowk Highway Service Centre",
     "station_lat": 18.90173,
     "station_lon": 73.23436,
-    "best_route_idx": 1059,
-    "detour_lat": 18.888330147808116,
-    "detour_lon": 73.2078465354136,
-    "arrival_soc": 79.47,
-    "energy_used_kwh": 9.236
+    "best_route_idx": 1056,
+    "detour_lat": 18.889527326151214,
+    "detour_lon": 73.20718943752603,
+    "source_to_detour_km": 52.734,
+    "total_distance_km": 55.898,
+    "arrival_soc": 79.54,
+    "energy_used_kwh": 9.207
   },
   {
     "station_id": "13516",
@@ -843,6 +995,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 5.227,
     "arrival_soc": 98.42,
     "energy_used_kwh": 0.713
   },
@@ -851,11 +1005,13 @@
     "name": "Hotel Pravin",
     "station_lat": 18.98164,
     "station_lon": 73.11555,
-    "best_route_idx": 745,
-    "detour_lat": 18.997675775526947,
-    "detour_lon": 73.13182518706088,
-    "arrival_soc": 86.76,
-    "energy_used_kwh": 5.958
+    "best_route_idx": 747,
+    "detour_lat": 18.996969388542965,
+    "detour_lon": 73.13241384288087,
+    "source_to_detour_km": 37.289,
+    "total_distance_km": 39.749,
+    "arrival_soc": 86.73,
+    "energy_used_kwh": 5.97
   },
   {
     "station_id": "13728",
@@ -865,6 +1021,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 5.238,
     "arrival_soc": 98.47,
     "energy_used_kwh": 0.689
   },
@@ -876,6 +1034,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 5.039,
     "arrival_soc": 98.48,
     "energy_used_kwh": 0.683
   },
@@ -887,6 +1047,8 @@
     "best_route_idx": 499,
     "detour_lat": 19.026779632570566,
     "detour_lon": 73.03687669231314,
+    "source_to_detour_km": 24.892,
+    "total_distance_km": 25.061,
     "arrival_soc": 91.49,
     "energy_used_kwh": 3.831
   },
@@ -898,6 +1060,8 @@
     "best_route_idx": 1651,
     "detour_lat": 18.761276975775342,
     "detour_lon": 73.38377604548297,
+    "source_to_detour_km": 82.376,
+    "total_distance_km": 84.311,
     "arrival_soc": 60.16,
     "energy_used_kwh": 17.927
   },
@@ -909,6 +1073,8 @@
     "best_route_idx": 1845,
     "detour_lat": 18.733490745204175,
     "detour_lon": 73.44534615517847,
+    "source_to_detour_km": 92.066,
+    "total_distance_km": 96.024,
     "arrival_soc": 53.96,
     "energy_used_kwh": 20.719
   },
@@ -920,6 +1086,8 @@
     "best_route_idx": 2728,
     "detour_lat": 18.62794226222514,
     "detour_lon": 73.8043818464582,
+    "source_to_detour_km": 136.203,
+    "total_distance_km": 136.291,
     "arrival_soc": 41.6,
     "energy_used_kwh": 26.282
   },
@@ -931,6 +1099,8 @@
     "best_route_idx": 2999,
     "detour_lat": 18.553061909722047,
     "detour_lon": 73.88634187689554,
+    "source_to_detour_km": 149.732,
+    "total_distance_km": 151.37,
     "arrival_soc": 36.81,
     "energy_used_kwh": 28.438
   },
@@ -939,11 +1109,13 @@
     "name": "Taj Sats Air Catering, Andheri East (Private Charger)",
     "station_lat": 19.100796,
     "station_lon": 72.877516,
-    "best_route_idx": 129,
-    "detour_lat": 19.071765250740615,
-    "detour_lon": 72.90896995409338,
-    "arrival_soc": 96.55,
-    "energy_used_kwh": 1.552
+    "best_route_idx": 128,
+    "detour_lat": 19.072028388783522,
+    "detour_lon": 72.90935575799088,
+    "source_to_detour_km": 6.378,
+    "total_distance_km": 11.007,
+    "arrival_soc": 96.56,
+    "energy_used_kwh": 1.549
   },
   {
     "station_id": "14037",
@@ -953,6 +1125,8 @@
     "best_route_idx": 71,
     "detour_lat": 19.092153456223773,
     "detour_lon": 72.92561344396074,
+    "source_to_detour_km": 3.529,
+    "total_distance_km": 3.938,
     "arrival_soc": 98.75,
     "energy_used_kwh": 0.561
   },
@@ -964,6 +1138,8 @@
     "best_route_idx": 71,
     "detour_lat": 19.092153456223773,
     "detour_lon": 72.92561344396074,
+    "source_to_detour_km": 3.529,
+    "total_distance_km": 3.972,
     "arrival_soc": 98.74,
     "energy_used_kwh": 0.568
   },
@@ -975,6 +1151,8 @@
     "best_route_idx": 402,
     "detour_lat": 19.063341410505448,
     "detour_lon": 73.01941452790842,
+    "source_to_detour_km": 20.054,
+    "total_distance_km": 20.419,
     "arrival_soc": 93.15,
     "energy_used_kwh": 3.084
   },
@@ -986,6 +1164,8 @@
     "best_route_idx": 401,
     "detour_lat": 19.06379105981633,
     "detour_lon": 73.0194111266277,
+    "source_to_detour_km": 20.004,
+    "total_distance_km": 20.398,
     "arrival_soc": 93.16,
     "energy_used_kwh": 3.078
   },
@@ -997,6 +1177,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.259,
     "arrival_soc": 96.44,
     "energy_used_kwh": 1.603
   },
@@ -1005,11 +1187,13 @@
     "name": "IOCL BARC Chembur (Green Energy Powered)",
     "station_lat": 19.0448354,
     "station_lon": 72.9163632,
-    "best_route_idx": 175,
-    "detour_lat": 19.059822246882533,
-    "detour_lon": 72.9227662436046,
-    "arrival_soc": 96.37,
-    "energy_used_kwh": 1.633
+    "best_route_idx": 177,
+    "detour_lat": 19.05939663475558,
+    "detour_lon": 72.9236044268184,
+    "source_to_detour_km": 8.821,
+    "total_distance_km": 10.61,
+    "arrival_soc": 96.35,
+    "energy_used_kwh": 1.641
   },
   {
     "station_id": "14264",
@@ -1019,6 +1203,8 @@
     "best_route_idx": 1357,
     "detour_lat": 18.7913817346826,
     "detour_lon": 73.29939900319121,
+    "source_to_detour_km": 67.782,
+    "total_distance_km": 67.914,
     "arrival_soc": 74.93,
     "energy_used_kwh": 11.281
   },
@@ -1030,6 +1216,8 @@
     "best_route_idx": 1346,
     "detour_lat": 18.793098055245338,
     "detour_lon": 73.29449884472953,
+    "source_to_detour_km": 67.232,
+    "total_distance_km": 67.38,
     "arrival_soc": 75.17,
     "energy_used_kwh": 11.176
   },
@@ -1038,11 +1226,13 @@
     "name": "IOCL Trishul Service Station",
     "station_lat": 18.62087,
     "station_lon": 73.82981,
-    "best_route_idx": 2774,
-    "detour_lat": 18.611877857926483,
-    "detour_lon": 73.81813146560005,
-    "arrival_soc": 40.34,
-    "energy_used_kwh": 26.845
+    "best_route_idx": 2772,
+    "detour_lat": 18.61257427238028,
+    "detour_lon": 73.81753103788915,
+    "source_to_detour_km": 138.403,
+    "total_distance_km": 139.992,
+    "arrival_soc": 40.36,
+    "energy_used_kwh": 26.837
   },
   {
     "station_id": "14374",
@@ -1052,6 +1242,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 10.567,
     "arrival_soc": 96.64,
     "energy_used_kwh": 1.514
   },
@@ -1063,6 +1255,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 10.861,
     "arrival_soc": 96.53,
     "energy_used_kwh": 1.561
   },
@@ -1071,22 +1265,26 @@
     "name": "Lodha Belmondo,Tower 24,Opp MCA Cricket Stadium (Private Charger)",
     "station_lat": 18.662078,
     "station_lon": 73.704381,
-    "best_route_idx": 2492,
-    "detour_lat": 18.68787442703349,
-    "detour_lon": 73.71947319348705,
-    "arrival_soc": 44.48,
-    "energy_used_kwh": 24.986
+    "best_route_idx": 2493,
+    "detour_lat": 18.68757886142157,
+    "detour_lon": 73.71983092979664,
+    "source_to_detour_km": 124.457,
+    "total_distance_km": 127.726,
+    "arrival_soc": 44.45,
+    "energy_used_kwh": 24.996
   },
   {
     "station_id": "14412",
     "name": "Lodha Belmondo Opp MCA Cricket Stadium Near to Substation 4 (Private Charger)",
     "station_lat": 18.6619549,
     "station_lon": 73.7043629,
-    "best_route_idx": 2492,
-    "detour_lat": 18.68787442703349,
-    "detour_lon": 73.71947319348705,
-    "arrival_soc": 44.47,
-    "energy_used_kwh": 24.988
+    "best_route_idx": 2493,
+    "detour_lat": 18.68757886142157,
+    "detour_lon": 73.71983092979664,
+    "source_to_detour_km": 124.457,
+    "total_distance_km": 127.739,
+    "arrival_soc": 44.45,
+    "energy_used_kwh": 24.998
   },
   {
     "station_id": "14413",
@@ -1096,6 +1294,8 @@
     "best_route_idx": 2494,
     "detour_lat": 18.687283295809653,
     "detour_lon": 73.72018866610624,
+    "source_to_detour_km": 124.507,
+    "total_distance_km": 127.457,
     "arrival_soc": 44.53,
     "energy_used_kwh": 24.96
   },
@@ -1104,11 +1304,13 @@
     "name": "Lodha NCP Wadala(Private-For residents only)",
     "station_lat": 19.038298,
     "station_lon": 72.878178,
-    "best_route_idx": 144,
-    "detour_lat": 19.06640400514969,
-    "detour_lon": 72.91015136474118,
-    "arrival_soc": 96.29,
-    "energy_used_kwh": 1.669
+    "best_route_idx": 145,
+    "detour_lat": 19.065986021957105,
+    "detour_lon": 72.91028978733898,
+    "source_to_detour_km": 7.221,
+    "total_distance_km": 11.789,
+    "arrival_soc": 96.28,
+    "energy_used_kwh": 1.674
   },
   {
     "station_id": "14431",
@@ -1118,6 +1320,8 @@
     "best_route_idx": 143,
     "detour_lat": 19.066844576533995,
     "detour_lon": 72.91005618904144,
+    "source_to_detour_km": 7.123,
+    "total_distance_km": 11.101,
     "arrival_soc": 96.5,
     "energy_used_kwh": 1.574
   },
@@ -1126,22 +1330,26 @@
     "name": "More Petroleum Chikhali Pune Charging Station",
     "station_lat": 18.6763921,
     "station_lon": 73.8185809,
-    "best_route_idx": 2666,
-    "detour_lat": 18.649618523420447,
-    "detour_lon": 73.78587948991024,
-    "arrival_soc": 41.13,
-    "energy_used_kwh": 26.492
+    "best_route_idx": 2662,
+    "detour_lat": 18.65100756957565,
+    "detour_lon": 73.78467349342807,
+    "source_to_detour_km": 132.903,
+    "total_distance_km": 137.456,
+    "arrival_soc": 41.19,
+    "energy_used_kwh": 26.466
   },
   {
     "station_id": "14490",
     "name": "Morya Transport Terminus MIDC Bhosari Charging Station",
     "station_lat": 18.621396,
     "station_lon": 73.8384375,
-    "best_route_idx": 2785,
-    "detour_lat": 18.608047048129254,
-    "detour_lon": 73.82143312341663,
-    "arrival_soc": 39.81,
-    "energy_used_kwh": 27.084
+    "best_route_idx": 2782,
+    "detour_lat": 18.609092200111302,
+    "detour_lon": 73.82053317644363,
+    "source_to_detour_km": 138.903,
+    "total_distance_km": 141.234,
+    "arrival_soc": 39.87,
+    "energy_used_kwh": 27.061
   },
   {
     "station_id": "14509",
@@ -1151,6 +1359,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 10.831,
     "arrival_soc": 96.58,
     "energy_used_kwh": 1.537
   },
@@ -1159,11 +1369,13 @@
     "name": "Spectra Building Powai (Green Energy Powered)",
     "station_lat": 19.11637,
     "station_lon": 72.91086,
-    "best_route_idx": 7,
-    "detour_lat": 19.10770607872467,
-    "detour_lon": 72.92373057505651,
-    "arrival_soc": 98.95,
-    "energy_used_kwh": 0.471
+    "best_route_idx": 8,
+    "detour_lat": 19.108022928721866,
+    "detour_lon": 72.92393925259665,
+    "source_to_detour_km": 0.391,
+    "total_distance_km": 2.049,
+    "arrival_soc": 98.92,
+    "energy_used_kwh": 0.488
   },
   {
     "station_id": "14521",
@@ -1173,6 +1385,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 2.117,
     "arrival_soc": 98.98,
     "energy_used_kwh": 0.459
   },
@@ -1184,6 +1398,8 @@
     "best_route_idx": 3082,
     "detour_lat": 18.5781994878616,
     "detour_lon": 73.90769063447247,
+    "source_to_detour_km": 153.86,
+    "total_distance_km": 156.167,
     "arrival_soc": 35.2,
     "energy_used_kwh": 29.16
   },
@@ -1195,6 +1411,8 @@
     "best_route_idx": 2903,
     "detour_lat": 18.56537336629763,
     "detour_lon": 73.84981790782649,
+    "source_to_detour_km": 144.949,
+    "total_distance_km": 145.062,
     "arrival_soc": 38.91,
     "energy_used_kwh": 27.489
   },
@@ -1206,6 +1424,8 @@
     "best_route_idx": 129,
     "detour_lat": 19.071765250740615,
     "detour_lon": 72.90896995409338,
+    "source_to_detour_km": 6.428,
+    "total_distance_km": 9.037,
     "arrival_soc": 96.9,
     "energy_used_kwh": 1.394
   },
@@ -1217,6 +1437,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 8.369,
     "arrival_soc": 97.32,
     "energy_used_kwh": 1.208
   },
@@ -1225,11 +1447,13 @@
     "name": "Aishwarya Residency Building A CHSL (Private Charger)",
     "station_lat": 18.599441,
     "station_lon": 73.774473,
-    "best_route_idx": 2731,
-    "detour_lat": 18.626892516383034,
-    "detour_lon": 73.80527590480355,
-    "arrival_soc": 40.2,
-    "energy_used_kwh": 26.912
+    "best_route_idx": 2736,
+    "detour_lat": 18.625142939979522,
+    "detour_lon": 73.8067660020458,
+    "source_to_detour_km": 136.603,
+    "total_distance_km": 141.047,
+    "arrival_soc": 40.14,
+    "energy_used_kwh": 26.937
   },
   {
     "station_id": "14572",
@@ -1239,6 +1463,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.365,
     "arrival_soc": 96.33,
     "energy_used_kwh": 1.651
   },
@@ -1250,6 +1476,8 @@
     "best_route_idx": 16,
     "detour_lat": 19.110932669373735,
     "detour_lon": 72.92594353280582,
+    "source_to_detour_km": 0.788,
+    "total_distance_km": 2.729,
     "arrival_soc": 99.2,
     "energy_used_kwh": 0.358
   },
@@ -1258,11 +1486,13 @@
     "name": "Avalon CHS Powai (Private Charger - Green Energy Powered)",
     "station_lat": 19.113393,
     "station_lon": 72.910291,
-    "best_route_idx": 5,
-    "detour_lat": 19.108412350634875,
-    "detour_lon": 72.92429880265361,
-    "arrival_soc": 98.94,
-    "energy_used_kwh": 0.479
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 1.897,
+    "arrival_soc": 98.9,
+    "energy_used_kwh": 0.495
   },
   {
     "station_id": "14581",
@@ -1272,6 +1502,8 @@
     "best_route_idx": 208,
     "detour_lat": 19.052486323496606,
     "detour_lon": 72.93592832199585,
+    "source_to_detour_km": 10.371,
+    "total_distance_km": 12.223,
     "arrival_soc": 96.06,
     "energy_used_kwh": 1.772
   },
@@ -1283,6 +1515,8 @@
     "best_route_idx": 208,
     "detour_lat": 19.052486323496606,
     "detour_lon": 72.93592832199585,
+    "source_to_detour_km": 10.371,
+    "total_distance_km": 12.965,
     "arrival_soc": 95.32,
     "energy_used_kwh": 2.107
   },
@@ -1291,22 +1525,26 @@
     "name": "BGTA Ganga (Private Charger)",
     "station_lat": 19.036089,
     "station_lon": 72.875745,
-    "best_route_idx": 144,
-    "detour_lat": 19.06640400514969,
-    "detour_lon": 72.91015136474118,
-    "arrival_soc": 96.13,
-    "energy_used_kwh": 1.743
+    "best_route_idx": 145,
+    "detour_lat": 19.065986021957105,
+    "detour_lon": 72.91028978733898,
+    "source_to_detour_km": 7.221,
+    "total_distance_km": 12.144,
+    "arrival_soc": 96.12,
+    "energy_used_kwh": 1.745
   },
   {
     "station_id": "14587",
     "name": "Belmac Residences Kalyani Nagar (Private Charger)",
     "station_lat": 18.5498,
     "station_lon": 73.920545,
-    "best_route_idx": 3039,
-    "detour_lat": 18.56639833168389,
-    "detour_lon": 73.89560513615797,
-    "arrival_soc": 35.61,
-    "energy_used_kwh": 28.974
+    "best_route_idx": 3038,
+    "detour_lat": 18.56607546253947,
+    "detour_lon": 73.89527498425089,
+    "source_to_detour_km": 151.674,
+    "total_distance_km": 154.894,
+    "arrival_soc": 35.64,
+    "energy_used_kwh": 28.96
   },
   {
     "station_id": "14588",
@@ -1316,6 +1554,8 @@
     "best_route_idx": 590,
     "detour_lat": 19.037636365151304,
     "detour_lon": 73.07383821530613,
+    "source_to_detour_km": 29.441,
+    "total_distance_km": 31.319,
     "arrival_soc": 89.47,
     "energy_used_kwh": 4.739
   },
@@ -1327,6 +1567,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 3.433,
     "arrival_soc": 98.65,
     "energy_used_kwh": 0.606
   },
@@ -1338,6 +1580,8 @@
     "best_route_idx": 3073,
     "detour_lat": 18.578400554274594,
     "detour_lon": 73.90362042494387,
+    "source_to_detour_km": 153.415,
+    "total_distance_km": 154.738,
     "arrival_soc": 35.62,
     "energy_used_kwh": 28.971
   },
@@ -1349,6 +1593,8 @@
     "best_route_idx": 11,
     "detour_lat": 19.109182197061696,
     "detour_lon": 72.92466847519023,
+    "source_to_detour_km": 0.541,
+    "total_distance_km": 1.947,
     "arrival_soc": 98.7,
     "energy_used_kwh": 0.585
   },
@@ -1360,6 +1606,8 @@
     "best_route_idx": 133,
     "detour_lat": 19.07055246030818,
     "detour_lon": 72.90778768140656,
+    "source_to_detour_km": 6.626,
+    "total_distance_km": 8.375,
     "arrival_soc": 97.32,
     "energy_used_kwh": 1.208
   },
@@ -1371,6 +1619,8 @@
     "best_route_idx": 363,
     "detour_lat": 19.06809017818273,
     "detour_lon": 73.00511221408577,
+    "source_to_detour_km": 18.116,
+    "total_distance_km": 18.984,
     "arrival_soc": 93.9,
     "energy_used_kwh": 2.745
   },
@@ -1382,6 +1632,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 2.398,
     "arrival_soc": 98.89,
     "energy_used_kwh": 0.498
   },
@@ -1393,6 +1645,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 1.875,
     "arrival_soc": 98.92,
     "energy_used_kwh": 0.485
   },
@@ -1404,6 +1658,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 1.959,
     "arrival_soc": 98.94,
     "energy_used_kwh": 0.475
   },
@@ -1415,6 +1671,8 @@
     "best_route_idx": 46,
     "detour_lat": 19.102589436516872,
     "detour_lon": 72.93003538407895,
+    "source_to_detour_km": 2.279,
+    "total_distance_km": 2.441,
     "arrival_soc": 99.19,
     "energy_used_kwh": 0.363
   },
@@ -1426,6 +1684,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.184,
     "arrival_soc": 96.47,
     "energy_used_kwh": 1.59
   },
@@ -1434,11 +1694,13 @@
     "name": "Hill Crest CHSL, Farm Road (Private Charger-Green Energy Powered)",
     "station_lat": 19.118225,
     "station_lon": 72.89617,
-    "best_route_idx": 5,
-    "detour_lat": 19.108412350634875,
-    "detour_lon": 72.92429880265361,
-    "arrival_soc": 98.6,
-    "energy_used_kwh": 0.629
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 3.473,
+    "arrival_soc": 98.57,
+    "energy_used_kwh": 0.645
   },
   {
     "station_id": "14671",
@@ -1448,6 +1710,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 3.048,
     "arrival_soc": 99.07,
     "energy_used_kwh": 0.42
   },
@@ -1459,6 +1723,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 1.181,
     "arrival_soc": 98.94,
     "energy_used_kwh": 0.477
   },
@@ -1470,6 +1736,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 4.406,
     "arrival_soc": 98.42,
     "energy_used_kwh": 0.712
   },
@@ -1478,9 +1746,11 @@
     "name": "L&T Emerald Isle Powai (Private Charger - Green Energy Powered)",
     "station_lat": 19.123287,
     "station_lon": 72.893244,
-    "best_route_idx": 6,
-    "detour_lat": 19.108018820761853,
-    "detour_lon": 72.92406856318432,
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 3.992,
     "arrival_soc": 98.65,
     "energy_used_kwh": 0.608
   },
@@ -1492,6 +1762,8 @@
     "best_route_idx": 7,
     "detour_lat": 19.10770607872467,
     "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 3.991,
     "arrival_soc": 98.71,
     "energy_used_kwh": 0.581
   },
@@ -1503,6 +1775,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.661,
     "arrival_soc": 98.48,
     "energy_used_kwh": 0.684
   },
@@ -1511,11 +1785,13 @@
     "name": "Lorelle Society, Wakad (Private Charger)",
     "station_lat": 18.600084,
     "station_lon": 73.767415,
-    "best_route_idx": 2720,
-    "detour_lat": 18.63074158447076,
-    "detour_lon": 73.8019976908706,
-    "arrival_soc": 40.26,
-    "energy_used_kwh": 26.885
+    "best_route_idx": 2726,
+    "detour_lat": 18.628642092786546,
+    "detour_lon": 73.8037858075613,
+    "source_to_detour_km": 136.103,
+    "total_distance_km": 141.08,
+    "arrival_soc": 40.15,
+    "energy_used_kwh": 26.932
   },
   {
     "station_id": "14694",
@@ -1525,6 +1801,8 @@
     "best_route_idx": 481,
     "detour_lat": 19.030808540141937,
     "detour_lon": 73.0301201473021,
+    "source_to_detour_km": 24.002,
+    "total_distance_km": 25.129,
     "arrival_soc": 91.59,
     "energy_used_kwh": 3.786
   },
@@ -1536,6 +1814,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 1.916,
     "arrival_soc": 99.13,
     "energy_used_kwh": 0.39
   },
@@ -1544,11 +1824,13 @@
     "name": "Paradise CHSL Powai (Private Charger)",
     "station_lat": 19.118054,
     "station_lon": 72.895736,
-    "best_route_idx": 5,
-    "detour_lat": 19.108412350634875,
-    "detour_lon": 72.92429880265361,
-    "arrival_soc": 98.59,
-    "energy_used_kwh": 0.634
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 3.508,
+    "arrival_soc": 98.56,
+    "energy_used_kwh": 0.65
   },
   {
     "station_id": "14719",
@@ -1558,6 +1840,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.192,
     "arrival_soc": 96.43,
     "energy_used_kwh": 1.606
   },
@@ -1566,11 +1850,13 @@
     "name": "Park Royale CHS, Rahatani(Private Charger)",
     "station_lat": 18.5983495,
     "station_lon": 73.7857765,
-    "best_route_idx": 2749,
-    "detour_lat": 18.620594041330396,
-    "detour_lon": 73.81064025487565,
-    "arrival_soc": 40.23,
-    "energy_used_kwh": 26.897
+    "best_route_idx": 2753,
+    "detour_lat": 18.619194380207585,
+    "detour_lon": 73.81183233266944,
+    "source_to_detour_km": 137.453,
+    "total_distance_km": 141.046,
+    "arrival_soc": 40.19,
+    "energy_used_kwh": 26.915
   },
   {
     "station_id": "14734",
@@ -1580,6 +1866,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.46,
     "arrival_soc": 96.39,
     "energy_used_kwh": 1.626
   },
@@ -1588,22 +1876,26 @@
     "name": "Raheja Vistas, Chandivali (Private Charger-Green Energy Powered)",
     "station_lat": 19.1187855,
     "station_lon": 72.8946703,
-    "best_route_idx": 5,
-    "detour_lat": 19.108412350634875,
-    "detour_lon": 72.92429880265361,
-    "arrival_soc": 98.75,
-    "energy_used_kwh": 0.565
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 3.642,
+    "arrival_soc": 98.71,
+    "energy_used_kwh": 0.58
   },
   {
     "station_id": "14736",
     "name": "Raheja Vistas Powai(Private-Charger)",
     "station_lat": 19.1196248,
     "station_lon": 72.894027,
-    "best_route_idx": 5,
-    "detour_lat": 19.108412350634875,
-    "detour_lon": 72.92429880265361,
-    "arrival_soc": 98.82,
-    "energy_used_kwh": 0.53
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 3.741,
+    "arrival_soc": 98.79,
+    "energy_used_kwh": 0.546
   },
   {
     "station_id": "14737",
@@ -1613,6 +1905,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 1.428,
     "arrival_soc": 99.11,
     "energy_used_kwh": 0.402
   },
@@ -1624,6 +1918,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.514,
     "arrival_soc": 98.65,
     "energy_used_kwh": 0.609
   },
@@ -1632,11 +1928,13 @@
     "name": "Regent Hill, Powai (Private Charger-Green Energy Powered)",
     "station_lat": 19.116279,
     "station_lon": 72.912391,
-    "best_route_idx": 8,
-    "detour_lat": 19.108022928721866,
-    "detour_lon": 72.92393925259665,
-    "arrival_soc": 98.88,
-    "energy_used_kwh": 0.504
+    "best_route_idx": 11,
+    "detour_lat": 19.109182197061696,
+    "detour_lon": 72.92466847519023,
+    "source_to_detour_km": 0.541,
+    "total_distance_km": 2.053,
+    "arrival_soc": 98.85,
+    "energy_used_kwh": 0.517
   },
   {
     "station_id": "14755",
@@ -1646,6 +1944,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.303,
     "arrival_soc": 98.74,
     "energy_used_kwh": 0.568
   },
@@ -1657,6 +1957,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 3.455,
     "arrival_soc": 98.82,
     "energy_used_kwh": 0.53
   },
@@ -1668,6 +1970,8 @@
     "best_route_idx": 482,
     "detour_lat": 19.03043944170522,
     "detour_lon": 73.0303159942778,
+    "source_to_detour_km": 24.048,
+    "total_distance_km": 27.214,
     "arrival_soc": 90.91,
     "energy_used_kwh": 4.091
   },
@@ -1679,6 +1983,8 @@
     "best_route_idx": 481,
     "detour_lat": 19.030808540141937,
     "detour_lon": 73.0301201473021,
+    "source_to_detour_km": 24.002,
+    "total_distance_km": 27.095,
     "arrival_soc": 90.96,
     "energy_used_kwh": 4.068
   },
@@ -1690,6 +1996,8 @@
     "best_route_idx": 481,
     "detour_lat": 19.030808540141937,
     "detour_lon": 73.0301201473021,
+    "source_to_detour_km": 24.002,
+    "total_distance_km": 27.462,
     "arrival_soc": 90.85,
     "energy_used_kwh": 4.119
   },
@@ -1698,11 +2006,13 @@
     "name": "Solitaire CHSL, Powai (Private Charger)",
     "station_lat": 19.1199988,
     "station_lon": 72.9090599,
-    "best_route_idx": 11,
-    "detour_lat": 19.109182197061696,
-    "detour_lon": 72.92466847519023,
-    "arrival_soc": 98.85,
-    "energy_used_kwh": 0.519
+    "best_route_idx": 0,
+    "detour_lat": 19.11038,
+    "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 2.027,
+    "arrival_soc": 99.06,
+    "energy_used_kwh": 0.421
   },
   {
     "station_id": "14777",
@@ -1712,6 +2022,8 @@
     "best_route_idx": 143,
     "detour_lat": 19.066844576533995,
     "detour_lon": 72.91005618904144,
+    "source_to_detour_km": 7.123,
+    "total_distance_km": 10.167,
     "arrival_soc": 96.72,
     "energy_used_kwh": 1.476
   },
@@ -1723,6 +2035,8 @@
     "best_route_idx": 3005,
     "detour_lat": 18.552742709170882,
     "detour_lon": 73.88916772901986,
+    "source_to_detour_km": 150.032,
+    "total_distance_km": 151.244,
     "arrival_soc": 36.89,
     "energy_used_kwh": 28.4
   },
@@ -1734,6 +2048,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 10.753,
     "arrival_soc": 96.6,
     "energy_used_kwh": 1.531
   },
@@ -1745,6 +2061,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 2.651,
     "arrival_soc": 99.05,
     "energy_used_kwh": 0.429
   },
@@ -1756,6 +2074,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.332,
     "arrival_soc": 96.38,
     "energy_used_kwh": 1.628
   },
@@ -1767,6 +2087,8 @@
     "best_route_idx": 468,
     "detour_lat": 19.036597440957372,
     "detour_lon": 73.02926104551672,
+    "source_to_detour_km": 23.352,
+    "total_distance_km": 23.424,
     "arrival_soc": 92.16,
     "energy_used_kwh": 3.53
   },
@@ -1775,11 +2097,13 @@
     "name": "TML Panchjanya Motors, Chinchwad ",
     "station_lat": 18.648576,
     "station_lon": 73.798872,
-    "best_route_idx": 2684,
-    "detour_lat": 18.64332903461731,
-    "detour_lon": 73.7912560659001,
+    "best_route_idx": 2683,
+    "detour_lat": 18.64367845066193,
+    "detour_lon": 73.790957367234,
+    "source_to_detour_km": 133.953,
+    "total_distance_km": 134.949,
     "arrival_soc": 42.13,
-    "energy_used_kwh": 26.044
+    "energy_used_kwh": 26.039
   },
   {
     "station_id": "15026",
@@ -1789,6 +2113,8 @@
     "best_route_idx": 3037,
     "detour_lat": 18.565752593395047,
     "detour_lon": 73.89494483234381,
+    "source_to_detour_km": 151.624,
+    "total_distance_km": 153.296,
     "arrival_soc": 36.15,
     "energy_used_kwh": 28.732
   },
@@ -1797,22 +2123,26 @@
     "name": "TML Sai Baba Theregaon ",
     "station_lat": 18.611143,
     "station_lon": 73.783103,
-    "best_route_idx": 2724,
-    "detour_lat": 18.62934192334795,
-    "detour_lon": 73.8031897686644,
-    "arrival_soc": 40.84,
-    "energy_used_kwh": 26.621
+    "best_route_idx": 2727,
+    "detour_lat": 18.62829217750584,
+    "detour_lon": 73.80408382700975,
+    "source_to_detour_km": 136.153,
+    "total_distance_km": 139.073,
+    "arrival_soc": 40.77,
+    "energy_used_kwh": 26.655
   },
   {
     "station_id": "15090",
     "name": "Tata Motors Plant Chikhali (Private Charger)",
     "station_lat": 18.660848,
     "station_lon": 73.81904,
-    "best_route_idx": 2692,
-    "detour_lat": 18.640533706260364,
-    "detour_lon": 73.79364565522891,
-    "arrival_soc": 40.69,
-    "energy_used_kwh": 26.691
+    "best_route_idx": 2688,
+    "detour_lat": 18.641931370438837,
+    "detour_lon": 73.79245086056451,
+    "source_to_detour_km": 134.203,
+    "total_distance_km": 137.706,
+    "arrival_soc": 40.73,
+    "energy_used_kwh": 26.67
   },
   {
     "station_id": "15121",
@@ -1822,6 +2152,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.423,
     "arrival_soc": 96.4,
     "energy_used_kwh": 1.621
   },
@@ -1833,6 +2165,8 @@
     "best_route_idx": 62,
     "detour_lat": 19.095916098198643,
     "detour_lon": 72.92719024957769,
+    "source_to_detour_km": 3.079,
+    "total_distance_km": 3.206,
     "arrival_soc": 99.04,
     "energy_used_kwh": 0.43
   },
@@ -1844,6 +2178,8 @@
     "best_route_idx": 216,
     "detour_lat": 19.052204400685845,
     "detour_lon": 72.9392130623249,
+    "source_to_detour_km": 10.769,
+    "total_distance_km": 10.875,
     "arrival_soc": 96.44,
     "energy_used_kwh": 1.603
   },
@@ -1852,11 +2188,13 @@
     "name": "Tata Power Colony (Green Energy Powered)",
     "station_lat": 19.039233,
     "station_lon": 72.901565,
-    "best_route_idx": 151,
-    "detour_lat": 19.06412244479161,
-    "detour_lon": 72.9123539288631,
-    "arrival_soc": 96.24,
-    "energy_used_kwh": 1.692
+    "best_route_idx": 152,
+    "detour_lat": 19.06381184859736,
+    "detour_lon": 72.91269795245046,
+    "source_to_detour_km": 7.571,
+    "total_distance_km": 10.544,
+    "arrival_soc": 96.23,
+    "energy_used_kwh": 1.694
   },
   {
     "station_id": "15140",
@@ -1866,6 +2204,8 @@
     "best_route_idx": 1756,
     "detour_lat": 18.760062002697723,
     "detour_lon": 73.4278736527064,
+    "source_to_detour_km": 87.624,
+    "total_distance_km": 88.893,
     "arrival_soc": 58.57,
     "energy_used_kwh": 18.643
   },
@@ -1877,6 +2217,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 10.457,
     "arrival_soc": 96.7,
     "energy_used_kwh": 1.483
   },
@@ -1885,22 +2227,26 @@
     "name": "Tata Communication Pune Alandi Road (Private Charger)",
     "station_lat": 18.60471,
     "station_lon": 73.86653,
-    "best_route_idx": 2831,
-    "detour_lat": 18.590012227175222,
-    "detour_lon": 73.83180767814721,
-    "arrival_soc": 38.56,
-    "energy_used_kwh": 27.648
+    "best_route_idx": 2827,
+    "detour_lat": 18.591667383057914,
+    "detour_lon": 73.83106494846434,
+    "source_to_detour_km": 141.152,
+    "total_distance_km": 145.161,
+    "arrival_soc": 38.62,
+    "energy_used_kwh": 27.621
   },
   {
     "station_id": "15154",
     "name": "Tata Motors Ltd ERC Pimpri",
     "station_lat": 18.65037,
     "station_lon": 73.8134,
-    "best_route_idx": 2702,
-    "detour_lat": 18.637039545814176,
-    "detour_lon": 73.79663264188994,
-    "arrival_soc": 40.87,
-    "energy_used_kwh": 26.607
+    "best_route_idx": 2699,
+    "detour_lat": 18.63808779394803,
+    "detour_lon": 73.79573654589164,
+    "source_to_detour_km": 134.753,
+    "total_distance_km": 137.061,
+    "arrival_soc": 40.94,
+    "energy_used_kwh": 26.578
   },
   {
     "station_id": "15211",
@@ -1910,6 +2256,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 9.881,
     "arrival_soc": 96.83,
     "energy_used_kwh": 1.427
   },
@@ -1918,11 +2266,13 @@
     "name": "Godrej Business District (Private Charger)",
     "station_lat": 19.1011267,
     "station_lon": 72.9220988,
-    "best_route_idx": 7,
-    "detour_lat": 19.10770607872467,
-    "detour_lon": 72.92373057505651,
-    "arrival_soc": 99.69,
-    "energy_used_kwh": 0.138
+    "best_route_idx": 53,
+    "detour_lat": 19.099671000926005,
+    "detour_lon": 72.92878758704364,
+    "source_to_detour_km": 2.629,
+    "total_distance_km": 3.35,
+    "arrival_soc": 98.83,
+    "energy_used_kwh": 0.526
   },
   {
     "station_id": "15214",
@@ -1932,6 +2282,8 @@
     "best_route_idx": 71,
     "detour_lat": 19.092153456223773,
     "detour_lon": 72.92561344396074,
+    "source_to_detour_km": 3.529,
+    "total_distance_km": 3.875,
     "arrival_soc": 98.79,
     "energy_used_kwh": 0.543
   },
@@ -1943,6 +2295,8 @@
     "best_route_idx": 131,
     "detour_lat": 19.071238974654793,
     "detour_lon": 72.90819834629838,
+    "source_to_detour_km": 6.528,
+    "total_distance_km": 11.485,
     "arrival_soc": 96.12,
     "energy_used_kwh": 1.748
   },
@@ -1954,6 +2308,8 @@
     "best_route_idx": 1639,
     "detour_lat": 18.75877096371809,
     "detour_lon": 73.3787911564617,
+    "source_to_detour_km": 81.777,
+    "total_distance_km": 81.866,
     "arrival_soc": 62.12,
     "energy_used_kwh": 17.046
   },
@@ -1965,6 +2321,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.269,
     "arrival_soc": 98.76,
     "energy_used_kwh": 0.559
   },
@@ -1976,6 +2334,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.288,
     "arrival_soc": 98.74,
     "energy_used_kwh": 0.568
   },
@@ -1987,6 +2347,8 @@
     "best_route_idx": 129,
     "detour_lat": 19.071765250740615,
     "detour_lon": 72.90896995409338,
+    "source_to_detour_km": 6.428,
+    "total_distance_km": 8.03,
     "arrival_soc": 97.43,
     "energy_used_kwh": 1.155
   },
@@ -1998,6 +2360,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.033,
     "arrival_soc": 96.52,
     "energy_used_kwh": 1.564
   },
@@ -2006,77 +2370,91 @@
     "name": "UTI Asset Management (Private Charger-Green Energy Powered)",
     "station_lat": 19.065847,
     "station_lon": 72.860856,
-    "best_route_idx": 131,
-    "detour_lat": 19.071238974654793,
-    "detour_lon": 72.90819834629838,
-    "arrival_soc": 96.34,
-    "energy_used_kwh": 1.649
+    "best_route_idx": 132,
+    "detour_lat": 19.070975836611886,
+    "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.546,
+    "arrival_soc": 96.33,
+    "energy_used_kwh": 1.65
   },
   {
     "station_id": "15769",
     "name": "IndianOil Charging Stations",
     "station_lat": 18.718607,
     "station_lon": 73.667549,
-    "best_route_idx": 2358,
-    "detour_lat": 18.707097981956476,
-    "detour_lon": 73.66144358106341,
-    "arrival_soc": 46.55,
-    "energy_used_kwh": 24.052
+    "best_route_idx": 2357,
+    "detour_lat": 18.707289171244938,
+    "detour_lon": 73.66101388260711,
+    "source_to_detour_km": 117.661,
+    "total_distance_km": 119.095,
+    "arrival_soc": 46.57,
+    "energy_used_kwh": 24.046
   },
   {
     "station_id": "15772",
     "name": "IndianOil Charging Stations",
     "station_lat": 18.99822,
     "station_lon": 73.121506,
-    "best_route_idx": 726,
-    "detour_lat": 19.00432271697179,
-    "detour_lon": 73.12626824580238,
+    "best_route_idx": 727,
+    "detour_lat": 19.00399711252649,
+    "detour_lon": 73.12659625028044,
+    "source_to_detour_km": 36.29,
+    "total_distance_km": 37.126,
     "arrival_soc": 87.48,
-    "energy_used_kwh": 5.633
+    "energy_used_kwh": 5.636
   },
   {
     "station_id": "16454",
     "name": "Apollo Eastern Tyres Nigdi",
     "station_lat": 18.664161,
     "station_lon": 73.766341,
-    "best_route_idx": 2612,
-    "detour_lat": 18.668057923300854,
-    "detour_lon": 73.7692115073522,
-    "arrival_soc": 43.06,
-    "energy_used_kwh": 25.623
+    "best_route_idx": 2613,
+    "detour_lat": 18.667720792731664,
+    "detour_lon": 73.76952558625852,
+    "source_to_detour_km": 130.453,
+    "total_distance_km": 130.972,
+    "arrival_soc": 43.04,
+    "energy_used_kwh": 25.631
   },
   {
     "station_id": "16470",
     "name": "Pratha NGO, Godrej Colony Vikhroli (Green Energy Powered)",
     "station_lat": 19.108128,
     "station_lon": 72.931531,
-    "best_route_idx": 29,
-    "detour_lat": 19.109321045924357,
-    "detour_lon": 72.93181046645861,
-    "arrival_soc": 99.51,
-    "energy_used_kwh": 0.219
+    "best_route_idx": 30,
+    "detour_lat": 19.109132115769583,
+    "detour_lon": 72.93224230681238,
+    "source_to_detour_km": 1.487,
+    "total_distance_km": 1.621,
+    "arrival_soc": 99.5,
+    "energy_used_kwh": 0.223
   },
   {
     "station_id": "16507",
     "name": "Fariyas Resort Lonavala (Private Charger)",
     "station_lat": 18.762585,
     "station_lon": 73.392066,
-    "best_route_idx": 1662,
-    "detour_lat": 18.76470739552293,
-    "detour_lon": 73.38725870728028,
-    "arrival_soc": 60.78,
-    "energy_used_kwh": 17.649
+    "best_route_idx": 1661,
+    "detour_lat": 18.764324944834183,
+    "detour_lon": 73.38700894356518,
+    "source_to_detour_km": 82.876,
+    "total_distance_km": 83.442,
+    "arrival_soc": 60.79,
+    "energy_used_kwh": 17.644
   },
   {
     "station_id": "16575",
     "name": "Treasure Island Resort",
     "station_lat": 18.761118,
     "station_lon": 73.465766,
-    "best_route_idx": 1898,
-    "detour_lat": 18.741062911733565,
-    "detour_lon": 73.46918804336427,
-    "arrival_soc": 56.18,
-    "energy_used_kwh": 19.719
+    "best_route_idx": 1899,
+    "detour_lat": 18.74115980725573,
+    "detour_lon": 73.46965172604568,
+    "source_to_detour_km": 94.766,
+    "total_distance_km": 97.023,
+    "arrival_soc": 56.15,
+    "energy_used_kwh": 19.731
   },
   {
     "station_id": "16631",
@@ -2086,6 +2464,8 @@
     "best_route_idx": 393,
     "detour_lat": 19.06680144819347,
     "detour_lon": 73.0192881893206,
+    "source_to_detour_km": 19.615,
+    "total_distance_km": 21.071,
     "arrival_soc": 92.76,
     "energy_used_kwh": 3.26
   },
@@ -2094,22 +2474,26 @@
     "name": "R City Mall Amrut Nagar UB Level North Side Parking",
     "station_lat": 19.099683,
     "station_lon": 72.9166942,
-    "best_route_idx": 6,
-    "detour_lat": 19.108018820761853,
-    "detour_lon": 72.92406856318432,
+    "best_route_idx": 7,
+    "detour_lat": 19.10770607872467,
+    "detour_lon": 72.92373057505651,
+    "source_to_detour_km": 0.35,
+    "total_distance_km": 1.509,
     "arrival_soc": 99.55,
-    "energy_used_kwh": 0.203
+    "energy_used_kwh": 0.204
   },
   {
     "station_id": "16657",
     "name": "Agastha Garden Enclave Charging Station",
     "station_lat": 19.104368,
     "station_lon": 72.927362,
-    "best_route_idx": 43,
-    "detour_lat": 19.103840194627242,
-    "detour_lon": 72.93057015423693,
-    "arrival_soc": 99.2,
-    "energy_used_kwh": 0.359
+    "best_route_idx": 42,
+    "detour_lat": 19.104263123803406,
+    "detour_lon": 72.93073158225374,
+    "source_to_detour_km": 2.079,
+    "total_distance_km": 2.433,
+    "arrival_soc": 99.21,
+    "energy_used_kwh": 0.357
   },
   {
     "station_id": "16676",
@@ -2119,6 +2503,8 @@
     "best_route_idx": 17,
     "detour_lat": 19.11102107781867,
     "detour_lon": 72.92641013293188,
+    "source_to_detour_km": 0.838,
+    "total_distance_km": 3.008,
     "arrival_soc": 99.12,
     "energy_used_kwh": 0.397
   },
@@ -2130,6 +2516,8 @@
     "best_route_idx": 480,
     "detour_lat": 19.031253840204663,
     "detour_lon": 73.03005406254937,
+    "source_to_detour_km": 23.952,
+    "total_distance_km": 25.394,
     "arrival_soc": 91.53,
     "energy_used_kwh": 3.809
   },
@@ -2138,11 +2526,13 @@
     "name": "Runwal Bliss (Private Charger)",
     "station_lat": 19.133327,
     "station_lon": 72.93584,
-    "best_route_idx": 20,
-    "detour_lat": 19.11066854659805,
-    "detour_lon": 72.92777618146816,
-    "arrival_soc": 98.92,
-    "energy_used_kwh": 0.485
+    "best_route_idx": 19,
+    "detour_lat": 19.110801318675833,
+    "detour_lon": 72.92732151650218,
+    "source_to_detour_km": 0.937,
+    "total_distance_km": 3.597,
+    "arrival_soc": 98.93,
+    "energy_used_kwh": 0.481
   },
   {
     "station_id": "16692",
@@ -2152,6 +2542,8 @@
     "best_route_idx": 16,
     "detour_lat": 19.110932669373735,
     "detour_lon": 72.92594353280582,
+    "source_to_detour_km": 0.788,
+    "total_distance_km": 3.676,
     "arrival_soc": 98.87,
     "energy_used_kwh": 0.51
   },
@@ -2160,11 +2552,13 @@
     "name": "Supreme Mega Construction-Elenor (Private Charger)",
     "station_lat": 19.052181,
     "station_lon": 72.914361,
-    "best_route_idx": 161,
-    "detour_lat": 19.062423524874113,
-    "detour_lon": 72.91671961275993,
+    "best_route_idx": 162,
+    "detour_lat": 19.06226937013861,
+    "detour_lon": 72.9171665319511,
+    "source_to_detour_km": 8.071,
+    "total_distance_km": 9.231,
     "arrival_soc": 96.91,
-    "energy_used_kwh": 1.389
+    "energy_used_kwh": 1.391
   },
   {
     "station_id": "16701",
@@ -2174,6 +2568,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 2.954,
     "arrival_soc": 99.03,
     "energy_used_kwh": 0.436
   },
@@ -2185,6 +2581,8 @@
     "best_route_idx": 3085,
     "detour_lat": 18.578365687189162,
     "detour_lon": 73.90908864131775,
+    "source_to_detour_km": 154.01,
+    "total_distance_km": 158.46,
     "arrival_soc": 34.42,
     "energy_used_kwh": 29.513
   },
@@ -2196,6 +2594,8 @@
     "best_route_idx": 356,
     "detour_lat": 19.0683308871383,
     "detour_lon": 73.00179161431348,
+    "source_to_detour_km": 17.766,
+    "total_distance_km": 18.806,
     "arrival_soc": 93.87,
     "energy_used_kwh": 2.76
   },
@@ -2204,33 +2604,39 @@
     "name": "EV DOCK Charging Station",
     "station_lat": 19.0072953,
     "station_lon": 73.0280331,
-    "best_route_idx": 505,
-    "detour_lat": 19.025044530625287,
-    "detour_lon": 73.03906177458465,
+    "best_route_idx": 506,
+    "detour_lat": 19.02475800125086,
+    "detour_lon": 73.03942834657785,
+    "source_to_detour_km": 25.242,
+    "total_distance_km": 27.524,
     "arrival_soc": 90.7,
-    "energy_used_kwh": 4.183
+    "energy_used_kwh": 4.187
   },
   {
     "station_id": "17562",
     "name": "EV DOCK Charging Station",
     "station_lat": 18.7649013,
     "station_lon": 73.2830897,
-    "best_route_idx": 1341,
-    "detour_lat": 18.793878200955675,
-    "detour_lon": 73.29227149997423,
-    "arrival_soc": 74.07,
-    "energy_used_kwh": 11.667
+    "best_route_idx": 1343,
+    "detour_lat": 18.79356614267154,
+    "detour_lon": 73.29316243787635,
+    "source_to_detour_km": 67.082,
+    "total_distance_km": 70.441,
+    "arrival_soc": 74.04,
+    "energy_used_kwh": 11.681
   },
   {
     "station_id": "17638",
     "name": "Jio-BP Charging Station",
     "station_lat": 19.11065,
     "station_lon": 72.929015,
-    "best_route_idx": 21,
-    "detour_lat": 19.110540114950737,
-    "detour_lon": 72.92823224486882,
-    "arrival_soc": 99.73,
-    "energy_used_kwh": 0.122
+    "best_route_idx": 20,
+    "detour_lat": 19.11066854659805,
+    "detour_lon": 72.92777618146816,
+    "source_to_detour_km": 0.987,
+    "total_distance_km": 1.117,
+    "arrival_soc": 99.75,
+    "energy_used_kwh": 0.113
   },
   {
     "station_id": "17639",
@@ -2240,6 +2646,8 @@
     "best_route_idx": 5,
     "detour_lat": 19.108412350634875,
     "detour_lon": 72.92429880265361,
+    "source_to_detour_km": 0.25,
+    "total_distance_km": 4.017,
     "arrival_soc": 98.83,
     "energy_used_kwh": 0.528
   },
@@ -2251,6 +2659,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 10.965,
     "arrival_soc": 96.58,
     "energy_used_kwh": 1.537
   },
@@ -2259,22 +2669,26 @@
     "name": "Jio-BP Charging Station",
     "station_lat": 19.0461365,
     "station_lon": 73.0633898,
-    "best_route_idx": 580,
-    "detour_lat": 19.0350114348172,
-    "detour_lon": 73.06997656198226,
-    "arrival_soc": 89.91,
-    "energy_used_kwh": 4.543
+    "best_route_idx": 581,
+    "detour_lat": 19.035275001216668,
+    "detour_lon": 73.07036195256988,
+    "source_to_detour_km": 28.991,
+    "total_distance_km": 30.404,
+    "arrival_soc": 89.9,
+    "energy_used_kwh": 4.547
   },
   {
     "station_id": "17648",
     "name": "Jio-BP Charging Station",
     "station_lat": 18.8174321,
     "station_lon": 73.3051801,
-    "best_route_idx": 1310,
-    "detour_lat": 18.804569547373102,
-    "detour_lon": 73.28336521889219,
-    "arrival_soc": 75.01,
-    "energy_used_kwh": 11.248
+    "best_route_idx": 1307,
+    "detour_lat": 18.805722548133932,
+    "detour_lon": 73.28262549581112,
+    "source_to_detour_km": 65.282,
+    "total_distance_km": 67.99,
+    "arrival_soc": 75.07,
+    "energy_used_kwh": 11.217
   },
   {
     "station_id": "17649",
@@ -2284,6 +2698,8 @@
     "best_route_idx": 1752,
     "detour_lat": 18.76054522398126,
     "detour_lon": 73.42604392717209,
+    "source_to_detour_km": 87.424,
+    "total_distance_km": 87.589,
     "arrival_soc": 59.38,
     "energy_used_kwh": 18.28
   },
@@ -2295,6 +2711,8 @@
     "best_route_idx": 2438,
     "detour_lat": 18.69894769423005,
     "detour_lon": 73.6976301831839,
+    "source_to_detour_km": 121.708,
+    "total_distance_km": 121.83,
     "arrival_soc": 46.43,
     "energy_used_kwh": 24.108
   },
@@ -2306,6 +2724,8 @@
     "best_route_idx": 2729,
     "detour_lat": 18.62759234694444,
     "detour_lon": 73.80467986590665,
+    "source_to_detour_km": 136.253,
+    "total_distance_km": 136.439,
     "arrival_soc": 41.61,
     "energy_used_kwh": 26.276
   },
@@ -2314,11 +2734,13 @@
     "name": "Jio-BP Charging Station",
     "station_lat": 18.6018194,
     "station_lon": 73.7995598,
-    "best_route_idx": 2762,
-    "detour_lat": 18.616056344649255,
-    "detour_lon": 73.81452889933466,
-    "arrival_soc": 40.58,
-    "energy_used_kwh": 26.739
+    "best_route_idx": 2765,
+    "detour_lat": 18.615011722968564,
+    "detour_lon": 73.81542954090101,
+    "source_to_detour_km": 138.053,
+    "total_distance_km": 140.278,
+    "arrival_soc": 40.53,
+    "energy_used_kwh": 26.761
   },
   {
     "station_id": "17922",
@@ -2328,6 +2750,8 @@
     "best_route_idx": 143,
     "detour_lat": 19.066844576533995,
     "detour_lon": 72.91005618904144,
+    "source_to_detour_km": 7.123,
+    "total_distance_km": 10.062,
     "arrival_soc": 96.83,
     "energy_used_kwh": 1.428
   },
@@ -2336,11 +2760,13 @@
     "name": "DSM Boulevard 3 and 4 CHSL (Private Charger)",
     "station_lat": 19.098339,
     "station_lon": 72.920504,
-    "best_route_idx": 61,
-    "detour_lat": 19.096334169529182,
-    "detour_lon": 72.9273654502018,
-    "arrival_soc": 98.88,
-    "energy_used_kwh": 0.506
+    "best_route_idx": 60,
+    "detour_lat": 19.096752240859725,
+    "detour_lon": 72.92754065082592,
+    "source_to_detour_km": 2.979,
+    "total_distance_km": 3.739,
+    "arrival_soc": 98.91,
+    "energy_used_kwh": 0.489
   },
   {
     "station_id": "17927",
@@ -2350,6 +2776,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 1.591,
     "arrival_soc": 99.5,
     "energy_used_kwh": 0.223
   },
@@ -2358,11 +2786,13 @@
     "name": "Tata Power Ghatkopar Charging Station",
     "station_lat": 19.098673,
     "station_lon": 72.919222,
-    "best_route_idx": 61,
-    "detour_lat": 19.096334169529182,
-    "detour_lon": 72.9273654502018,
-    "arrival_soc": 98.83,
-    "energy_used_kwh": 0.525
+    "best_route_idx": 60,
+    "detour_lat": 19.096752240859725,
+    "detour_lon": 72.92754065082592,
+    "source_to_detour_km": 2.979,
+    "total_distance_km": 3.879,
+    "arrival_soc": 98.87,
+    "energy_used_kwh": 0.509
   },
   {
     "station_id": "17966",
@@ -2372,6 +2802,8 @@
     "best_route_idx": 3006,
     "detour_lat": 18.5529385402619,
     "detour_lon": 73.88951990750871,
+    "source_to_detour_km": 150.075,
+    "total_distance_km": 153.642,
     "arrival_soc": 36.12,
     "energy_used_kwh": 28.748
   },
@@ -2380,11 +2812,13 @@
     "name": "Lodha NCP, Wadala Tower 4 (Private Charger)",
     "station_lat": 19.037456,
     "station_lon": 72.877864,
-    "best_route_idx": 144,
-    "detour_lat": 19.06640400514969,
-    "detour_lon": 72.91015136474118,
-    "arrival_soc": 96.25,
-    "energy_used_kwh": 1.685
+    "best_route_idx": 145,
+    "detour_lat": 19.065986021957105,
+    "detour_lon": 72.91028978733898,
+    "source_to_detour_km": 7.221,
+    "total_distance_km": 11.877,
+    "arrival_soc": 96.24,
+    "energy_used_kwh": 1.691
   },
   {
     "station_id": "17990",
@@ -2394,6 +2828,8 @@
     "best_route_idx": 3006,
     "detour_lat": 18.5529385402619,
     "detour_lon": 73.88951990750871,
+    "source_to_detour_km": 150.075,
+    "total_distance_km": 151.074,
     "arrival_soc": 36.92,
     "energy_used_kwh": 28.388
   },
@@ -2405,6 +2841,8 @@
     "best_route_idx": 130,
     "detour_lat": 19.071502112697704,
     "detour_lon": 72.90858415019588,
+    "source_to_detour_km": 6.478,
+    "total_distance_km": 11.284,
     "arrival_soc": 96.43,
     "energy_used_kwh": 1.605
   },
@@ -2413,11 +2851,13 @@
     "name": "Trent Vios Tower (Private Charger)",
     "station_lat": 19.039479,
     "station_lon": 72.879793,
-    "best_route_idx": 144,
-    "detour_lat": 19.06640400514969,
-    "detour_lon": 72.91015136474118,
-    "arrival_soc": 96.35,
-    "energy_used_kwh": 1.643
+    "best_route_idx": 145,
+    "detour_lat": 19.065986021957105,
+    "detour_lon": 72.91028978733898,
+    "source_to_detour_km": 7.221,
+    "total_distance_km": 11.575,
+    "arrival_soc": 96.34,
+    "energy_used_kwh": 1.649
   },
   {
     "station_id": "18014",
@@ -2427,6 +2867,8 @@
     "best_route_idx": 2865,
     "detour_lat": 18.57532242991535,
     "detour_lon": 73.83619400518971,
+    "source_to_detour_km": 143.052,
+    "total_distance_km": 146.43,
     "arrival_soc": 38.68,
     "energy_used_kwh": 27.595
   },
@@ -2435,22 +2877,26 @@
     "name": "Statiq Westend Center One Station",
     "station_lat": 18.563307,
     "station_lon": 73.807434,
-    "best_route_idx": 2866,
-    "detour_lat": 18.57489296265701,
-    "detour_lon": 73.83633258165548,
-    "arrival_soc": 38.66,
-    "energy_used_kwh": 27.605
+    "best_route_idx": 2867,
+    "detour_lat": 18.574470948161025,
+    "detour_lon": 73.83649634847482,
+    "source_to_detour_km": 143.152,
+    "total_distance_km": 146.457,
+    "arrival_soc": 38.6,
+    "energy_used_kwh": 27.63
   },
   {
     "station_id": "18945",
     "name": "Statiq Nexus Westend Mall Station",
     "station_lat": 18.561817,
     "station_lon": 73.806984,
-    "best_route_idx": 2867,
-    "detour_lat": 18.574470948161025,
-    "detour_lon": 73.83649634847482,
-    "arrival_soc": 38.57,
-    "energy_used_kwh": 27.645
+    "best_route_idx": 2869,
+    "detour_lat": 18.57362691916906,
+    "detour_lon": 73.83682388211349,
+    "source_to_detour_km": 143.252,
+    "total_distance_km": 146.66,
+    "arrival_soc": 38.52,
+    "energy_used_kwh": 27.667
   },
   {
     "station_id": "18947",
@@ -2460,6 +2906,8 @@
     "best_route_idx": 2728,
     "detour_lat": 18.62794226222514,
     "detour_lon": 73.8043818464582,
+    "source_to_detour_km": 136.203,
+    "total_distance_km": 136.403,
     "arrival_soc": 41.56,
     "energy_used_kwh": 26.298
   },
@@ -2468,11 +2916,13 @@
     "name": "Statiq Regenta SGS Greenotel Station",
     "station_lat": 18.755409,
     "station_lon": 73.408417,
-    "best_route_idx": 1721,
-    "detour_lat": 18.76577351824093,
-    "detour_lon": 73.41247548835845,
-    "arrival_soc": 59.48,
-    "energy_used_kwh": 18.234
+    "best_route_idx": 1722,
+    "detour_lat": 18.765545732014242,
+    "detour_lon": 73.41288495302577,
+    "source_to_detour_km": 85.924,
+    "total_distance_km": 87.145,
+    "arrival_soc": 59.47,
+    "energy_used_kwh": 18.241
   },
   {
     "station_id": "18949",
@@ -2482,6 +2932,8 @@
     "best_route_idx": 1759,
     "detour_lat": 18.759386541264018,
     "detour_lon": 73.42891040520445,
+    "source_to_detour_km": 87.774,
+    "total_distance_km": 89.472,
     "arrival_soc": 58.73,
     "energy_used_kwh": 18.574
   },
@@ -2490,11 +2942,13 @@
     "name": "Statiq SS Regenta Greenotel Lonavala Station",
     "station_lat": 18.754999,
     "station_lon": 73.407997,
-    "best_route_idx": 1721,
-    "detour_lat": 18.76577351824093,
-    "detour_lon": 73.41247548835845,
-    "arrival_soc": 59.46,
-    "energy_used_kwh": 18.242
+    "best_route_idx": 1722,
+    "detour_lat": 18.765545732014242,
+    "detour_lon": 73.41288495302577,
+    "source_to_detour_km": 85.924,
+    "total_distance_km": 87.205,
+    "arrival_soc": 59.45,
+    "energy_used_kwh": 18.249
   },
   {
     "station_id": "18951",
@@ -2504,6 +2958,8 @@
     "best_route_idx": 2428,
     "detour_lat": 18.700098459406867,
     "detour_lon": 73.6930423801613,
+    "source_to_detour_km": 121.208,
+    "total_distance_km": 121.26,
     "arrival_soc": 46.57,
     "energy_used_kwh": 24.043
   },
@@ -2515,6 +2971,8 @@
     "best_route_idx": 3005,
     "detour_lat": 18.552742709170882,
     "detour_lon": 73.88916772901986,
+    "source_to_detour_km": 150.032,
+    "total_distance_km": 154.12,
     "arrival_soc": 35.96,
     "energy_used_kwh": 28.819
   },
@@ -2523,11 +2981,13 @@
     "name": "Sharvil Ventures",
     "station_lat": 18.997056,
     "station_lon": 73.117936,
-    "best_route_idx": 722,
-    "detour_lat": 19.00562513475298,
-    "detour_lon": 73.12495622789012,
-    "arrival_soc": 87.5,
-    "energy_used_kwh": 5.625
+    "best_route_idx": 724,
+    "detour_lat": 19.004973925862384,
+    "detour_lon": 73.12561223684625,
+    "source_to_detour_km": 36.14,
+    "total_distance_km": 37.334,
+    "arrival_soc": 87.49,
+    "energy_used_kwh": 5.629
   },
   {
     "station_id": "19209",
@@ -2537,6 +2997,8 @@
     "best_route_idx": 593,
     "detour_lat": 19.038365159387244,
     "detour_lon": 73.07503906944488,
+    "source_to_detour_km": 29.591,
+    "total_distance_km": 31.021,
     "arrival_soc": 89.65,
     "energy_used_kwh": 4.659
   },
@@ -2548,6 +3010,8 @@
     "best_route_idx": 874,
     "detour_lat": 18.950373693158667,
     "detour_lon": 73.15486949354562,
+    "source_to_detour_km": 43.637,
+    "total_distance_km": 46.144,
     "arrival_soc": 84.45,
     "energy_used_kwh": 6.996
   },
@@ -2556,33 +3020,39 @@
     "name": "2000093-AMOL AUTOMOBILES",
     "station_lat": 18.951748,
     "station_lon": 73.174787,
-    "best_route_idx": 854,
-    "detour_lat": 18.958975708618684,
-    "detour_lon": 73.15739147309537,
-    "arrival_soc": 84.96,
-    "energy_used_kwh": 6.767
+    "best_route_idx": 855,
+    "detour_lat": 18.958550956253585,
+    "detour_lon": 73.15723542931869,
+    "source_to_detour_km": 42.688,
+    "total_distance_km": 44.683,
+    "arrival_soc": 84.95,
+    "energy_used_kwh": 6.774
   },
   {
     "station_id": "19505",
     "name": "2000113-KRISHNA PETROLEUM",
     "station_lat": 18.834624,
     "station_lon": 73.287394,
-    "best_route_idx": 1278,
-    "detour_lat": 18.815929545220307,
-    "detour_lon": 73.27436077984821,
-    "arrival_soc": 75.42,
-    "energy_used_kwh": 11.059
+    "best_route_idx": 1275,
+    "detour_lat": 18.816695005256364,
+    "detour_lon": 73.27318728533011,
+    "source_to_detour_km": 63.683,
+    "total_distance_km": 66.175,
+    "arrival_soc": 75.43,
+    "energy_used_kwh": 11.056
   },
   {
     "station_id": "19506",
     "name": "2000129-HEMKUNT AUTOMOBILES",
     "station_lat": 18.849055,
     "station_lon": 73.278063,
-    "best_route_idx": 1241,
-    "detour_lat": 18.82713431317942,
-    "detour_lon": 73.26168931691288,
-    "arrival_soc": 76.25,
-    "energy_used_kwh": 10.689
+    "best_route_idx": 1237,
+    "detour_lat": 18.828206944315003,
+    "detour_lon": 73.26016389476514,
+    "source_to_detour_km": 61.783,
+    "total_distance_km": 64.77,
+    "arrival_soc": 76.29,
+    "energy_used_kwh": 10.669
   },
   {
     "station_id": "19522",
@@ -2592,6 +3062,8 @@
     "best_route_idx": 561,
     "detour_lat": 19.03000626308031,
     "detour_lon": 73.06265224688995,
+    "source_to_detour_km": 27.991,
+    "total_distance_km": 28.186,
     "arrival_soc": 90.54,
     "energy_used_kwh": 4.255
   },
@@ -2603,6 +3075,8 @@
     "best_route_idx": 561,
     "detour_lat": 19.03000626308031,
     "detour_lon": 73.06265224688995,
+    "source_to_detour_km": 27.991,
+    "total_distance_km": 28.186,
     "arrival_soc": 90.54,
     "energy_used_kwh": 4.255
   },
@@ -2614,6 +3088,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 7.287,
     "arrival_soc": 97.69,
     "energy_used_kwh": 1.041
   },
@@ -2625,6 +3101,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.504,
     "arrival_soc": 96.37,
     "energy_used_kwh": 1.633
   },
@@ -2636,6 +3114,8 @@
     "best_route_idx": 143,
     "detour_lat": 19.066844576533995,
     "detour_lon": 72.91005618904144,
+    "source_to_detour_km": 7.123,
+    "total_distance_km": 9.92,
     "arrival_soc": 96.87,
     "energy_used_kwh": 1.408
   },
@@ -2647,6 +3127,8 @@
     "best_route_idx": 3085,
     "detour_lat": 18.578365687189162,
     "detour_lon": 73.90908864131775,
+    "source_to_detour_km": 154.01,
+    "total_distance_km": 158.238,
     "arrival_soc": 34.44,
     "energy_used_kwh": 29.502
   },
@@ -2655,22 +3137,26 @@
     "name": "GLIDA Kate Central Mall, Pune",
     "station_lat": 18.584247,
     "station_lon": 73.816234,
-    "best_route_idx": 2827,
-    "detour_lat": 18.591667383057914,
-    "detour_lon": 73.83106494846434,
-    "arrival_soc": 39.7,
-    "energy_used_kwh": 27.136
+    "best_route_idx": 2828,
+    "detour_lat": 18.59125359408724,
+    "detour_lon": 73.83125063088507,
+    "source_to_detour_km": 141.202,
+    "total_distance_km": 142.966,
+    "arrival_soc": 39.68,
+    "energy_used_kwh": 27.142
   },
   {
     "station_id": "20334",
     "name": "GLIDA Hyatt Regency Pune",
     "station_lat": 18.559788,
     "station_lon": 73.911839,
-    "best_route_idx": 3045,
-    "detour_lat": 18.568647462487895,
-    "detour_lon": 73.89717000146244,
-    "arrival_soc": 35.89,
-    "energy_used_kwh": 28.851
+    "best_route_idx": 3043,
+    "detour_lat": 18.5678895488485,
+    "detour_lon": 73.89665932168403,
+    "source_to_detour_km": 151.923,
+    "total_distance_km": 153.759,
+    "arrival_soc": 35.9,
+    "energy_used_kwh": 28.846
   },
   {
     "station_id": "20344",
@@ -2680,6 +3166,8 @@
     "best_route_idx": 149,
     "detour_lat": 19.06474363718011,
     "detour_lon": 72.91166588168839,
+    "source_to_detour_km": 7.421,
+    "total_distance_km": 9.19,
     "arrival_soc": 97.14,
     "energy_used_kwh": 1.288
   },
@@ -2691,6 +3179,8 @@
     "best_route_idx": 129,
     "detour_lat": 19.071765250740615,
     "detour_lon": 72.90896995409338,
+    "source_to_detour_km": 6.428,
+    "total_distance_km": 9.044,
     "arrival_soc": 97.15,
     "energy_used_kwh": 1.282
   },
@@ -2699,44 +3189,52 @@
     "name": "MH | Pune | Mittal Hyundai",
     "station_lat": 18.563571,
     "station_lon": 73.907059,
-    "best_route_idx": 3046,
-    "detour_lat": 18.569026419307594,
-    "detour_lon": 73.89742534135165,
-    "arrival_soc": 36.08,
-    "energy_used_kwh": 28.765
+    "best_route_idx": 3045,
+    "detour_lat": 18.568647462487895,
+    "detour_lon": 73.89717000146244,
+    "source_to_detour_km": 152.023,
+    "total_distance_km": 153.208,
+    "arrival_soc": 36.09,
+    "energy_used_kwh": 28.76
   },
   {
     "station_id": "20539",
     "name": "MH | Pune | Novotel Hotel",
     "station_lat": 18.558626,
     "station_lon": 73.910725,
-    "best_route_idx": 3041,
-    "detour_lat": 18.5671316352091,
-    "detour_lon": 73.8961486419056,
+    "best_route_idx": 3040,
+    "detour_lat": 18.566752678389403,
+    "detour_lon": 73.89589330201639,
+    "source_to_detour_km": 151.773,
+    "total_distance_km": 153.579,
     "arrival_soc": 35.97,
-    "energy_used_kwh": 28.813
+    "energy_used_kwh": 28.812
   },
   {
     "station_id": "20540",
     "name": "MH | Pune | ibis Pune Viman Nagar",
     "station_lat": 18.559603,
     "station_lon": 73.913056,
-    "best_route_idx": 3046,
-    "detour_lat": 18.569026419307594,
-    "detour_lon": 73.89742534135165,
-    "arrival_soc": 35.84,
-    "energy_used_kwh": 28.873
+    "best_route_idx": 3044,
+    "detour_lat": 18.568268505668197,
+    "detour_lon": 73.89691466157323,
+    "source_to_detour_km": 151.973,
+    "total_distance_km": 153.928,
+    "arrival_soc": 35.85,
+    "energy_used_kwh": 28.867
   },
   {
     "station_id": "20542",
     "name": "MH | Pune | JW Marriott - Pune",
     "station_lat": 18.531802,
     "station_lon": 73.82932,
-    "best_route_idx": 2918,
-    "detour_lat": 18.559886470412224,
-    "detour_lon": 73.85370626775554,
-    "arrival_soc": 37.46,
-    "energy_used_kwh": 28.145
+    "best_route_idx": 2919,
+    "detour_lat": 18.559482144681684,
+    "detour_lon": 73.85391382716547,
+    "source_to_detour_km": 145.748,
+    "total_distance_km": 149.772,
+    "arrival_soc": 37.45,
+    "energy_used_kwh": 28.149
   },
   {
     "station_id": "20543",
@@ -2746,6 +3244,8 @@
     "best_route_idx": 3006,
     "detour_lat": 18.5529385402619,
     "detour_lon": 73.88951990750871,
+    "source_to_detour_km": 150.075,
+    "total_distance_km": 150.189,
     "arrival_soc": 37.19,
     "energy_used_kwh": 28.264
   },
@@ -2757,6 +3257,8 @@
     "best_route_idx": 3006,
     "detour_lat": 18.5529385402619,
     "detour_lon": 73.88951990750871,
+    "source_to_detour_km": 150.075,
+    "total_distance_km": 152.545,
     "arrival_soc": 36.46,
     "energy_used_kwh": 28.594
   },
@@ -2768,6 +3270,8 @@
     "best_route_idx": 3006,
     "detour_lat": 18.5529385402619,
     "detour_lon": 73.88951990750871,
+    "source_to_detour_km": 150.075,
+    "total_distance_km": 153.222,
     "arrival_soc": 36.25,
     "energy_used_kwh": 28.689
   },
@@ -2779,6 +3283,8 @@
     "best_route_idx": 3082,
     "detour_lat": 18.5781994878616,
     "detour_lon": 73.90769063447247,
+    "source_to_detour_km": 153.86,
+    "total_distance_km": 158.552,
     "arrival_soc": 34.33,
     "energy_used_kwh": 29.551
   },
@@ -2790,6 +3296,8 @@
     "best_route_idx": 1743,
     "detour_lat": 18.761535254368646,
     "detour_lon": 73.421907033578,
+    "source_to_detour_km": 86.974,
+    "total_distance_km": 87.214,
     "arrival_soc": 59.41,
     "energy_used_kwh": 18.264
   },
@@ -2801,6 +3309,8 @@
     "best_route_idx": 1618,
     "detour_lat": 18.760866023090696,
     "detour_lon": 73.37149176669898,
+    "source_to_detour_km": 80.735,
+    "total_distance_km": 80.828,
     "arrival_soc": 62.7,
     "energy_used_kwh": 16.785
   },
@@ -2809,11 +3319,13 @@
     "name": "MH | Palaspe | Hotel 7/12 Panvel - Palaspe",
     "station_lat": 18.916025,
     "station_lon": 73.12253,
-    "best_route_idx": 911,
-    "detour_lat": 18.93433639836741,
-    "detour_lon": 73.159443157551,
-    "arrival_soc": 83.11,
-    "energy_used_kwh": 7.602
+    "best_route_idx": 912,
+    "detour_lat": 18.93390736767445,
+    "detour_lon": 73.15958549950987,
+    "source_to_detour_km": 45.537,
+    "total_distance_km": 49.913,
+    "arrival_soc": 83.1,
+    "energy_used_kwh": 7.606
   },
   {
     "station_id": "20560",
@@ -2823,6 +3335,8 @@
     "best_route_idx": 391,
     "detour_lat": 19.067087375891916,
     "detour_lon": 73.01838603813412,
+    "source_to_detour_km": 19.515,
+    "total_distance_km": 19.757,
     "arrival_soc": 93.45,
     "energy_used_kwh": 2.949
   },
@@ -2834,6 +3348,8 @@
     "best_route_idx": 391,
     "detour_lat": 19.067087375891916,
     "detour_lon": 73.01838603813412,
+    "source_to_detour_km": 19.515,
+    "total_distance_km": 19.676,
     "arrival_soc": 93.47,
     "energy_used_kwh": 2.938
   },
@@ -2845,6 +3361,8 @@
     "best_route_idx": 396,
     "detour_lat": 19.06598555021836,
     "detour_lon": 73.01990967638922,
+    "source_to_detour_km": 19.754,
+    "total_distance_km": 20.617,
     "arrival_soc": 93.17,
     "energy_used_kwh": 3.075
   },
@@ -2853,11 +3371,13 @@
     "name": "MH | Mumbai | JW Marriott Sahar",
     "station_lat": 19.102518,
     "station_lon": 72.878254,
-    "best_route_idx": 129,
-    "detour_lat": 19.071765250740615,
-    "detour_lon": 72.90896995409338,
-    "arrival_soc": 96.5,
-    "energy_used_kwh": 1.574
+    "best_route_idx": 128,
+    "detour_lat": 19.072028388783522,
+    "detour_lon": 72.90935575799088,
+    "source_to_detour_km": 6.378,
+    "total_distance_km": 11.087,
+    "arrival_soc": 96.51,
+    "energy_used_kwh": 1.573
   },
   {
     "station_id": "20567",
@@ -2867,6 +3387,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 3.681,
     "arrival_soc": 98.85,
     "energy_used_kwh": 0.516
   },
@@ -2878,6 +3400,8 @@
     "best_route_idx": 349,
     "detour_lat": 19.068628794389944,
     "detour_lon": 72.998476268813,
+    "source_to_detour_km": 17.416,
+    "total_distance_km": 17.7,
     "arrival_soc": 94.22,
     "energy_used_kwh": 2.601
   },
@@ -2889,6 +3413,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 1.72,
     "arrival_soc": 99.46,
     "energy_used_kwh": 0.241
   },
@@ -2897,11 +3423,13 @@
     "name": "MH | Mumbai | Arsh Hyundai",
     "station_lat": 19.050023,
     "station_lon": 72.876975,
-    "best_route_idx": 133,
-    "detour_lat": 19.07055246030818,
-    "detour_lon": 72.90778768140656,
-    "arrival_soc": 96.64,
-    "energy_used_kwh": 1.514
+    "best_route_idx": 143,
+    "detour_lat": 19.066844576533995,
+    "detour_lon": 72.91005618904144,
+    "source_to_detour_km": 7.123,
+    "total_distance_km": 11.071,
+    "arrival_soc": 96.51,
+    "energy_used_kwh": 1.569
   },
   {
     "station_id": "20575",
@@ -2911,6 +3439,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.461,
     "arrival_soc": 96.39,
     "energy_used_kwh": 1.627
   },
@@ -2922,6 +3452,8 @@
     "best_route_idx": 6,
     "detour_lat": 19.108018820761853,
     "detour_lon": 72.92406856318432,
+    "source_to_detour_km": 0.3,
+    "total_distance_km": 4.547,
     "arrival_soc": 98.63,
     "energy_used_kwh": 0.615
   },
@@ -2933,6 +3465,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -2944,6 +3478,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -2955,6 +3491,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -2966,6 +3504,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.025,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -2977,6 +3517,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.026,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -2988,6 +3530,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.024,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.003
   },
@@ -2999,6 +3543,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.024,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.003
   },
@@ -3010,6 +3556,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.024,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.003
   },
@@ -3021,6 +3569,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.024,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.003
   },
@@ -3032,6 +3582,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.024,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.003
   },
@@ -3043,6 +3595,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3054,6 +3608,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3065,6 +3621,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3076,6 +3634,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3087,6 +3647,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.026,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3098,6 +3660,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.026,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3109,6 +3673,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.026,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3120,6 +3686,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3131,6 +3699,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.03,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3142,6 +3712,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.029,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3153,6 +3725,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.037,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.005
   },
@@ -3164,6 +3738,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.023,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.003
   },
@@ -3175,6 +3751,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3186,6 +3764,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.03,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3197,6 +3777,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.024,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.003
   },
@@ -3205,33 +3787,39 @@
     "name": "MH | Pune | TML",
     "station_lat": 18.6353,
     "station_lon": 73.7878,
-    "best_route_idx": 2690,
-    "detour_lat": 18.6412325383496,
-    "detour_lon": 73.79304825789671,
-    "arrival_soc": 41.96,
-    "energy_used_kwh": 26.118
+    "best_route_idx": 2691,
+    "detour_lat": 18.64088312230498,
+    "detour_lon": 73.79334695656281,
+    "source_to_detour_km": 134.353,
+    "total_distance_km": 135.206,
+    "arrival_soc": 41.95,
+    "energy_used_kwh": 26.121
   },
   {
     "station_id": "21019",
     "name": "gay",
     "station_lat": 19.0310496,
     "station_lon": 72.904529,
-    "best_route_idx": 157,
-    "detour_lat": 19.06304014381613,
-    "detour_lon": 72.91493193599526,
-    "arrival_soc": 96.32,
-    "energy_used_kwh": 1.655
+    "best_route_idx": 159,
+    "detour_lat": 19.062731834345122,
+    "detour_lon": 72.9158257743776,
+    "source_to_detour_km": 7.921,
+    "total_distance_km": 11.639,
+    "arrival_soc": 96.28,
+    "energy_used_kwh": 1.674
   },
   {
     "station_id": "21020",
     "name": "tx",
     "station_lat": 19.0310496,
     "station_lon": 72.904529,
-    "best_route_idx": 157,
-    "detour_lat": 19.06304014381613,
-    "detour_lon": 72.91493193599526,
-    "arrival_soc": 96.32,
-    "energy_used_kwh": 1.655
+    "best_route_idx": 159,
+    "detour_lat": 19.062731834345122,
+    "detour_lon": 72.9158257743776,
+    "source_to_detour_km": 7.921,
+    "total_distance_km": 11.639,
+    "arrival_soc": 96.28,
+    "energy_used_kwh": 1.674
   },
   {
     "station_id": "21026",
@@ -3241,6 +3829,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.028,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3252,6 +3842,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.026,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3263,6 +3855,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.026,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3274,6 +3868,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.138,
     "arrival_soc": 99.96,
     "energy_used_kwh": 0.019
   },
@@ -3285,6 +3881,8 @@
     "best_route_idx": 4,
     "detour_lat": 19.1088058805079,
     "detour_lon": 72.92452904212288,
+    "source_to_detour_km": 0.2,
+    "total_distance_km": 0.222,
     "arrival_soc": 99.97,
     "energy_used_kwh": 0.015
   },
@@ -3293,44 +3891,52 @@
     "name": "hay",
     "station_lat": 19.0312313,
     "station_lon": 72.9041018,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.33,
-    "energy_used_kwh": 1.653
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.585,
+    "arrival_soc": 96.3,
+    "energy_used_kwh": 1.667
   },
   {
     "station_id": "21035",
     "name": " gyc",
     "station_lat": 19.0312643,
     "station_lon": 72.90411,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.33,
-    "energy_used_kwh": 1.653
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.581,
+    "arrival_soc": 96.3,
+    "energy_used_kwh": 1.666
   },
   {
     "station_id": "21036",
     "name": "tsts",
     "station_lat": 19.0312609,
     "station_lon": 72.9041023,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.33,
-    "energy_used_kwh": 1.653
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.582,
+    "arrival_soc": 96.3,
+    "energy_used_kwh": 1.666
   },
   {
     "station_id": "21037",
     "name": "wr",
     "station_lat": 19.0312837,
     "station_lon": 72.9040927,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.33,
-    "energy_used_kwh": 1.653
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.58,
+    "arrival_soc": 96.3,
+    "energy_used_kwh": 1.666
   },
   {
     "station_id": "21056",
@@ -3340,6 +3946,8 @@
     "best_route_idx": 24,
     "detour_lat": 19.110142960545964,
     "detour_lon": 72.92959614550543,
+    "source_to_detour_km": 1.187,
+    "total_distance_km": 1.749,
     "arrival_soc": 99.5,
     "energy_used_kwh": 0.224
   },
@@ -3351,6 +3959,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.038,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.005
   },
@@ -3362,6 +3972,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.038,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.005
   },
@@ -3373,6 +3985,8 @@
     "best_route_idx": 129,
     "detour_lat": 19.071765250740615,
     "detour_lon": 72.90896995409338,
+    "source_to_detour_km": 6.428,
+    "total_distance_km": 10.925,
     "arrival_soc": 96.57,
     "energy_used_kwh": 1.546
   },
@@ -3381,22 +3995,26 @@
     "name": "dheeraj kawal",
     "station_lat": 18.995650308,
     "station_lon": 73.1051377873,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.64,
-    "energy_used_kwh": 5.563
+    "best_route_idx": 701,
+    "detour_lat": 19.012008100325833,
+    "detour_lon": 73.11764234035769,
+    "source_to_detour_km": 34.99,
+    "total_distance_km": 37.234,
+    "arrival_soc": 87.57,
+    "energy_used_kwh": 5.594
   },
   {
     "station_id": "21078",
     "name": "dheeraj kawal",
     "station_lat": 18.995650308,
     "station_lon": 73.1051377873,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.64,
-    "energy_used_kwh": 5.563
+    "best_route_idx": 701,
+    "detour_lat": 19.012008100325833,
+    "detour_lon": 73.11764234035769,
+    "source_to_detour_km": 34.99,
+    "total_distance_km": 37.234,
+    "arrival_soc": 87.57,
+    "energy_used_kwh": 5.594
   },
   {
     "station_id": "21084",
@@ -3406,6 +4024,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.769,
     "arrival_soc": 99.76,
     "energy_used_kwh": 0.108
   },
@@ -3414,11 +4034,13 @@
     "name": "utt",
     "station_lat": 19.0309989,
     "station_lon": 72.9041267,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.32,
-    "energy_used_kwh": 1.657
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.609,
+    "arrival_soc": 96.29,
+    "energy_used_kwh": 1.67
   },
   {
     "station_id": "21096",
@@ -3428,6 +4050,8 @@
     "best_route_idx": 130,
     "detour_lat": 19.071502112697704,
     "detour_lon": 72.90858415019588,
+    "source_to_detour_km": 6.478,
+    "total_distance_km": 9.762,
     "arrival_soc": 96.91,
     "energy_used_kwh": 1.392
   },
@@ -3439,6 +4063,8 @@
     "best_route_idx": 71,
     "detour_lat": 19.092153456223773,
     "detour_lon": 72.92561344396074,
+    "source_to_detour_km": 3.529,
+    "total_distance_km": 3.936,
     "arrival_soc": 98.79,
     "energy_used_kwh": 0.544
   },
@@ -3450,6 +4076,8 @@
     "best_route_idx": 129,
     "detour_lat": 19.071765250740615,
     "detour_lon": 72.90896995409338,
+    "source_to_detour_km": 6.428,
+    "total_distance_km": 10.925,
     "arrival_soc": 96.57,
     "energy_used_kwh": 1.546
   },
@@ -3461,6 +4089,8 @@
     "best_route_idx": 3082,
     "detour_lat": 18.5781994878616,
     "detour_lon": 73.90769063447247,
+    "source_to_detour_km": 153.86,
+    "total_distance_km": 154.042,
     "arrival_soc": 35.74,
     "energy_used_kwh": 28.919
   },
@@ -3472,6 +4102,8 @@
     "best_route_idx": 476,
     "detour_lat": 19.033035040455566,
     "detour_lon": 73.02978972353849,
+    "source_to_detour_km": 23.752,
+    "total_distance_km": 24.825,
     "arrival_soc": 91.65,
     "energy_used_kwh": 3.758
   },
@@ -3483,6 +4115,8 @@
     "best_route_idx": 132,
     "detour_lat": 19.070975836611886,
     "detour_lon": 72.90781254240088,
+    "source_to_detour_km": 6.578,
+    "total_distance_km": 11.008,
     "arrival_soc": 96.53,
     "energy_used_kwh": 1.563
   },
@@ -3494,6 +4128,8 @@
     "best_route_idx": 6,
     "detour_lat": 19.108018820761853,
     "detour_lon": 72.92406856318432,
+    "source_to_detour_km": 0.3,
+    "total_distance_km": 4.027,
     "arrival_soc": 98.8,
     "energy_used_kwh": 0.541
   },
@@ -3505,6 +4141,8 @@
     "best_route_idx": 29,
     "detour_lat": 19.109321045924357,
     "detour_lon": 72.93181046645861,
+    "source_to_detour_km": 1.437,
+    "total_distance_km": 2.152,
     "arrival_soc": 99.43,
     "energy_used_kwh": 0.259
   },
@@ -3516,6 +4154,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.015,
     "arrival_soc": 100.0,
     "energy_used_kwh": 0.002
   },
@@ -3527,6 +4167,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.031,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3538,6 +4180,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.027,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3546,22 +4190,26 @@
     "name": "Thane",
     "station_lat": 18.9979955442,
     "station_lon": 73.1114816666,
-    "best_route_idx": 711,
-    "detour_lat": 19.009206783651248,
-    "detour_lon": 73.12134817863142,
-    "arrival_soc": 87.59,
-    "energy_used_kwh": 5.582
+    "best_route_idx": 713,
+    "detour_lat": 19.008555574760653,
+    "detour_lon": 73.12200418758755,
+    "source_to_detour_km": 35.59,
+    "total_distance_km": 37.203,
+    "arrival_soc": 87.56,
+    "energy_used_kwh": 5.598
   },
   {
     "station_id": "21194",
     "name": "Ummeed tower",
     "station_lat": 19.0256862813,
     "station_lon": 73.1581531093,
-    "best_route_idx": 735,
-    "detour_lat": 19.001379212024847,
-    "detour_lon": 73.12920516989408,
-    "arrival_soc": 86.38,
-    "energy_used_kwh": 6.129
+    "best_route_idx": 733,
+    "detour_lat": 19.00204348585471,
+    "detour_lon": 73.12856427714883,
+    "source_to_detour_km": 36.59,
+    "total_distance_km": 40.663,
+    "arrival_soc": 86.41,
+    "energy_used_kwh": 6.116
   },
   {
     "station_id": "21196",
@@ -3571,6 +4219,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.031,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3582,6 +4232,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.031,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3590,33 +4242,39 @@
     "name": "Public charging station",
     "station_lat": 19.0300038657,
     "station_lon": 73.1471647695,
-    "best_route_idx": 717,
-    "detour_lat": 19.007253156979463,
-    "detour_lon": 73.1233162054998,
-    "arrival_soc": 86.89,
-    "energy_used_kwh": 5.901
+    "best_route_idx": 713,
+    "detour_lat": 19.008555574760653,
+    "detour_lon": 73.12200418758755,
+    "source_to_detour_km": 35.59,
+    "total_distance_km": 39.151,
+    "arrival_soc": 86.95,
+    "energy_used_kwh": 5.872
   },
   {
     "station_id": "21227",
     "name": "Public charging station",
     "station_lat": 18.9960085318,
     "station_lon": 73.1054390217,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.65,
-    "energy_used_kwh": 5.556
+    "best_route_idx": 701,
+    "detour_lat": 19.012008100325833,
+    "detour_lon": 73.11764234035769,
+    "source_to_detour_km": 34.99,
+    "total_distance_km": 37.183,
+    "arrival_soc": 87.59,
+    "energy_used_kwh": 5.587
   },
   {
     "station_id": "21228",
     "name": "EV gateway charging station",
     "station_lat": 18.9955451879,
     "station_lon": 73.1051696765,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.64,
-    "energy_used_kwh": 5.564
+    "best_route_idx": 701,
+    "detour_lat": 19.012008100325833,
+    "detour_lon": 73.11764234035769,
+    "source_to_detour_km": 34.99,
+    "total_distance_km": 37.242,
+    "arrival_soc": 87.57,
+    "energy_used_kwh": 5.595
   },
   {
     "station_id": "21229",
@@ -3626,6 +4284,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.03,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3637,6 +4297,8 @@
     "best_route_idx": 0,
     "detour_lat": 19.11038,
     "detour_lon": 72.92545,
+    "source_to_detour_km": 0.0,
+    "total_distance_km": 0.028,
     "arrival_soc": 99.99,
     "energy_used_kwh": 0.004
   },
@@ -3645,142 +4307,168 @@
     "name": "hshs",
     "station_lat": 19.0311627,
     "station_lon": 72.9041286,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.32,
-    "energy_used_kwh": 1.654
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.591,
+    "arrival_soc": 96.29,
+    "energy_used_kwh": 1.667
   },
   {
     "station_id": "21239",
     "name": "nss",
     "station_lat": 19.031085,
     "station_lon": 72.904117,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.32,
-    "energy_used_kwh": 1.655
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.6,
+    "arrival_soc": 96.29,
+    "energy_used_kwh": 1.669
   },
   {
     "station_id": "21240",
     "name": "scs",
     "station_lat": 19.0311521,
     "station_lon": 72.9041281,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.32,
-    "energy_used_kwh": 1.654
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.593,
+    "arrival_soc": 96.29,
+    "energy_used_kwh": 1.668
   },
   {
     "station_id": "21241",
     "name": "yggy",
     "station_lat": 19.031069,
     "station_lon": 72.9040955,
-    "best_route_idx": 155,
-    "detour_lat": 19.06334845328714,
-    "detour_lon": 72.91403809761292,
-    "arrival_soc": 96.32,
-    "energy_used_kwh": 1.656
+    "best_route_idx": 158,
+    "detour_lat": 19.062885989080627,
+    "detour_lon": 72.91537885518642,
+    "source_to_detour_km": 7.871,
+    "total_distance_km": 11.602,
+    "arrival_soc": 96.29,
+    "energy_used_kwh": 1.669
   },
   {
     "station_id": "21251",
     "name": "public charging stations",
     "station_lat": 18.9953277,
     "station_lon": 73.1046402,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.62,
-    "energy_used_kwh": 5.571
+    "best_route_idx": 699,
+    "detour_lat": 19.01254465862408,
+    "detour_lon": 73.1168789760155,
+    "source_to_detour_km": 34.89,
+    "total_distance_km": 37.197,
+    "arrival_soc": 87.56,
+    "energy_used_kwh": 5.6
   },
   {
     "station_id": "21252",
     "name": "Station owner charging station",
     "station_lat": 18.9907845961,
     "station_lon": 73.1100718305,
-    "best_route_idx": 720,
-    "detour_lat": 19.00627634364357,
-    "detour_lon": 73.124300218934,
-    "arrival_soc": 87.22,
-    "energy_used_kwh": 5.753
+    "best_route_idx": 722,
+    "detour_lat": 19.00562513475298,
+    "detour_lon": 73.12495622789012,
+    "source_to_detour_km": 36.04,
+    "total_distance_km": 38.314,
+    "arrival_soc": 87.17,
+    "energy_used_kwh": 5.775
   },
   {
     "station_id": "21253",
     "name": "TATA power charging station",
     "station_lat": 18.9953169,
     "station_lon": 73.1046446,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.62,
-    "energy_used_kwh": 5.571
+    "best_route_idx": 699,
+    "detour_lat": 19.01254465862408,
+    "detour_lon": 73.1168789760155,
+    "source_to_detour_km": 34.89,
+    "total_distance_km": 37.197,
+    "arrival_soc": 87.56,
+    "energy_used_kwh": 5.6
   },
   {
     "station_id": "21254",
     "name": "Tata power charging station",
     "station_lat": 18.9988590871,
     "station_lon": 73.1095112488,
-    "best_route_idx": 701,
-    "detour_lat": 19.012008100325833,
-    "detour_lon": 73.11764234035769,
-    "arrival_soc": 87.74,
-    "energy_used_kwh": 5.516
+    "best_route_idx": 703,
+    "detour_lat": 19.01147154202759,
+    "detour_lon": 73.11840570469988,
+    "source_to_detour_km": 35.09,
+    "total_distance_km": 36.776,
+    "arrival_soc": 87.69,
+    "energy_used_kwh": 5.539
   },
   {
     "station_id": "21255",
     "name": "public station",
     "station_lat": 18.9953766,
     "station_lon": 73.1046942,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.62,
-    "energy_used_kwh": 5.57
+    "best_route_idx": 699,
+    "detour_lat": 19.01254465862408,
+    "detour_lon": 73.1168789760155,
+    "source_to_detour_km": 34.89,
+    "total_distance_km": 37.189,
+    "arrival_soc": 87.56,
+    "energy_used_kwh": 5.599
   },
   {
     "station_id": "21256",
     "name": "jcjchf",
     "station_lat": 18.9953642,
     "station_lon": 73.1046918,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.62,
-    "energy_used_kwh": 5.57
+    "best_route_idx": 699,
+    "detour_lat": 19.01254465862408,
+    "detour_lon": 73.1168789760155,
+    "source_to_detour_km": 34.89,
+    "total_distance_km": 37.19,
+    "arrival_soc": 87.56,
+    "energy_used_kwh": 5.599
   },
   {
     "station_id": "21263",
     "name": "fufuiggi",
     "station_lat": 18.9961127896,
     "station_lon": 73.111127615,
-    "best_route_idx": 713,
-    "detour_lat": 19.008555574760653,
-    "detour_lon": 73.12200418758755,
-    "arrival_soc": 87.5,
-    "energy_used_kwh": 5.624
+    "best_route_idx": 716,
+    "detour_lat": 19.00757876142476,
+    "detour_lon": 73.12298820102174,
+    "source_to_detour_km": 35.74,
+    "total_distance_km": 37.523,
+    "arrival_soc": 87.45,
+    "energy_used_kwh": 5.649
   },
   {
     "station_id": "21264",
     "name": "EV onwer station name",
     "station_lat": 18.9997051899,
     "station_lon": 73.1109378487,
-    "best_route_idx": 702,
-    "detour_lat": 19.01173982117671,
-    "detour_lon": 73.11802402252879,
-    "arrival_soc": 87.79,
-    "energy_used_kwh": 5.497
+    "best_route_idx": 705,
+    "detour_lat": 19.010934983729342,
+    "detour_lon": 73.11916906904207,
+    "source_to_detour_km": 35.19,
+    "total_distance_km": 36.709,
+    "arrival_soc": 87.69,
+    "energy_used_kwh": 5.541
   },
   {
     "station_id": "21266",
     "name": "gg",
     "station_lat": 18.9953671,
     "station_lon": 73.1046947,
-    "best_route_idx": 697,
-    "detour_lat": 19.013081216922323,
-    "detour_lon": 73.11611561167331,
-    "arrival_soc": 87.62,
-    "energy_used_kwh": 5.57
+    "best_route_idx": 699,
+    "detour_lat": 19.01254465862408,
+    "detour_lon": 73.1168789760155,
+    "source_to_detour_km": 34.89,
+    "total_distance_km": 37.19,
+    "arrival_soc": 87.56,
+    "energy_used_kwh": 5.599
   }
 ]

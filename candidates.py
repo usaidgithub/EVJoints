@@ -22,7 +22,7 @@ def haversine(lat1, lon1, lat2, lon2):
 
 
 # -----------------------------
-# FIX: Convert lat/lon → XY meters
+# Convert lat/lon → XY meters
 # -----------------------------
 def latlon_to_xy(lat, lon, ref_lat):
     """
@@ -61,6 +61,17 @@ print("✅ Route KDTree built in METERS")
 
 
 # -----------------------------
+# LOAD PREFIX ARRAYS
+# -----------------------------
+with open("prefix_arrays.json") as f:
+    prefix_data = json.load(f)
+
+cum_distance_m = prefix_data["cum_distance_m"]
+
+print("✅ Loaded prefix cumulative distance array")
+
+
+# -----------------------------
 # LOAD FILTERED STATIONS
 # -----------------------------
 with open("relevant_stations_5km.json") as f:
@@ -93,16 +104,35 @@ for station in stations:
         route_lat = route_points[idx]["lat"]
         route_lon = route_points[idx]["lng"]
 
-        # True haversine distance check
-        dist_km = haversine(lat, lon, route_lat, route_lon)
+        # -----------------------------
+        # (1) Station → Detour distance (off-route)
+        # -----------------------------
+        detour_to_station_km = haversine(lat, lon, route_lat, route_lon)
 
-        # Reject wrong far matches
-        if dist_km > MAX_VALID_KM:
+        if detour_to_station_km > MAX_VALID_KM:
             continue
+
+        # -----------------------------
+        # (2) Source → Detour distance (on-route, from prefix)
+        # -----------------------------
+        source_to_detour_km = cum_distance_m[idx] / 1000
+
+        # -----------------------------
+        # (3) Total distance estimate
+        # -----------------------------
+        total_km = source_to_detour_km + detour_to_station_km
 
         candidates.append({
             "route_idx": int(idx),
-            "distance_km": round(dist_km, 3)
+
+            # Distance from station to route point
+            "detour_to_station_km": round(detour_to_station_km, 3),
+
+            # Distance from source to detour point (route-following)
+            "source_to_detour_km": round(source_to_detour_km, 3),
+
+            # Total travel distance
+            "total_distance_km": round(total_km, 3)
         })
 
     # Attach candidate list
@@ -115,7 +145,7 @@ for station in stations:
 with open("stations_with_candidates.json", "w", encoding="utf-8") as f:
     json.dump(stations, f, indent=2)
 
-print("\n✅ STEP 7 DONE (Fixed)")
+print("\n✅ STEP 7 DONE (Upgraded with Prefix Distance)")
 print("Saved → stations_with_candidates.json")
 
 

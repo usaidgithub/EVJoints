@@ -63,13 +63,33 @@ def energy_to_index(i):
 
 
 # -----------------------------
-# STEP 8: ENERGY FOR EACH DETOUR POINT
+# STEP 8: ENERGY + DISTANCE FOR EACH DETOUR POINT
 # -----------------------------
 for station in stations:
 
     for cand in station["candidate_detours"]:
         idx = cand["route_idx"]
 
+        # -----------------------------
+        # DISTANCE FROM PREFIX ARRAY
+        # -----------------------------
+        source_to_detour_km = cum_distance[idx] / 1000
+
+        # Add it explicitly
+        cand["source_to_detour_km"] = round(source_to_detour_km, 3)
+
+        # Detour → station distance already exists
+        detour_to_station_km = cand.get("detour_to_station_km", cand.get("distance_km", 0))
+        cand["detour_to_station_km"] = round(detour_to_station_km, 3)
+
+        # Total travel distance
+        cand["total_distance_km"] = round(
+            source_to_detour_km + detour_to_station_km, 3
+        )
+
+        # -----------------------------
+        # ENERGY COMPUTATION
+        # -----------------------------
         cand["energy_from_source_kwh"] = energy_to_index(idx)
 
         # Battery used %
@@ -86,7 +106,7 @@ for station in stations:
 with open("stations_with_energy.json", "w", encoding="utf-8") as f:
     json.dump(stations, f, indent=2)
 
-print("✅ STEP 8 COMPLETE")
+print("✅ STEP 8 COMPLETE (Distance + Energy Included)")
 print("Saved → stations_with_energy.json")
 
 
@@ -100,6 +120,9 @@ print("Station:", s["name"])
 for c in s["candidate_detours"]:
     print(
         "Idx:", c["route_idx"],
+        "| Dist Source→Detour:", c["source_to_detour_km"], "km",
+        "| Detour→Station:", c["detour_to_station_km"], "km",
+        "| Total:", c["total_distance_km"], "km",
         "| Energy:", c["energy_from_source_kwh"], "kWh",
         "| SOC Remaining:", c["soc_remaining_pct"], "%"
     )

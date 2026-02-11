@@ -1,30 +1,8 @@
 import json
 import folium
-import math
 
 # -----------------------------
-# HAVERSINE FUNCTION
-# -----------------------------
-def haversine(lat1, lon1, lat2, lon2):
-    R = 6371  # Earth radius in km
-
-    dlat = math.radians(lat2 - lat1)
-    dlon = math.radians(lon2 - lon1)
-
-    a = (
-        math.sin(dlat / 2) ** 2
-        + math.cos(math.radians(lat1))
-        * math.cos(math.radians(lat2))
-        * math.sin(dlon / 2) ** 2
-    )
-
-    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
-
-    return R * c
-
-
-# -----------------------------
-# LOAD ROUTE + STATIONS
+# LOAD ROUTE + FINAL MAP DATA
 # -----------------------------
 with open("sampled_with_elevation_50m.json") as f:
     route = json.load(f)
@@ -32,79 +10,93 @@ with open("sampled_with_elevation_50m.json") as f:
 with open("map_visualization.json") as f:
     stations = json.load(f)
 
-# Source point (route start)
-SOURCE = (19.110394346916838, 72.9255527657633)
+# -----------------------------
+# SOURCE POINT (Route Start)
+# -----------------------------
+SOURCE = (route[0]["lat"], route[0]["lng"])
 
 # Create map
 m = folium.Map(location=SOURCE, zoom_start=9)
 
 # -----------------------------
-# DRAW ROUTE POLYLINE
+# DRAW FULL ROUTE
 # -----------------------------
 route_coords = [(p["lat"], p["lng"]) for p in route]
 
-folium.PolyLine(route_coords, weight=4).add_to(m)
+folium.PolyLine(
+    route_coords,
+    weight=4,
+    tooltip="Main Route"
+).add_to(m)
 
 # -----------------------------
-# PLOT ALL STATIONS + DETOURS
+# MARK SOURCE POINT
 # -----------------------------
-SAMPLING_STEP_KM = 0.05  # 50m = 0.05 km
+folium.Marker(
+    location=SOURCE,
+    popup="🚩 Source Location",
+    icon=folium.Icon(icon="play")
+).add_to(m)
 
+# -----------------------------
+# PLOT STATIONS + DETOURS
+# -----------------------------
 for s in stations:
 
-    # --- Distance Source → Detour (approx via route index)
-    idx = s["best_route_idx"]
-    source_to_detour_km = idx * SAMPLING_STEP_KM
+    # Values already computed
+    source_to_detour = s["source_to_detour_km"]
+    total_distance = s["total_distance_km"]
+    soc = s["arrival_soc"]
+    energy = s["energy_used_kwh"]
 
-    # --- Distance Detour → Station (haversine)
-    detour_to_station_km = haversine(
-        s["detour_lat"], s["detour_lon"],
-        s["station_lat"], s["station_lon"]
-    )
-
-    # --- Total distance
-    total_distance_km = source_to_detour_km + detour_to_station_km
-
-    # -----------------------------
-    # Station Marker Popup
-    # -----------------------------
+    # Popup info
     popup_text = f"""
     <b>{s['name']}</b><br><br>
 
     🚗 <b>Distance Breakdown</b><br>
-    Source → Detour: {source_to_detour_km:.2f} km<br>
-    Detour → Station: {detour_to_station_km:.2f} km<br>
-    <b>Total Distance: {total_distance_km:.2f} km</b><br><br>
+    Source → Detour: {source_to_detour:.2f} km<br>
+    Total Trip Distance: {total_distance:.2f} km<br><br>
 
-    🔋 Arrival SOC: {s['arrival_soc']}%<br>
-    ⚡ Energy Used: {s['energy_used_kwh']} kWh<br>
+    🔋 Arrival SOC: <b>{soc}%</b><br>
+    ⚡ Energy Used: {energy} kWh<br>
     """
 
+    # -----------------------------
+    # STATION MARKER
+    # -----------------------------
     folium.Marker(
         location=[s["station_lat"], s["station_lon"]],
-        popup=popup_text
+        popup=popup_text,
+        icon=folium.Icon(icon="flash")
     ).add_to(m)
 
     # -----------------------------
-    # Detour Point Marker
+    # DETOUR POINT MARKER
     # -----------------------------
     folium.CircleMarker(
         location=[s["detour_lat"], s["detour_lon"]],
-        radius=4,
-        popup=f"Detour Point idx={idx}"
+        radius=5,
+        popup=f"📍 Detour Point (idx={s['best_route_idx']})",
+        color="red",
+        fill=True,
+        fill_opacity=0.8
     ).add_to(m)
 
     # -----------------------------
-    # Line Connection
+    # LINE: Detour → Station
     # -----------------------------
     folium.PolyLine(
         [(s["detour_lat"], s["detour_lon"]),
          (s["station_lat"], s["station_lon"])],
-        weight=2
+        weight=2,
+        color="orange",
+        tooltip="Detour Connection"
     ).add_to(m)
 
-# Save map
+# -----------------------------
+# SAVE FINAL MAP
+# -----------------------------
 m.save("detour_map.html")
 
-print("✅ Map saved: detour_map.html")
+print("✅ Final Detour Map Saved: detour_map.html")
 print("Total Stations Plotted:", len(stations))
