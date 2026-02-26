@@ -14,7 +14,7 @@ print("✅ Route loaded:", len(route_coords), "points")
 # -----------------------------
 # LOAD RELEVANT STATIONS
 # -----------------------------
-with open("relevant_stations_5km.json") as f:
+with open("filtered_stations.json") as f:
     stations = json.load(f)
 
 print("✅ Stations loaded:", len(stations))
@@ -51,9 +51,8 @@ folium.Marker(
     popup="DESTINATION (Pune)",
     icon=folium.Icon(color="red")
 ).add_to(m)
-
 # -----------------------------
-# ADD STATION MARKERS
+# ADD STATION MARKERS (Clickable)
 # -----------------------------
 for s in stations:
     lat = float(s["latitude"])
@@ -69,13 +68,11 @@ for s in stations:
     Distance to Route: {dist} km
     """
 
-    folium.CircleMarker(
+    folium.Marker(
         location=(lat, lon),
-        radius=5,
-        color="orange",
-        fill=True,
-        fill_opacity=0.8,
-        popup=folium.Popup(popup_text, max_width=300)
+        popup=folium.Popup(popup_text, max_width=300),
+        tooltip=name,   # shows name on hover
+        icon=folium.Icon(color="orange", icon="bolt", prefix="fa")
     ).add_to(m)
 
 # -----------------------------
